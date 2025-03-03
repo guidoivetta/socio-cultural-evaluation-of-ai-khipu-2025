@@ -1,0 +1,24 @@
+source_country,non_stereotype,stereotype,unsure,mean_offensive_score,identity,attribute,row_count,translated_identity,translated_attribute_list,identity_country_name
+Antigua and Barbuda,0,3,0,2.5,Guatemala,sdf,4,Guatemala,sdf,Guatemala
+Antigua and Barbuda,0,3,0,2.5,Guatemala,sdf,4,Guatemala,sdf,Guatemala
+Andorra,0,3,0,2.5,India,asldkf,5,India,asldkf,India
+Andorra,0,3,0,2.5,India,sdf,5,India,sdf,India
+Andorra,0,3,0,2.5,India,sd,5,India,sd,India
+Argentina,0,3,0,2.5,Alemania,Fútbol,4,Alemania,Fútbol,Alemania
+Argentina,0,3,0,2.5,Alemania,Ventajeros,4,Alemania,Ventajeros,Alemania
+United States,0,3,0,2.5,Alemania,power,2,Alemania,power,Alemania
+Albania,0,3,0,2.5,the United States,sdf,3,the United States,sdf,the United States
+Australia,0,3,0,2.5,the United States,guns,5,the United States,guns,the United States
+Australia,0,3,0,2.5,Austria,chocolate,5,Austria,chocolate,Austria
+Australia,0,3,0,2.5,Austria, hitler,5,Austria, hitler,Austria
+Antigua and Barbuda,0,3,0,2.5,Armenia,tight,4,Armenia,tight,Armenia
+Antigua and Barbuda,0,3,0,2.5,The Bahamas,tight,4,The Bahamas,tight,The Bahamas
+Andorra,0,3,0,2.5,Argentina,spiritual,5,Argentina,spiritual,Argentina
+Andorra,0,3,0,2.5,Austria,spiritual,5,Austria,spiritual,Austria
+Argentina,0,3,0,2.5,Argentina,manage money well,4,Argentina,manage money well,Argentina
+Argentina,0,3,0,2.5,Argentina,manage money well,4,Argentina,manage money well,Argentina
+United States,0,3,0,2.5,United Kingdom,manage money well,2,United Kingdom,manage money well,United Kingdom
+Albania,0,3,0,2.5,Austria,education of good quality,3,Austria,education of good quality,Austria
+Albania,0,3,0,2.5,Belarus,education of good quality,3,Belarus,education of good quality,Belarus
+Australia,0,3,0,2.5,Sweden,education of good quality,5,Sweden,education of good quality,Sweden
+Australia,0,3,0,2.5,Azerbaijan,sdf,5,Azerbaijan,sdf,Azerbaijan

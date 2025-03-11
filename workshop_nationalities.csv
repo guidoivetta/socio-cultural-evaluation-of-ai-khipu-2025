@@ -1,163 +1,163 @@
 source_country,non_stereotype,stereotype,unsure,mean_offensive_score,identity,attribute,row_count,translated_identity,translated_attribute_list,identity_country_name
-Uruguay,0,3,0,2.5,Bolivia,poor,128,Bolivia,poor,Bolivia
+Uruguay,0,3,0,2.5,Bolivia,poor,151,Bolivia,poor,Bolivia
 Peru,0,3,0,2.5,Peru,delicious food,28,Peru,delicious food,Peru
 Brazil,0,3,0,2.5,Peru,delicious food,99,Peru,delicious food,Peru
-Cuba,0,3,0,2.5,El Salvador,Great prisons,41,El Salvador,Great prisons,El Salvador
-Argentina,0,3,0,2.5,Cuba,revolution,516,Cuba,revolution,Cuba
-Argentina,0,3,0,2.5,Cuba,che guevara,516,Cuba,che guevara,Cuba
-Argentina,0,3,0,2.5,Cuba,comunism,516,Cuba,comunism,Cuba
-Argentina,0,3,0,2.5,Colombia,Inequality ,516,Colombia,Inequality ,Colombia
-Uruguay,0,3,0,2.5,Canada,Thankful,128,Canada,Thankful,Canada
+Cuba,0,3,0,2.5,El Salvador,Great prisons,44,El Salvador,Great prisons,El Salvador
+Argentina,0,3,0,2.5,Cuba,revolution,572,Cuba,revolution,Cuba
+Argentina,0,3,0,2.5,Cuba,che guevara,572,Cuba,che guevara,Cuba
+Argentina,0,3,0,2.5,Cuba,comunism,572,Cuba,comunism,Cuba
+Argentina,0,3,0,2.5,Colombia,Inequality ,572,Colombia,Inequality ,Colombia
+Uruguay,0,3,0,2.5,Canada,Thankful,151,Canada,Thankful,Canada
 Chile,0,3,0,2.5,Bolivia,Natives,108,Bolivia,Natives,Bolivia
-Uruguay,0,3,0,2.5,Cuba,Block,128,Cuba,Block,Cuba
-Uruguay,0,3,0,2.5,United States,Guns,128,United States,Guns,United States
-Uruguay,0,3,0,2.5,United States, Fat,128,United States, Fat,United States
-Uruguay,0,3,0,2.5,United States, Capitlaism,128,United States, Capitlaism,United States
-Uruguay,0,3,0,2.5,United States, Expensive health,128,United States, Expensive health,United States
+Uruguay,0,3,0,2.5,Cuba,Block,151,Cuba,Block,Cuba
+Uruguay,0,3,0,2.5,United States,Guns,151,United States,Guns,United States
+Uruguay,0,3,0,2.5,United States, Fat,151,United States, Fat,United States
+Uruguay,0,3,0,2.5,United States, Capitlaism,151,United States, Capitlaism,United States
+Uruguay,0,3,0,2.5,United States, Expensive health,151,United States, Expensive health,United States
 Chile,0,3,0,2.5,Cuba,Fidel Castro,108,Cuba,Fidel Castro,Cuba
-Cuba,0,3,0,2.5,Dominican Republic,discrimination against Haitians,41,Dominican Republic,discrimination against Haitians,Dominican Republic
-Argentina,0,3,0,2.5,Argentina,Mate  drink,516,Argentina,Mate  drink,Argentina
-Cuba,0,3,0,2.5,Cuba,People wants freedom,41,Cuba,People wants freedom,Cuba
-Argentina,0,3,0,2.5,Uruguay,Stealing from other people's cultures,516,Uruguay,Stealing from other people's cultures,Uruguay
-Argentina,0,3,0,2.5,Argentina,liar,516,Argentina,liar,Argentina
-Argentina,0,3,0,2.5,Argentina, generous,516,Argentina, generous,Argentina
-Costa Rica,0,3,0,2.5,Mexico,spicy food,65,Mexico,spicy food,Mexico
-Costa Rica,0,3,0,2.5,Mexico, delicious gastronomy,65,Mexico, delicious gastronomy,Mexico
-Costa Rica,0,3,0,2.5,Mexico, native population,65,Mexico, native population,Mexico
-Uruguay,0,3,0,2.5,Dominican Republic,helpful,128,Dominican Republic,helpful,Dominican Republic
-Argentina,0,3,0,2.5,Saudi Arabia,Rich,516,Saudi Arabia,Rich,Saudi Arabia
-Uruguay,0,3,0,2.5,Uruguay,Mate,128,Uruguay,Mate,Uruguay
-Uruguay,0,3,0,2.5,Uruguay, dulce de leche,128,Uruguay, dulce de leche,Uruguay
-Uruguay,0,3,0,2.5,Uruguay, Gardel,128,Uruguay, Gardel,Uruguay
-Argentina,0,3,0,2.5,Argentina,arrogant,516,Argentina,arrogant,Argentina
-Cuba,0,3,0,2.5,Cuba,Beautiful beaches,41,Cuba,Beautiful beaches,Cuba
+Cuba,0,3,0,2.5,Dominican Republic,discrimination against Haitians,44,Dominican Republic,discrimination against Haitians,Dominican Republic
+Argentina,0,3,0,2.5,Argentina,Mate  drink,572,Argentina,Mate  drink,Argentina
+Cuba,0,3,0,2.5,Cuba,People wants freedom,44,Cuba,People wants freedom,Cuba
+Argentina,0,3,0,2.5,Uruguay,Stealing from other people's cultures,572,Uruguay,Stealing from other people's cultures,Uruguay
+Argentina,0,3,0,2.5,Argentina,liar,572,Argentina,liar,Argentina
+Argentina,0,3,0,2.5,Argentina, generous,572,Argentina, generous,Argentina
+Costa Rica,0,3,0,2.5,Mexico,spicy food,72,Mexico,spicy food,Mexico
+Costa Rica,0,3,0,2.5,Mexico, delicious gastronomy,72,Mexico, delicious gastronomy,Mexico
+Costa Rica,0,3,0,2.5,Mexico, native population,72,Mexico, native population,Mexico
+Uruguay,0,3,0,2.5,Dominican Republic,helpful,151,Dominican Republic,helpful,Dominican Republic
+Argentina,0,3,0,2.5,Saudi Arabia,Rich,572,Saudi Arabia,Rich,Saudi Arabia
+Uruguay,0,3,0,2.5,Uruguay,Mate,151,Uruguay,Mate,Uruguay
+Uruguay,0,3,0,2.5,Uruguay, dulce de leche,151,Uruguay, dulce de leche,Uruguay
+Uruguay,0,3,0,2.5,Uruguay, Gardel,151,Uruguay, Gardel,Uruguay
+Argentina,0,3,0,2.5,Argentina,arrogant,572,Argentina,arrogant,Argentina
+Cuba,0,3,0,2.5,Cuba,Beautiful beaches,44,Cuba,Beautiful beaches,Cuba
 Ecuador,0,3,0,2.5,Mexico,Tacos,30,Mexico,Tacos,Mexico
 Ecuador,0,3,0,2.5,Mexico, water struggles,30,Mexico, water struggles,Mexico
 Ecuador,0,3,0,2.5,Mexico,  novelas,30,Mexico,  novelas,Mexico
-Argentina,0,3,0,2.5,Argentina,Diverse,516,Argentina,Diverse,Argentina
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Cuba,low income,516,Cuba,low income,Cuba
-Argentina,0,3,0,2.5,Argentina,Big ego,516,Argentina,Big ego,Argentina
+Argentina,0,3,0,2.5,Argentina,Diverse,572,Argentina,Diverse,Argentina
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Cuba,low income,572,Cuba,low income,Cuba
+Argentina,0,3,0,2.5,Argentina,Big ego,572,Argentina,Big ego,Argentina
 Chile,0,3,0,2.5,Chile,Andes Mountains,108,Chile,Andes Mountains,Chile
-Argentina,0,3,0,2.5,United States,war,516,United States,war,United States
-Argentina,0,3,0,2.5,United States,colonialism,516,United States,colonialism,United States
-Argentina,0,3,0,2.5,United States,progress,516,United States,progress,United States
-Argentina,0,3,0,2.5,United States,low education,516,United States,low education,United States
-Argentina,0,3,0,2.5,Argentina,scammer,516,Argentina,scammer,Argentina
-Argentina,0,3,0,2.5,Argentina,Beautiful ,516,Argentina,Beautiful ,Argentina
-Uruguay,0,3,0,2.5,United States,capitalism,128,United States,capitalism,United States
-Uruguay,0,3,0,2.5,United States, guns,128,United States, guns,United States
-Argentina,0,3,0,2.5,Argentina,Friendly,516,Argentina,Friendly,Argentina
+Argentina,0,3,0,2.5,United States,war,572,United States,war,United States
+Argentina,0,3,0,2.5,United States,colonialism,572,United States,colonialism,United States
+Argentina,0,3,0,2.5,United States,progress,572,United States,progress,United States
+Argentina,0,3,0,2.5,United States,low education,572,United States,low education,United States
+Argentina,0,3,0,2.5,Argentina,scammer,572,Argentina,scammer,Argentina
+Argentina,0,3,0,2.5,Argentina,Beautiful ,572,Argentina,Beautiful ,Argentina
+Uruguay,0,3,0,2.5,United States,capitalism,151,United States,capitalism,United States
+Uruguay,0,3,0,2.5,United States, guns,151,United States, guns,United States
+Argentina,0,3,0,2.5,Argentina,Friendly,572,Argentina,Friendly,Argentina
 Chile,0,3,0,2.5,Brazil,language ,108,Brazil,language ,Brazil
-Argentina,0,3,0,2.5,Argentina,Fight ,516,Argentina,Fight ,Argentina
+Argentina,0,3,0,2.5,Argentina,Fight ,572,Argentina,Fight ,Argentina
 Chile,0,3,0,2.5,Chile,Tasty food,108,Chile,Tasty food,Chile
 Brazil,0,3,0,2.5,Brazil,Resourceful,99,Brazil,Resourceful,Brazil
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina,futbol,516,Argentina,futbol,Argentina
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina,futbol,572,Argentina,futbol,Argentina
 Ecuador,0,3,0,2.5,Syria,War,30,Syria,War,Syria
 Ecuador,0,3,0,2.5,Syria, explotation,30,Syria, explotation,Syria
 Ecuador,0,3,0,2.5,Syria, colonialism ,30,Syria, colonialism ,Syria
-Argentina,0,3,0,2.5,Argentina,futbol,516,Argentina,futbol,Argentina
-Argentina,0,3,0,2.5,Argentina,arrogant,516,Argentina,arrogant,Argentina
-Argentina,0,3,0,2.5,Colombia,narcotráfico,516,Colombia,narcotráfico,Colombia
-Argentina,0,3,0,2.5,Argentina,egocentric,516,Argentina,egocentric,Argentina
-Argentina,0,3,0,2.5,Argentina,Pedantic,516,Argentina,Pedantic,Argentina
-Argentina,0,3,0,2.5,Argentina,futbol,516,Argentina,futbol,Argentina
-Argentina,0,3,0,2.5,Argentina,asado,516,Argentina,asado,Argentina
+Argentina,0,3,0,2.5,Argentina,futbol,572,Argentina,futbol,Argentina
+Argentina,0,3,0,2.5,Argentina,arrogant,572,Argentina,arrogant,Argentina
+Argentina,0,3,0,2.5,Colombia,narcotráfico,572,Colombia,narcotráfico,Colombia
+Argentina,0,3,0,2.5,Argentina,egocentric,572,Argentina,egocentric,Argentina
+Argentina,0,3,0,2.5,Argentina,Pedantic,572,Argentina,Pedantic,Argentina
+Argentina,0,3,0,2.5,Argentina,futbol,572,Argentina,futbol,Argentina
+Argentina,0,3,0,2.5,Argentina,asado,572,Argentina,asado,Argentina
 Peru,0,3,0,2.5,Peru,textil products,28,Peru,textil products,Peru
 Brazil,0,3,0,2.5,Peru,textil products,99,Peru,textil products,Peru
-Uruguay,0,3,0,2.5,Uruguay,nice people,128,Uruguay,nice people,Uruguay
-Uruguay,0,3,0,2.5,Uruguay,Playas,128,Uruguay,Playas,Uruguay
-Uruguay,0,3,0,2.5,Uruguay, vacas,128,Uruguay, vacas,Uruguay
-Uruguay,0,3,0,2.5,Uruguay, campo,128,Uruguay, campo,Uruguay
-Argentina,0,3,0,2.5,Argentina,drink mate,516,Argentina,drink mate,Argentina
-Cuba,0,3,0,2.5,Cuba,Comunism,41,Cuba,Comunism,Cuba
-Argentina,0,3,0,2.5,Argentina,loud,516,Argentina,loud,Argentina
+Uruguay,0,3,0,2.5,Uruguay,nice people,151,Uruguay,nice people,Uruguay
+Uruguay,0,3,0,2.5,Uruguay,Playas,151,Uruguay,Playas,Uruguay
+Uruguay,0,3,0,2.5,Uruguay, vacas,151,Uruguay, vacas,Uruguay
+Uruguay,0,3,0,2.5,Uruguay, campo,151,Uruguay, campo,Uruguay
+Argentina,0,3,0,2.5,Argentina,drink mate,572,Argentina,drink mate,Argentina
+Cuba,0,3,0,2.5,Cuba,Comunism,44,Cuba,Comunism,Cuba
+Argentina,0,3,0,2.5,Argentina,loud,572,Argentina,loud,Argentina
 Brazil,0,3,0,2.5,Brazil,Fun,99,Brazil,Fun,Brazil
-Argentina,0,3,0,2.5,Argentina,mate,516,Argentina,mate,Argentina
-Argentina,0,3,0,2.5,Argentina,large,516,Argentina,large,Argentina
-Colombia,0,3,0,2.5,Colombia,diverse,41,Colombia,diverse,Colombia
-Costa Rica,0,3,0,2.5,Colombia,diverse,65,Colombia,diverse,Colombia
-Argentina,0,3,0,2.5,Argentina,futbol fan,516,Argentina,futbol fan,Argentina
-Argentina,0,3,0,2.5,Argentina,Charismatic ,516,Argentina,Charismatic ,Argentina
-Argentina,0,3,0,2.5,Argentina,noisy,516,Argentina,noisy,Argentina
-Argentina,0,3,0,2.5,Argentina,Tango dancers,516,Argentina,Tango dancers,Argentina
-Argentina,0,3,0,2.5,Argentina,Bad Humor,516,Argentina,Bad Humor,Argentina
+Argentina,0,3,0,2.5,Argentina,mate,572,Argentina,mate,Argentina
+Argentina,0,3,0,2.5,Argentina,large,572,Argentina,large,Argentina
+Colombia,0,3,0,2.5,Colombia,diverse,42,Colombia,diverse,Colombia
+Costa Rica,0,3,0,2.5,Colombia,diverse,72,Colombia,diverse,Colombia
+Argentina,0,3,0,2.5,Argentina,futbol fan,572,Argentina,futbol fan,Argentina
+Argentina,0,3,0,2.5,Argentina,Charismatic ,572,Argentina,Charismatic ,Argentina
+Argentina,0,3,0,2.5,Argentina,noisy,572,Argentina,noisy,Argentina
+Argentina,0,3,0,2.5,Argentina,Tango dancers,572,Argentina,Tango dancers,Argentina
+Argentina,0,3,0,2.5,Argentina,Bad Humor,572,Argentina,Bad Humor,Argentina
 Chile,0,3,0,2.5,Chile,expensive,108,Chile,expensive,Chile
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina,futbol,516,Argentina,futbol,Argentina
-Argentina,0,3,0,2.5,Argentina,asado,516,Argentina,asado,Argentina
-Argentina,0,3,0,2.5,Argentina,big ego,516,Argentina,big ego,Argentina
-Argentina,0,3,0,2.5,Argentina,tango,516,Argentina,tango,Argentina
-Argentina,0,3,0,2.5,Argentina, beef,516,Argentina, beef,Argentina
-Argentina,0,3,0,2.5,Argentina,  instability,516,Argentina,  instability,Argentina
-Argentina,0,3,0,2.5,Argentina, football,516,Argentina, football,Argentina
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina,futbol,572,Argentina,futbol,Argentina
+Argentina,0,3,0,2.5,Argentina,asado,572,Argentina,asado,Argentina
+Argentina,0,3,0,2.5,Argentina,big ego,572,Argentina,big ego,Argentina
+Argentina,0,3,0,2.5,Argentina,tango,572,Argentina,tango,Argentina
+Argentina,0,3,0,2.5,Argentina, beef,572,Argentina, beef,Argentina
+Argentina,0,3,0,2.5,Argentina,  instability,572,Argentina,  instability,Argentina
+Argentina,0,3,0,2.5,Argentina, football,572,Argentina, football,Argentina
 Ecuador,0,3,0,2.5,Ecuador,Delicious food,30,Ecuador,Delicious food,Ecuador
 Ecuador,0,3,0,2.5,Ecuador, beautiful places ,30,Ecuador, beautiful places ,Ecuador
 Ecuador,0,3,0,2.5,Ecuador, bad government,30,Ecuador, bad government,Ecuador
 Ecuador,0,3,0,2.5,Ecuador, insecurity ,30,Ecuador, insecurity ,Ecuador
 Ecuador,0,3,0,2.5,Ecuador,Galapagos,30,Ecuador,Galapagos,Ecuador
 Ecuador,0,3,0,2.5,Ecuador, high mountains ,30,Ecuador, high mountains ,Ecuador
-Mexico,0,3,0,2.5,Mexico,creative problem solvers,88,Mexico,creative problem solvers,Mexico
-Mexico,0,3,0,2.5,Mexico, happy,88,Mexico, happy,Mexico
-Mexico,0,3,0,2.5,Mexico, warm,88,Mexico, warm,Mexico
-Mexico,0,3,0,2.5,Mexico, party,88,Mexico, party,Mexico
+Mexico,0,3,0,2.5,Mexico,creative problem solvers,99,Mexico,creative problem solvers,Mexico
+Mexico,0,3,0,2.5,Mexico, happy,99,Mexico, happy,Mexico
+Mexico,0,3,0,2.5,Mexico, warm,99,Mexico, warm,Mexico
+Mexico,0,3,0,2.5,Mexico, party,99,Mexico, party,Mexico
 Peru,0,3,0,2.5,Peru,ceviche,28,Peru,ceviche,Peru
 Brazil,0,3,0,2.5,Peru,ceviche,99,Peru,ceviche,Peru
 Nicaragua,0,3,0,2.5,Canada,Cold people,18,Canada,Cold people,Canada
 Brazil,0,3,0,2.5,Brazil,friendly; free healthcare; free universities; warm; dental health,99,Brazil,friendly; free healthcare; free universities; warm; dental health,Brazil
-Argentina,0,3,0,2.5,Argentina,Attractive,516,Argentina,Attractive,Argentina
-Uruguay,0,3,0,2.5,Uruguay,drink mate,128,Uruguay,drink mate,Uruguay
+Argentina,0,3,0,2.5,Argentina,Attractive,572,Argentina,Attractive,Argentina
+Uruguay,0,3,0,2.5,Uruguay,drink mate,151,Uruguay,drink mate,Uruguay
 Brazil,0,3,0,2.5,Brazil,Relaxed,99,Brazil,Relaxed,Brazil
-Argentina,0,3,0,2.5,Argentina,meat eater,516,Argentina,meat eater,Argentina
+Argentina,0,3,0,2.5,Argentina,meat eater,572,Argentina,meat eater,Argentina
 Peru,0,3,0,2.5,Brazil,hot,28,Brazil,hot,Brazil
 Brazil,0,3,0,2.5,Brazil,hot,99,Brazil,hot,Brazil
 Brazil,0,3,0,2.5,Brazil,Hot,99,Brazil,Hot,Brazil
 Brazil,0,3,0,2.5,Brazil, clean,99,Brazil, clean,Brazil
 Brazil,0,3,0,2.5,Brazil, naughty,99,Brazil, naughty,Brazil
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Costa Rica,0,3,0,2.5,Ethiopia,coffee,65,Ethiopia,coffee,Ethiopia
-Argentina,0,3,0,2.5,Argentina,Friendship,516,Argentina,Friendship,Argentina
-Argentina,0,3,0,2.5,Argentina,passionate ,516,Argentina,passionate ,Argentina
-Argentina,0,3,0,2.5,Argentina,generous,516,Argentina,generous,Argentina
-Cuba,0,3,0,2.5,Cuba,Cigar,41,Cuba,Cigar,Cuba
-Argentina,0,3,0,2.5,Argentina,messi,516,Argentina,messi,Argentina
-Mexico,0,3,0,2.5,Mexico,Spicy,88,Mexico,Spicy,Mexico
-Uruguay,0,3,0,2.5,Uruguay,mate,128,Uruguay,mate,Uruguay
-Uruguay,0,3,0,2.5,Uruguay, tortafrita,128,Uruguay, tortafrita,Uruguay
-Argentina,0,3,0,2.5,Argentina,Melancholic,516,Argentina,Melancholic,Argentina
-Uruguay,0,3,0,2.5,Uruguay,mate,128,Uruguay,mate,Uruguay
-Uruguay,0,3,0,2.5,Uruguay,Gardel,128,Uruguay,Gardel,Uruguay
-Uruguay,0,3,0,2.5,Uruguay,futbol,128,Uruguay,futbol,Uruguay
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Costa Rica,0,3,0,2.5,Ethiopia,coffee,72,Ethiopia,coffee,Ethiopia
+Argentina,0,3,0,2.5,Argentina,Friendship,572,Argentina,Friendship,Argentina
+Argentina,0,3,0,2.5,Argentina,passionate ,572,Argentina,passionate ,Argentina
+Argentina,0,3,0,2.5,Argentina,generous,572,Argentina,generous,Argentina
+Cuba,0,3,0,2.5,Cuba,Cigar,44,Cuba,Cigar,Cuba
+Argentina,0,3,0,2.5,Argentina,messi,572,Argentina,messi,Argentina
+Mexico,0,3,0,2.5,Mexico,Spicy,99,Mexico,Spicy,Mexico
+Uruguay,0,3,0,2.5,Uruguay,mate,151,Uruguay,mate,Uruguay
+Uruguay,0,3,0,2.5,Uruguay, tortafrita,151,Uruguay, tortafrita,Uruguay
+Argentina,0,3,0,2.5,Argentina,Melancholic,572,Argentina,Melancholic,Argentina
+Uruguay,0,3,0,2.5,Uruguay,mate,151,Uruguay,mate,Uruguay
+Uruguay,0,3,0,2.5,Uruguay,Gardel,151,Uruguay,Gardel,Uruguay
+Uruguay,0,3,0,2.5,Uruguay,futbol,151,Uruguay,futbol,Uruguay
 Nicaragua,0,3,0,2.5,United States,Junk food,18,United States,Junk food,United States
-Colombia,0,3,0,2.5,Costa Rica,calm,41,Costa Rica,calm,Costa Rica
-Costa Rica,0,3,0,2.5,Costa Rica,calm,65,Costa Rica,calm,Costa Rica
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina,friendly,516,Argentina,friendly,Argentina
-Argentina,0,3,0,2.5,Argentina,mate,516,Argentina,mate,Argentina
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
-Uruguay,0,3,0,2.5,Uruguay,vacas,128,Uruguay,vacas,Uruguay
-Uruguay,0,3,0,2.5,Uruguay,Gardel,128,Uruguay,Gardel,Uruguay
-Argentina,0,3,0,2.5,Argentina,Public health,516,Argentina,Public health,Argentina
-Argentina,0,3,0,2.5,Argentina,futbol,516,Argentina,futbol,Argentina
-Argentina,0,3,0,2.5,Argentina, dulce de leche,516,Argentina, dulce de leche,Argentina
-Argentina,0,3,0,2.5,Argentina, mate,516,Argentina, mate,Argentina
-Argentina,0,3,0,2.5,Argentina, asado,516,Argentina, asado,Argentina
-Argentina,0,3,0,2.5,Argentina,lots of climates,516,Argentina,lots of climates,Argentina
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
-Uruguay,0,3,0,2.5,Uruguay,vacas,128,Uruguay,vacas,Uruguay
-Uruguay,0,3,0,2.5,Uruguay,Gardel,128,Uruguay,Gardel,Uruguay
-Spain,0,3,0,2.5,Spain,like to party,31,Spain,like to party,Spain
-Argentina,0,3,0,2.5,Brazil,Beauty procedures,516,Brazil,Beauty procedures,Brazil
+Colombia,0,3,0,2.5,Costa Rica,calm,42,Costa Rica,calm,Costa Rica
+Costa Rica,0,3,0,2.5,Costa Rica,calm,72,Costa Rica,calm,Costa Rica
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina,friendly,572,Argentina,friendly,Argentina
+Argentina,0,3,0,2.5,Argentina,mate,572,Argentina,mate,Argentina
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
+Uruguay,0,3,0,2.5,Uruguay,vacas,151,Uruguay,vacas,Uruguay
+Uruguay,0,3,0,2.5,Uruguay,Gardel,151,Uruguay,Gardel,Uruguay
+Argentina,0,3,0,2.5,Argentina,Public health,572,Argentina,Public health,Argentina
+Argentina,0,3,0,2.5,Argentina,futbol,572,Argentina,futbol,Argentina
+Argentina,0,3,0,2.5,Argentina, dulce de leche,572,Argentina, dulce de leche,Argentina
+Argentina,0,3,0,2.5,Argentina, mate,572,Argentina, mate,Argentina
+Argentina,0,3,0,2.5,Argentina, asado,572,Argentina, asado,Argentina
+Argentina,0,3,0,2.5,Argentina,lots of climates,572,Argentina,lots of climates,Argentina
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
+Uruguay,0,3,0,2.5,Uruguay,vacas,151,Uruguay,vacas,Uruguay
+Uruguay,0,3,0,2.5,Uruguay,Gardel,151,Uruguay,Gardel,Uruguay
+Spain,0,3,0,2.5,Spain,like to party,37,Spain,like to party,Spain
+Argentina,0,3,0,2.5,Brazil,Beauty procedures,572,Brazil,Beauty procedures,Brazil
 Brazil,0,3,0,2.5,Brazil,Beauty procedures,99,Brazil,Beauty procedures,Brazil
 Ecuador,0,3,0,2.5,Ecuador,Delicious food,30,Ecuador,Delicious food,Ecuador
 Ecuador,0,3,0,2.5,Ecuador, Galapagos,30,Ecuador, Galapagos,Ecuador
@@ -166,196 +166,196 @@ Ecuador,0,3,0,2.5,Ecuador, high mountains,30,Ecuador, high mountains,Ecuador
 Ecuador,0,3,0,2.5,Ecuador, ,30,Ecuador, ,Ecuador
 Peru,0,3,0,2.5,Peru,pisco,28,Peru,pisco,Peru
 Brazil,0,3,0,2.5,Peru,pisco,99,Peru,pisco,Peru
-Uruguay,0,3,0,2.5,Uruguay,mate,128,Uruguay,mate,Uruguay
-Uruguay,0,3,0,2.5,Uruguay,Gardel,128,Uruguay,Gardel,Uruguay
-Uruguay,0,3,0,2.5,Uruguay,kind,128,Uruguay,kind,Uruguay
-Uruguay,0,3,0,2.5,Uruguay, polite,128,Uruguay, polite,Uruguay
-Uruguay,0,3,0,2.5,Uruguay, gray,128,Uruguay, gray,Uruguay
+Uruguay,0,3,0,2.5,Uruguay,mate,151,Uruguay,mate,Uruguay
+Uruguay,0,3,0,2.5,Uruguay,Gardel,151,Uruguay,Gardel,Uruguay
+Uruguay,0,3,0,2.5,Uruguay,kind,151,Uruguay,kind,Uruguay
+Uruguay,0,3,0,2.5,Uruguay, polite,151,Uruguay, polite,Uruguay
+Uruguay,0,3,0,2.5,Uruguay, gray,151,Uruguay, gray,Uruguay
 Chile,0,3,0,2.5,Chile,Cold,108,Chile,Cold,Chile
 Chile,0,3,0,2.5,Chile, rough,108,Chile, rough,Chile
 Chile,0,3,0,2.5,Chile, expensive,108,Chile, expensive,Chile
 Chile,0,3,0,2.5,Chile, dry,108,Chile, dry,Chile
 Chile,0,3,0,2.5,Chile, ocre,108,Chile, ocre,Chile
 Brazil,0,3,0,2.5,Brazil,Creative,99,Brazil,Creative,Brazil
-Uruguay,0,3,0,2.5,Uruguay,dulce de leche,128,Uruguay,dulce de leche,Uruguay
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
+Uruguay,0,3,0,2.5,Uruguay,dulce de leche,151,Uruguay,dulce de leche,Uruguay
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
 Chile,0,3,0,2.5,Chile,serious,108,Chile,serious,Chile
-Cuba,0,3,0,2.5,Cuba,Beautiful Capital,41,Cuba,Beautiful Capital,Cuba
-Spain,0,3,0,2.5,Spain,always take naps,31,Spain,always take naps,Spain
+Cuba,0,3,0,2.5,Cuba,Beautiful Capital,44,Cuba,Beautiful Capital,Cuba
+Spain,0,3,0,2.5,Spain,always take naps,37,Spain,always take naps,Spain
 Nicaragua,0,3,0,2.5,Syria,Islam,18,Syria,Islam,Syria
-Uruguay,0,3,0,2.5,Cuba,Revolutionary,128,Cuba,Revolutionary,Cuba
-Uruguay,0,3,0,2.5,Uruguay,asado,128,Uruguay,asado,Uruguay
+Uruguay,0,3,0,2.5,Cuba,Revolutionary,151,Cuba,Revolutionary,Cuba
+Uruguay,0,3,0,2.5,Uruguay,asado,151,Uruguay,asado,Uruguay
 Chile,0,3,0,2.5,Chile,good wine,108,Chile,good wine,Chile
-Argentina,0,3,0,2.5,Brazil,Glee,516,Brazil,Glee,Brazil
+Argentina,0,3,0,2.5,Brazil,Glee,572,Brazil,Glee,Brazil
 Brazil,0,3,0,2.5,Brazil,Glee,99,Brazil,Glee,Brazil
-Argentina,0,3,0,2.5,Argentina,beef,516,Argentina,beef,Argentina
-Argentina,0,3,0,2.5,Argentina, tango,516,Argentina, tango,Argentina
-Argentina,0,3,0,2.5,Argentina, mate,516,Argentina, mate,Argentina
-Argentina,0,3,0,2.5,Argentina, football,516,Argentina, football,Argentina
-Argentina,0,3,0,2.5,Argentina, instability,516,Argentina, instability,Argentina
-Mexico,0,3,0,2.5,Mexico,Happiness,88,Mexico,Happiness,Mexico
-Mexico,0,3,0,2.5,Mexico, criminality,88,Mexico, criminality,Mexico
-Mexico,0,3,0,2.5,Mexico, unity,88,Mexico, unity,Mexico
-Mexico,0,3,0,2.5,Mexico, patriotism,88,Mexico, patriotism,Mexico
-Uruguay,0,3,0,2.5,Uruguay,asado,128,Uruguay,asado,Uruguay
-Argentina,0,3,0,2.5,Argentina,Disregard for rules ,516,Argentina,Disregard for rules ,Argentina
-Argentina,0,3,0,2.5,Argentina,friendly,516,Argentina,friendly,Argentina
-Argentina,0,3,0,2.5,Argentina, solidarity,516,Argentina, solidarity,Argentina
-Argentina,0,3,0,2.5,Argentina, kindness,516,Argentina, kindness,Argentina
-Argentina,0,3,0,2.5,Argentina, liveliness,516,Argentina, liveliness,Argentina
-Argentina,0,3,0,2.5,Argentina, futbol,516,Argentina, futbol,Argentina
-Argentina,0,3,0,2.5,Argentina, mate,516,Argentina, mate,Argentina
-Argentina,0,3,0,2.5,Argentina, barbecue,516,Argentina, barbecue,Argentina
-Argentina,0,3,0,2.5,Argentina,,516,Argentina,,Argentina
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
-Argentina,0,3,0,2.5,Argentina,arrogant,516,Argentina,arrogant,Argentina
-Uruguay,0,3,0,2.5,Uruguay,polite,128,Uruguay,polite,Uruguay
-Uruguay,0,3,0,2.5,Uruguay,chiquitito,128,Uruguay,chiquitito,Uruguay
-Uruguay,0,3,0,2.5,Uruguay,provincia rebelde,128,Uruguay,provincia rebelde,Uruguay
-Argentina,0,3,0,2.5,Argentina,Public health,516,Argentina,Public health,Argentina
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
-Argentina,0,3,0,2.5,Argentina,superb,516,Argentina,superb,Argentina
+Argentina,0,3,0,2.5,Argentina,beef,572,Argentina,beef,Argentina
+Argentina,0,3,0,2.5,Argentina, tango,572,Argentina, tango,Argentina
+Argentina,0,3,0,2.5,Argentina, mate,572,Argentina, mate,Argentina
+Argentina,0,3,0,2.5,Argentina, football,572,Argentina, football,Argentina
+Argentina,0,3,0,2.5,Argentina, instability,572,Argentina, instability,Argentina
+Mexico,0,3,0,2.5,Mexico,Happiness,99,Mexico,Happiness,Mexico
+Mexico,0,3,0,2.5,Mexico, criminality,99,Mexico, criminality,Mexico
+Mexico,0,3,0,2.5,Mexico, unity,99,Mexico, unity,Mexico
+Mexico,0,3,0,2.5,Mexico, patriotism,99,Mexico, patriotism,Mexico
+Uruguay,0,3,0,2.5,Uruguay,asado,151,Uruguay,asado,Uruguay
+Argentina,0,3,0,2.5,Argentina,Disregard for rules ,572,Argentina,Disregard for rules ,Argentina
+Argentina,0,3,0,2.5,Argentina,friendly,572,Argentina,friendly,Argentina
+Argentina,0,3,0,2.5,Argentina, solidarity,572,Argentina, solidarity,Argentina
+Argentina,0,3,0,2.5,Argentina, kindness,572,Argentina, kindness,Argentina
+Argentina,0,3,0,2.5,Argentina, liveliness,572,Argentina, liveliness,Argentina
+Argentina,0,3,0,2.5,Argentina, futbol,572,Argentina, futbol,Argentina
+Argentina,0,3,0,2.5,Argentina, mate,572,Argentina, mate,Argentina
+Argentina,0,3,0,2.5,Argentina, barbecue,572,Argentina, barbecue,Argentina
+Argentina,0,3,0,2.5,Argentina,,572,Argentina,,Argentina
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
+Argentina,0,3,0,2.5,Argentina,arrogant,572,Argentina,arrogant,Argentina
+Uruguay,0,3,0,2.5,Uruguay,polite,151,Uruguay,polite,Uruguay
+Uruguay,0,3,0,2.5,Uruguay,chiquitito,151,Uruguay,chiquitito,Uruguay
+Uruguay,0,3,0,2.5,Uruguay,provincia rebelde,151,Uruguay,provincia rebelde,Uruguay
+Argentina,0,3,0,2.5,Argentina,Public health,572,Argentina,Public health,Argentina
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
+Argentina,0,3,0,2.5,Argentina,superb,572,Argentina,superb,Argentina
 Chile,0,3,0,2.5,Chile,Ugly,108,Chile,Ugly,Chile
-Uruguay,0,3,0,2.5,Uruguay,plain,128,Uruguay,plain,Uruguay
-Argentina,0,3,0,2.5,Brazil,Celebration,516,Brazil,Celebration,Brazil
+Uruguay,0,3,0,2.5,Uruguay,plain,151,Uruguay,plain,Uruguay
+Argentina,0,3,0,2.5,Brazil,Celebration,572,Brazil,Celebration,Brazil
 Brazil,0,3,0,2.5,Brazil,Celebration,99,Brazil,Celebration,Brazil
-Argentina,0,3,0,2.5,Argentina,resilience,516,Argentina,resilience,Argentina
-Argentina,0,3,0,2.5,Argentina,spoken,516,Argentina,spoken,Argentina
+Argentina,0,3,0,2.5,Argentina,resilience,572,Argentina,resilience,Argentina
+Argentina,0,3,0,2.5,Argentina,spoken,572,Argentina,spoken,Argentina
 Brazil,0,3,0,2.5,Brazil,Kind,99,Brazil,Kind,Brazil
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
 Nicaragua,0,3,0,2.5,Brazil,samba,18,Brazil,samba,Brazil
-Cuba,0,3,0,2.5,Cuba,good education,41,Cuba,good education,Cuba
-Cuba,0,3,0,2.5,Cuba, polite people,41,Cuba, polite people,Cuba
-Cuba,0,3,0,2.5,Cuba, ,41,Cuba, ,Cuba
+Cuba,0,3,0,2.5,Cuba,good education,44,Cuba,good education,Cuba
+Cuba,0,3,0,2.5,Cuba, polite people,44,Cuba, polite people,Cuba
+Cuba,0,3,0,2.5,Cuba, ,44,Cuba, ,Cuba
 Chile,0,3,0,2.5,Chile,Dry,108,Chile,Dry,Chile
 Peru,0,3,0,2.5,Brazil,capibara ,28,Brazil,capibara ,Brazil
 Brazil,0,3,0,2.5,Brazil,capibara ,99,Brazil,capibara ,Brazil
-Uruguay,0,3,0,2.5,Uruguay,progressist,128,Uruguay,progressist,Uruguay
-Argentina,0,3,0,2.5,Argentina,tango,516,Argentina,tango,Argentina
-Argentina,0,3,0,2.5,Argentina, mate,516,Argentina, mate,Argentina
-Argentina,0,3,0,2.5,Argentina, beef,516,Argentina, beef,Argentina
-Argentina,0,3,0,2.5,Argentina, football,516,Argentina, football,Argentina
-Argentina,0,3,0,2.5,Argentina, instability,516,Argentina, instability,Argentina
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
-Argentina,0,3,0,2.5,Brazil,Relaxed,516,Brazil,Relaxed,Brazil
+Uruguay,0,3,0,2.5,Uruguay,progressist,151,Uruguay,progressist,Uruguay
+Argentina,0,3,0,2.5,Argentina,tango,572,Argentina,tango,Argentina
+Argentina,0,3,0,2.5,Argentina, mate,572,Argentina, mate,Argentina
+Argentina,0,3,0,2.5,Argentina, beef,572,Argentina, beef,Argentina
+Argentina,0,3,0,2.5,Argentina, football,572,Argentina, football,Argentina
+Argentina,0,3,0,2.5,Argentina, instability,572,Argentina, instability,Argentina
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
+Argentina,0,3,0,2.5,Brazil,Relaxed,572,Brazil,Relaxed,Brazil
 Brazil,0,3,0,2.5,Brazil,Relaxed,99,Brazil,Relaxed,Brazil
-Costa Rica,0,3,0,2.5,Costa Rica,pura vida,65,Costa Rica,pura vida,Costa Rica
-Costa Rica,0,3,0,2.5,Costa Rica, gently people,65,Costa Rica, gently people,Costa Rica
-Costa Rica,0,3,0,2.5,Costa Rica, nature,65,Costa Rica, nature,Costa Rica
-Uruguay,0,3,0,2.5,Uruguay,quiet people,128,Uruguay,quiet people,Uruguay
-Argentina,0,3,0,2.5,Argentina,the best,516,Argentina,the best,Argentina
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
+Costa Rica,0,3,0,2.5,Costa Rica,pura vida,72,Costa Rica,pura vida,Costa Rica
+Costa Rica,0,3,0,2.5,Costa Rica, gently people,72,Costa Rica, gently people,Costa Rica
+Costa Rica,0,3,0,2.5,Costa Rica, nature,72,Costa Rica, nature,Costa Rica
+Uruguay,0,3,0,2.5,Uruguay,quiet people,151,Uruguay,quiet people,Uruguay
+Argentina,0,3,0,2.5,Argentina,the best,572,Argentina,the best,Argentina
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
 Chile,0,3,0,2.5,Chile,Dry,108,Chile,Dry,Chile
-Uruguay,0,3,0,2.5,Uruguay,calm,128,Uruguay,calm,Uruguay
-Cuba,0,3,0,2.5,Cuba,Good at sex,41,Cuba,Good at sex,Cuba
+Uruguay,0,3,0,2.5,Uruguay,calm,151,Uruguay,calm,Uruguay
+Cuba,0,3,0,2.5,Cuba,Good at sex,44,Cuba,Good at sex,Cuba
 Chile,0,3,0,2.5,Chile,great beaches,108,Chile,great beaches,Chile
-Uruguay,0,3,0,2.5,Uruguay,humble,128,Uruguay,humble,Uruguay
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
-Uruguay,0,3,0,2.5,Uruguay,calm,128,Uruguay,calm,Uruguay
-Uruguay,0,3,0,2.5,Uruguay,rambla,128,Uruguay,rambla,Uruguay
-Argentina,0,3,0,2.5,Argentina,agrandado,516,Argentina,agrandado,Argentina
+Uruguay,0,3,0,2.5,Uruguay,humble,151,Uruguay,humble,Uruguay
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
+Uruguay,0,3,0,2.5,Uruguay,calm,151,Uruguay,calm,Uruguay
+Uruguay,0,3,0,2.5,Uruguay,rambla,151,Uruguay,rambla,Uruguay
+Argentina,0,3,0,2.5,Argentina,agrandado,572,Argentina,agrandado,Argentina
 Chile,0,3,0,2.5,Chile,Organized,108,Chile,Organized,Chile
-Argentina,0,3,0,2.5,Argentina,beef,516,Argentina,beef,Argentina
-Argentina,0,3,0,2.5,Argentina, football,516,Argentina, football,Argentina
-Argentina,0,3,0,2.5,Argentina, tango,516,Argentina, tango,Argentina
-Argentina,0,3,0,2.5,Argentina, mate,516,Argentina, mate,Argentina
-Uruguay,0,3,0,2.5,Uruguay,hospitable,128,Uruguay,hospitable,Uruguay
-Cuba,0,3,0,2.5,Cuba,Good Education,41,Cuba,Good Education,Cuba
+Argentina,0,3,0,2.5,Argentina,beef,572,Argentina,beef,Argentina
+Argentina,0,3,0,2.5,Argentina, football,572,Argentina, football,Argentina
+Argentina,0,3,0,2.5,Argentina, tango,572,Argentina, tango,Argentina
+Argentina,0,3,0,2.5,Argentina, mate,572,Argentina, mate,Argentina
+Uruguay,0,3,0,2.5,Uruguay,hospitable,151,Uruguay,hospitable,Uruguay
+Cuba,0,3,0,2.5,Cuba,Good Education,44,Cuba,Good Education,Cuba
 Chile,0,3,0,2.5,Chile,Sopaipillas,108,Chile,Sopaipillas,Chile
 Chile,0,3,0,2.5,Chile,good mood,108,Chile,good mood,Chile
-Spain,0,3,0,2.5,Spain,colonialism,31,Spain,colonialism,Spain
-Uruguay,0,3,0,2.5,Uruguay,Relaxed,128,Uruguay,Relaxed,Uruguay
-Argentina,0,3,0,2.5,Argentina,The best,516,Argentina,The best,Argentina
-Uruguay,0,3,0,2.5,Uruguay,natural,128,Uruguay,natural,Uruguay
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina,world champion,516,Argentina,world champion,Argentina
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
-Colombia,0,3,0,2.5,Colombia,hot,41,Colombia,hot,Colombia
-Colombia,0,3,0,2.5,Colombia, sexy,41,Colombia, sexy,Colombia
-Colombia,0,3,0,2.5,Colombia, kind,41,Colombia, kind,Colombia
-Costa Rica,0,3,0,2.5,Colombia,hot,65,Colombia,hot,Colombia
-Costa Rica,0,3,0,2.5,Colombia, sexy,65,Colombia, sexy,Colombia
-Costa Rica,0,3,0,2.5,Colombia, kind,65,Colombia, kind,Colombia
+Spain,0,3,0,2.5,Spain,colonialism,37,Spain,colonialism,Spain
+Uruguay,0,3,0,2.5,Uruguay,Relaxed,151,Uruguay,Relaxed,Uruguay
+Argentina,0,3,0,2.5,Argentina,The best,572,Argentina,The best,Argentina
+Uruguay,0,3,0,2.5,Uruguay,natural,151,Uruguay,natural,Uruguay
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina,world champion,572,Argentina,world champion,Argentina
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
+Colombia,0,3,0,2.5,Colombia,hot,42,Colombia,hot,Colombia
+Colombia,0,3,0,2.5,Colombia, sexy,42,Colombia, sexy,Colombia
+Colombia,0,3,0,2.5,Colombia, kind,42,Colombia, kind,Colombia
+Costa Rica,0,3,0,2.5,Colombia,hot,72,Colombia,hot,Colombia
+Costa Rica,0,3,0,2.5,Colombia, sexy,72,Colombia, sexy,Colombia
+Costa Rica,0,3,0,2.5,Colombia, kind,72,Colombia, kind,Colombia
 Chile,0,3,0,2.5,Chile,Seafood,108,Chile,Seafood,Chile
 Brazil,0,3,0,2.5,Brazil,beach loving,99,Brazil,beach loving,Brazil
-Uruguay,0,3,0,2.5,Uruguay,Luis Suarez,128,Uruguay,Luis Suarez,Uruguay
+Uruguay,0,3,0,2.5,Uruguay,Luis Suarez,151,Uruguay,Luis Suarez,Uruguay
 Brazil,0,3,0,2.5,Brazil,Hot,99,Brazil,Hot,Brazil
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
-Cuba,0,3,0,2.5,Cuba,Drink a lot of coffee,41,Cuba,Drink a lot of coffee,Cuba
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
+Cuba,0,3,0,2.5,Cuba,Drink a lot of coffee,44,Cuba,Drink a lot of coffee,Cuba
 Chile,0,3,0,2.5,Chile,Rodeo,108,Chile,Rodeo,Chile
-Uruguay,0,3,0,2.5,Uruguay,Proud,128,Uruguay,Proud,Uruguay
-Uruguay,0,3,0,2.5,Uruguay,nice,128,Uruguay,nice,Uruguay
+Uruguay,0,3,0,2.5,Uruguay,Proud,151,Uruguay,Proud,Uruguay
+Uruguay,0,3,0,2.5,Uruguay,nice,151,Uruguay,nice,Uruguay
 Ecuador,0,3,0,2.5,Ecuador,High mountains ,30,Ecuador,High mountains ,Ecuador
 Ecuador,0,3,0,2.5,Ecuador, Galapagos ,30,Ecuador, Galapagos ,Ecuador
-Spain,0,3,0,2.5,Spain,speak loudly,31,Spain,speak loudly,Spain
-Argentina,0,3,0,2.5,Argentina,Fútbol ,516,Argentina,Fútbol ,Argentina
-Argentina,0,3,0,2.5,Argentina,Mate,516,Argentina,Mate,Argentina
-Costa Rica,0,3,0,2.5,Costa Rica,beautifull natural landscapes,65,Costa Rica,beautifull natural landscapes,Costa Rica
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
-Uruguay,0,3,0,2.5,Uruguay,fields,128,Uruguay,fields,Uruguay
-Uruguay,0,3,0,2.5,Uruguay,agriculture,128,Uruguay,agriculture,Uruguay
-Uruguay,0,3,0,2.5,Uruguay,humble,128,Uruguay,humble,Uruguay
+Spain,0,3,0,2.5,Spain,speak loudly,37,Spain,speak loudly,Spain
+Argentina,0,3,0,2.5,Argentina,Fútbol ,572,Argentina,Fútbol ,Argentina
+Argentina,0,3,0,2.5,Argentina,Mate,572,Argentina,Mate,Argentina
+Costa Rica,0,3,0,2.5,Costa Rica,beautifull natural landscapes,72,Costa Rica,beautifull natural landscapes,Costa Rica
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
+Uruguay,0,3,0,2.5,Uruguay,fields,151,Uruguay,fields,Uruguay
+Uruguay,0,3,0,2.5,Uruguay,agriculture,151,Uruguay,agriculture,Uruguay
+Uruguay,0,3,0,2.5,Uruguay,humble,151,Uruguay,humble,Uruguay
 Chile,0,3,0,2.5,Chile,cordillera de los andes ,108,Chile,cordillera de los andes ,Chile
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
-Uruguay,0,3,0,2.5,Uruguay,amigable,128,Uruguay,amigable,Uruguay
-Cuba,0,3,0,2.5,Cuba,High Temperatures,41,Cuba,High Temperatures,Cuba
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
+Uruguay,0,3,0,2.5,Uruguay,amigable,151,Uruguay,amigable,Uruguay
+Cuba,0,3,0,2.5,Cuba,High Temperatures,44,Cuba,High Temperatures,Cuba
 Nicaragua,0,3,0,2.5,Nicaragua,friendliness,18,Nicaragua,friendliness,Nicaragua
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
 Chile,0,3,0,2.5,Chile,selva valdiviana,108,Chile,selva valdiviana,Chile
-Argentina,0,3,0,2.5,Argentina,Diverse,516,Argentina,Diverse,Argentina
+Argentina,0,3,0,2.5,Argentina,Diverse,572,Argentina,Diverse,Argentina
 Ecuador,0,3,0,2.5,Ecuador,Good food,30,Ecuador,Good food,Ecuador
-Argentina,0,3,0,2.5,Argentina,barbacue,516,Argentina,barbacue,Argentina
-Argentina,0,3,0,2.5,Argentina,tortas fritas,516,Argentina,tortas fritas,Argentina
+Argentina,0,3,0,2.5,Argentina,barbacue,572,Argentina,barbacue,Argentina
+Argentina,0,3,0,2.5,Argentina,tortas fritas,572,Argentina,tortas fritas,Argentina
 Nicaragua,0,3,0,2.5,Nicaragua,poverty,18,Nicaragua,poverty,Nicaragua
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
-Uruguay,0,3,0,2.5,Uruguay,cattle,128,Uruguay,cattle,Uruguay
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
+Uruguay,0,3,0,2.5,Uruguay,cattle,151,Uruguay,cattle,Uruguay
 Chile,0,3,0,2.5,Chile,Homeland,108,Chile,Homeland,Chile
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
 Peru,0,3,0,2.5,Peru,cuzco,28,Peru,cuzco,Peru
 Brazil,0,3,0,2.5,Peru,cuzco,99,Peru,cuzco,Peru
-Costa Rica,0,3,0,2.5,Costa Rica,kindness,65,Costa Rica,kindness,Costa Rica
-Argentina,0,3,0,2.5,Argentina,tango,516,Argentina,tango,Argentina
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
-Uruguay,0,3,0,2.5,Uruguay,pericon,128,Uruguay,pericon,Uruguay
+Costa Rica,0,3,0,2.5,Costa Rica,kindness,72,Costa Rica,kindness,Costa Rica
+Argentina,0,3,0,2.5,Argentina,tango,572,Argentina,tango,Argentina
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
+Uruguay,0,3,0,2.5,Uruguay,pericon,151,Uruguay,pericon,Uruguay
 Chile,0,3,0,2.5,Chile,sky ,108,Chile,sky ,Chile
-Argentina,0,3,0,2.5,Argentina,Asado,516,Argentina,Asado,Argentina
+Argentina,0,3,0,2.5,Argentina,Asado,572,Argentina,Asado,Argentina
 Brazil,0,3,0,2.5,Brazil,Spanish speaker,99,Brazil,Spanish speaker,Brazil
 Brazil,0,3,0,2.5,Brazil,Delicious food,99,Brazil,Delicious food,Brazil
 Brazil,0,3,0,2.5,Brazil, kind,99,Brazil, kind,Brazil
@@ -363,141 +363,141 @@ Brazil,0,3,0,2.5,Brazil, generous,99,Brazil, generous,Brazil
 Brazil,0,3,0,2.5,Brazil,  malicious,99,Brazil,  malicious,Brazil
 Brazil,0,3,0,2.5,Brazil, corruption,99,Brazil, corruption,Brazil
 Brazil,0,3,0,2.5,Brazil, ,99,Brazil, ,Brazil
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
-Argentina,0,3,0,2.5,Argentina,ventajero,516,Argentina,ventajero,Argentina
-Argentina,0,3,0,2.5,Argentina,futbol,516,Argentina,futbol,Argentina
-Argentina,0,3,0,2.5,Argentina,football,516,Argentina,football,Argentina
-Argentina,0,3,0,2.5,Argentina,Friendly,516,Argentina,Friendly,Argentina
-Argentina,0,3,0,2.5,Argentina,alfajores,516,Argentina,alfajores,Argentina
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
+Argentina,0,3,0,2.5,Argentina,ventajero,572,Argentina,ventajero,Argentina
+Argentina,0,3,0,2.5,Argentina,futbol,572,Argentina,futbol,Argentina
+Argentina,0,3,0,2.5,Argentina,football,572,Argentina,football,Argentina
+Argentina,0,3,0,2.5,Argentina,Friendly,572,Argentina,Friendly,Argentina
+Argentina,0,3,0,2.5,Argentina,alfajores,572,Argentina,alfajores,Argentina
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
 Chile,0,3,0,2.5,Chile,bipolar ,108,Chile,bipolar ,Chile
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
-Argentina,0,3,0,2.5,Argentina,Workaholic,516,Argentina,Workaholic,Argentina
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
+Argentina,0,3,0,2.5,Argentina,Workaholic,572,Argentina,Workaholic,Argentina
 Chile,0,3,0,2.5,Chile,Horrible,108,Chile,Horrible,Chile
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
-Cuba,0,3,0,2.5,Cuba,extroverts,41,Cuba,extroverts,Cuba
-Argentina,0,3,0,2.5,Argentina,Alfajor,516,Argentina,Alfajor,Argentina
-Argentina,0,3,0,2.5,Argentina,Competitive,516,Argentina,Competitive,Argentina
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
-Colombia,0,3,0,2.5,Costa Rica,relaxed,41,Costa Rica,relaxed,Costa Rica
-Costa Rica,0,3,0,2.5,Costa Rica,relaxed,65,Costa Rica,relaxed,Costa Rica
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
-Mexico,0,3,0,2.5,Mexico,I eat tacos,88,Mexico,I eat tacos,Mexico
-Mexico,0,3,0,2.5,Mexico, I eat tortilla,88,Mexico, I eat tortilla,Mexico
-Mexico,0,3,0,2.5,Mexico, I eat beans,88,Mexico, I eat beans,Mexico
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
+Cuba,0,3,0,2.5,Cuba,extroverts,44,Cuba,extroverts,Cuba
+Argentina,0,3,0,2.5,Argentina,Alfajor,572,Argentina,Alfajor,Argentina
+Argentina,0,3,0,2.5,Argentina,Competitive,572,Argentina,Competitive,Argentina
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
+Colombia,0,3,0,2.5,Costa Rica,relaxed,42,Costa Rica,relaxed,Costa Rica
+Costa Rica,0,3,0,2.5,Costa Rica,relaxed,72,Costa Rica,relaxed,Costa Rica
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
+Mexico,0,3,0,2.5,Mexico,I eat tacos,99,Mexico,I eat tacos,Mexico
+Mexico,0,3,0,2.5,Mexico, I eat tortilla,99,Mexico, I eat tortilla,Mexico
+Mexico,0,3,0,2.5,Mexico, I eat beans,99,Mexico, I eat beans,Mexico
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
 Ecuador,0,3,0,2.5,Ecuador,4 diversity’s regions ,30,Ecuador,4 diversity’s regions ,Ecuador
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
-Spain,0,3,0,2.5,Spain,not punctual,31,Spain,not punctual,Spain
-Argentina,0,3,0,2.5,Argentina,Facturas,516,Argentina,Facturas,Argentina
-Uruguay,0,3,0,2.5,Uruguay,need to corroborate our small existence,128,Uruguay,need to corroborate our small existence,Uruguay
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
-Costa Rica,0,3,0,2.5,Costa Rica,gentleness,65,Costa Rica,gentleness,Costa Rica
-Cuba,0,3,0,2.5,Cuba,Best rum,41,Cuba,Best rum,Cuba
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
+Spain,0,3,0,2.5,Spain,not punctual,37,Spain,not punctual,Spain
+Argentina,0,3,0,2.5,Argentina,Facturas,572,Argentina,Facturas,Argentina
+Uruguay,0,3,0,2.5,Uruguay,need to corroborate our small existence,151,Uruguay,need to corroborate our small existence,Uruguay
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
+Costa Rica,0,3,0,2.5,Costa Rica,gentleness,72,Costa Rica,gentleness,Costa Rica
+Cuba,0,3,0,2.5,Cuba,Best rum,44,Cuba,Best rum,Cuba
 Chile,0,3,0,2.5,Chile,Salmon,108,Chile,Salmon,Chile
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
 Ecuador,0,3,0,2.5,Ecuador,Ceviche ,30,Ecuador,Ceviche ,Ecuador
-Uruguay,0,3,0,2.5,Uruguay,grass,128,Uruguay,grass,Uruguay
-Argentina,0,3,0,2.5,Argentina,asado,516,Argentina,asado,Argentina
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
+Uruguay,0,3,0,2.5,Uruguay,grass,151,Uruguay,grass,Uruguay
+Argentina,0,3,0,2.5,Argentina,asado,572,Argentina,asado,Argentina
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
 Chile,0,3,0,2.5,Chile,Salmon,108,Chile,Salmon,Chile
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
-Costa Rica,0,3,0,2.5,Costa Rica,symphaty,65,Costa Rica,symphaty,Costa Rica
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
+Costa Rica,0,3,0,2.5,Costa Rica,symphaty,72,Costa Rica,symphaty,Costa Rica
 Nicaragua,0,3,0,2.5,Nicaragua,Lakes,18,Nicaragua,Lakes,Nicaragua
 Chile,0,3,0,2.5,Chile,astronomy,108,Chile,astronomy,Chile
-Spain,0,3,0,2.5,Spain,open and welcoming,31,Spain,open and welcoming,Spain
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
-Cuba,0,3,0,2.5,Cuba,Diverse people,41,Cuba,Diverse people,Cuba
-Uruguay,0,3,0,2.5,Uruguay,garra charrua,128,Uruguay,garra charrua,Uruguay
-Argentina,0,3,0,2.5,Argentina,Depressive ,516,Argentina,Depressive ,Argentina
-Uruguay,0,3,0,2.5,Uruguay,marihuana,128,Uruguay,marihuana,Uruguay
-Argentina,0,3,0,2.5,Argentina,tango,516,Argentina,tango,Argentina
-Uruguay,0,3,0,2.5,Uruguay,weed,128,Uruguay,weed,Uruguay
-Uruguay,0,3,0,2.5,Uruguay,Pepe Mujica,128,Uruguay,Pepe Mujica,Uruguay
-Costa Rica,0,3,0,2.5,Costa Rica,comen mucho en el desayuno,65,Costa Rica,comen mucho en el desayuno,Costa Rica
-Cuba,0,3,0,2.5,Cuba,Lot of old and classics american cars,41,Cuba,Lot of old and classics american cars,Cuba
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
+Spain,0,3,0,2.5,Spain,open and welcoming,37,Spain,open and welcoming,Spain
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
+Cuba,0,3,0,2.5,Cuba,Diverse people,44,Cuba,Diverse people,Cuba
+Uruguay,0,3,0,2.5,Uruguay,garra charrua,151,Uruguay,garra charrua,Uruguay
+Argentina,0,3,0,2.5,Argentina,Depressive ,572,Argentina,Depressive ,Argentina
+Uruguay,0,3,0,2.5,Uruguay,marihuana,151,Uruguay,marihuana,Uruguay
+Argentina,0,3,0,2.5,Argentina,tango,572,Argentina,tango,Argentina
+Uruguay,0,3,0,2.5,Uruguay,weed,151,Uruguay,weed,Uruguay
+Uruguay,0,3,0,2.5,Uruguay,Pepe Mujica,151,Uruguay,Pepe Mujica,Uruguay
+Costa Rica,0,3,0,2.5,Costa Rica,comen mucho en el desayuno,72,Costa Rica,comen mucho en el desayuno,Costa Rica
+Cuba,0,3,0,2.5,Cuba,Lot of old and classics american cars,44,Cuba,Lot of old and classics american cars,Cuba
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
 Brazil,0,3,0,2.5,Brazil,Carnival,99,Brazil,Carnival,Brazil
-Argentina,0,3,0,2.5,Argentina,molestos,516,Argentina,molestos,Argentina
-Uruguay,0,3,0,2.5,Uruguay,progressist,128,Uruguay,progressist,Uruguay
-Argentina,0,3,0,2.5,France,play football,516,France,play football,France
-Argentina,0,3,0,2.5,France, eat asado,516,France, eat asado,France
-Argentina,0,3,0,2.5,France, maradona,516,France, maradona,France
+Argentina,0,3,0,2.5,Argentina,molestos,572,Argentina,molestos,Argentina
+Uruguay,0,3,0,2.5,Uruguay,progressist,151,Uruguay,progressist,Uruguay
+Argentina,0,3,0,2.5,France,play football,572,France,play football,France
+Argentina,0,3,0,2.5,France, eat asado,572,France, eat asado,France
+Argentina,0,3,0,2.5,France, maradona,572,France, maradona,France
 Nicaragua,0,3,0,2.5,Nicaragua,Volcanoes ,18,Nicaragua,Volcanoes ,Nicaragua
-Uruguay,0,3,0,2.5,Uruguay,Cavani,128,Uruguay,Cavani,Uruguay
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
-Uruguay,0,3,0,2.5,Uruguay,Uruguay es el mejor pais,128,Uruguay,Uruguay es el mejor pais,Uruguay
+Uruguay,0,3,0,2.5,Uruguay,Cavani,151,Uruguay,Cavani,Uruguay
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
+Uruguay,0,3,0,2.5,Uruguay,Uruguay es el mejor pais,151,Uruguay,Uruguay es el mejor pais,Uruguay
 Peru,0,3,0,2.5,Brazil,diverse,28,Brazil,diverse,Brazil
 Brazil,0,3,0,2.5,Brazil,diverse,99,Brazil,diverse,Brazil
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
 Brazil,0,3,0,2.5,Brazil,plastic surgery,99,Brazil,plastic surgery,Brazil
-Cuba,0,3,0,2.5,Cuba,Good at baseball,41,Cuba,Good at baseball,Cuba
-Uruguay,0,3,0,2.5,Uruguay,Mejor que Francia y mejor que Paris,128,Uruguay,Mejor que Francia y mejor que Paris,Uruguay
-Colombia,0,3,0,2.5,Costa Rica,good nature,41,Costa Rica,good nature,Costa Rica
-Colombia,0,3,0,2.5,Costa Rica, green,41,Costa Rica, green,Costa Rica
-Colombia,0,3,0,2.5,Costa Rica, ecological,41,Costa Rica, ecological,Costa Rica
-Costa Rica,0,3,0,2.5,Costa Rica,good nature,65,Costa Rica,good nature,Costa Rica
-Costa Rica,0,3,0,2.5,Costa Rica, green,65,Costa Rica, green,Costa Rica
-Costa Rica,0,3,0,2.5,Costa Rica, ecological,65,Costa Rica, ecological,Costa Rica
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
-Uruguay,0,3,0,2.5,Uruguay,rights,128,Uruguay,rights,Uruguay
+Cuba,0,3,0,2.5,Cuba,Good at baseball,44,Cuba,Good at baseball,Cuba
+Uruguay,0,3,0,2.5,Uruguay,Mejor que Francia y mejor que Paris,151,Uruguay,Mejor que Francia y mejor que Paris,Uruguay
+Colombia,0,3,0,2.5,Costa Rica,good nature,42,Costa Rica,good nature,Costa Rica
+Colombia,0,3,0,2.5,Costa Rica, green,42,Costa Rica, green,Costa Rica
+Colombia,0,3,0,2.5,Costa Rica, ecological,42,Costa Rica, ecological,Costa Rica
+Costa Rica,0,3,0,2.5,Costa Rica,good nature,72,Costa Rica,good nature,Costa Rica
+Costa Rica,0,3,0,2.5,Costa Rica, green,72,Costa Rica, green,Costa Rica
+Costa Rica,0,3,0,2.5,Costa Rica, ecological,72,Costa Rica, ecological,Costa Rica
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
+Uruguay,0,3,0,2.5,Uruguay,rights,151,Uruguay,rights,Uruguay
 Nicaragua,0,3,0,2.5,Nicaragua,warm,18,Nicaragua,warm,Nicaragua
 Brazil,0,3,0,2.5,Brazil,Portuguese Speaker,99,Brazil,Portuguese Speaker,Brazil
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
-Uruguay,0,3,0,2.5,Uruguay,respect,128,Uruguay,respect,Uruguay
-Argentina,0,3,0,2.5,Argentina,economical instability,516,Argentina,economical instability,Argentina
-Argentina,0,3,0,2.5,Argentina, inflation,516,Argentina, inflation,Argentina
-Argentina,0,3,0,2.5,Argentina, human rights,516,Argentina, human rights,Argentina
-Uruguay,0,3,0,2.5,Uruguay,colaborative,128,Uruguay,colaborative,Uruguay
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
-Uruguay,0,3,0,2.5,Uruguay,dulce de leche,128,Uruguay,dulce de leche,Uruguay
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
+Uruguay,0,3,0,2.5,Uruguay,respect,151,Uruguay,respect,Uruguay
+Argentina,0,3,0,2.5,Argentina,economical instability,572,Argentina,economical instability,Argentina
+Argentina,0,3,0,2.5,Argentina, inflation,572,Argentina, inflation,Argentina
+Argentina,0,3,0,2.5,Argentina, human rights,572,Argentina, human rights,Argentina
+Uruguay,0,3,0,2.5,Uruguay,colaborative,151,Uruguay,colaborative,Uruguay
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
+Uruguay,0,3,0,2.5,Uruguay,dulce de leche,151,Uruguay,dulce de leche,Uruguay
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
 Chile,0,3,0,2.5,Chile,Salitre,108,Chile,Salitre,Chile
 Chile,0,3,0,2.5,Chile, cobre,108,Chile, cobre,Chile
 Chile,0,3,0,2.5,Chile, salmon,108,Chile, salmon,Chile
@@ -513,162 +513,195 @@ Chile,0,3,0,2.5,Chile, bosques,108,Chile, bosques,Chile
 Chile,0,3,0,2.5,Chile, carretera austral,108,Chile, carretera austral,Chile
 Chile,0,3,0,2.5,Chile, valparaiso,108,Chile, valparaiso,Chile
 Chile,0,3,0,2.5,Chile, viña del mar,108,Chile, viña del mar,Chile
-Uruguay,0,3,0,2.5,Uruguay,secure,128,Uruguay,secure,Uruguay
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
+Uruguay,0,3,0,2.5,Uruguay,secure,151,Uruguay,secure,Uruguay
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
 Peru,0,3,0,2.5,Brazil,churrasco,28,Brazil,churrasco,Brazil
 Brazil,0,3,0,2.5,Brazil,churrasco,99,Brazil,churrasco,Brazil
-Argentina,0,3,0,2.5,Argentina,play football,516,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Argentina, eat asado,516,Argentina, eat asado,Argentina
-Argentina,0,3,0,2.5,Argentina, maradona,516,Argentina, maradona,Argentina
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
 Chile,0,3,0,2.5,Chile,Cold,108,Chile,Cold,Chile
-Uruguay,0,3,0,2.5,Uruguay,nice,128,Uruguay,nice,Uruguay
+Uruguay,0,3,0,2.5,Uruguay,nice,151,Uruguay,nice,Uruguay
 Brazil,0,3,0,2.5,Brazil, Carnival,99,Brazil, Carnival,Brazil
 Brazil,0,3,0,2.5,Brazil, beach,99,Brazil, beach,Brazil
-Costa Rica,0,3,0,2.5,Costa Rica,playas paradisiacas,65,Costa Rica,playas paradisiacas,Costa Rica
-Cuba,0,3,0,2.5,Cuba,promiscuous,41,Cuba,promiscuous,Cuba
-Argentina,0,3,0,2.5,Chile,not supportive,516,Chile,not supportive,Chile
-Uruguay,0,3,0,2.5,Uruguay,great soccer players,128,Uruguay,great soccer players,Uruguay
-Argentina,0,3,0,2.5,El Salvador,gangs,516,El Salvador,gangs,El Salvador
+Costa Rica,0,3,0,2.5,Costa Rica,playas paradisiacas,72,Costa Rica,playas paradisiacas,Costa Rica
+Cuba,0,3,0,2.5,Cuba,promiscuous,44,Cuba,promiscuous,Cuba
+Argentina,0,3,0,2.5,Chile,not supportive,572,Chile,not supportive,Chile
+Uruguay,0,3,0,2.5,Uruguay,great soccer players,151,Uruguay,great soccer players,Uruguay
+Argentina,0,3,0,2.5,El Salvador,gangs,572,El Salvador,gangs,El Salvador
 Peru,0,3,0,2.5,Brazil,open-minded people,28,Brazil,open-minded people,Brazil
 Brazil,0,3,0,2.5,Brazil,open-minded people,99,Brazil,open-minded people,Brazil
-Uruguay,0,3,0,2.5,Uruguay,non competitive,128,Uruguay,non competitive,Uruguay
-Argentina,0,3,0,2.5,France,bread,516,France,bread,France
+Uruguay,0,3,0,2.5,Uruguay,non competitive,151,Uruguay,non competitive,Uruguay
+Argentina,0,3,0,2.5,France,bread,572,France,bread,France
 Argentina,0,3,0,2.5,France," 
-xenophobic",516,France," 
+xenophobic",572,France," 
 xenophobic",France
-Argentina,0,3,0,2.5,United States,entitled,516,United States,entitled,United States
-Argentina,0,3,0,2.5,United States,ignorant,516,United States,ignorant,United States
-Argentina,0,3,0,2.5,United States,colonialists,516,United States,colonialists,United States
-Argentina,0,3,0,2.5,United States,belligerent,516,United States,belligerent,United States
-Argentina,0,3,0,2.5,United States,invaders,516,United States,invaders,United States
-Uruguay,0,3,0,2.5,Uruguay,humble,128,Uruguay,humble,Uruguay
-Colombia,0,3,0,2.5,Colombia,Bandeja paisa,41,Colombia,Bandeja paisa,Colombia
-Colombia,0,3,0,2.5,Colombia, buñuelo,41,Colombia, buñuelo,Colombia
-Colombia,0,3,0,2.5,Colombia, almohabana,41,Colombia, almohabana,Colombia
-Costa Rica,0,3,0,2.5,Colombia,Bandeja paisa,65,Colombia,Bandeja paisa,Colombia
-Costa Rica,0,3,0,2.5,Colombia, buñuelo,65,Colombia, buñuelo,Colombia
-Costa Rica,0,3,0,2.5,Colombia, almohabana,65,Colombia, almohabana,Colombia
+Argentina,0,3,0,2.5,United States,entitled,572,United States,entitled,United States
+Argentina,0,3,0,2.5,United States,ignorant,572,United States,ignorant,United States
+Argentina,0,3,0,2.5,United States,colonialists,572,United States,colonialists,United States
+Argentina,0,3,0,2.5,United States,belligerent,572,United States,belligerent,United States
+Argentina,0,3,0,2.5,United States,invaders,572,United States,invaders,United States
+Uruguay,0,3,0,2.5,Uruguay,humble,151,Uruguay,humble,Uruguay
+Colombia,0,3,0,2.5,Colombia,Bandeja paisa,42,Colombia,Bandeja paisa,Colombia
+Colombia,0,3,0,2.5,Colombia, buñuelo,42,Colombia, buñuelo,Colombia
+Colombia,0,3,0,2.5,Colombia, almohabana,42,Colombia, almohabana,Colombia
+Costa Rica,0,3,0,2.5,Colombia,Bandeja paisa,72,Colombia,Bandeja paisa,Colombia
+Costa Rica,0,3,0,2.5,Colombia, buñuelo,72,Colombia, buñuelo,Colombia
+Costa Rica,0,3,0,2.5,Colombia, almohabana,72,Colombia, almohabana,Colombia
 Nicaragua,0,3,0,2.5,Nicaragua,hot,18,Nicaragua,hot,Nicaragua
-Uruguay,0,3,0,2.5,Argentina,spoken,128,Argentina,spoken,Argentina
+Uruguay,0,3,0,2.5,Uruguay,pasta,151,Uruguay,pasta,Uruguay
+Argentina,0,3,0,2.5,Israel,warmongers,572,Israel,warmongers,Israel
+Argentina,0,3,0,2.5,Israel, conquerors,572,Israel, conquerors,Israel
+Argentina,0,3,0,2.5,Israel, occupy lands,572,Israel, occupy lands,Israel
+Uruguay,0,3,0,2.5,Uruguay,pizza,151,Uruguay,pizza,Uruguay
+Spain,0,3,0,2.5,Spain,like bullfighting,37,Spain,like bullfighting,Spain
+Costa Rica,0,3,0,2.5,Costa Rica,a todo le echan salsa lizano,72,Costa Rica,a todo le echan salsa lizano,Costa Rica
+Uruguay,0,3,0,2.5,Uruguay,churros,151,Uruguay,churros,Uruguay
+Uruguay,0,3,0,2.5,Uruguay,rebel province,151,Uruguay,rebel province,Uruguay
+Argentina,0,3,0,2.5,Argentina,Good education,572,Argentina,Good education,Argentina
+Spain,0,3,0,2.5,Spain,eat paella,37,Spain,eat paella,Spain
+Uruguay,0,3,0,2.5,Uruguay,murga,151,Uruguay,murga,Uruguay
+Costa Rica,0,3,0,2.5,Costa Rica,gallo pinto,72,Costa Rica,gallo pinto,Costa Rica
+Argentina,0,3,0,2.5,Germany,fascism,572,Germany,fascism,Germany
+Uruguay,0,3,0,2.5,Uruguay,candombe,151,Uruguay,candombe,Uruguay
+Cuba,0,3,0,2.5,Cuba,Nice people,44,Cuba,Nice people,Cuba
+Uruguay,0,3,0,2.5,Uruguay,carnaval,151,Uruguay,carnaval,Uruguay
+Uruguay,0,3,0,2.5,Uruguay,dulce de leche,151,Uruguay,dulce de leche,Uruguay
+Argentina,0,3,0,2.5,Argentina,Argumentative,572,Argentina,Argumentative,Argentina
+Spain,0,3,0,2.5,Spain,can dance flamenco,37,Spain,can dance flamenco,Spain
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
+Argentina,0,3,0,2.5,Argentina,play football,572,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Argentina, eat asado,572,Argentina, eat asado,Argentina
+Argentina,0,3,0,2.5,Argentina, maradona,572,Argentina, maradona,Argentina
+Uruguay,0,3,0,2.5,Uruguay,rio,151,Uruguay,rio,Uruguay
+Costa Rica,0,3,0,2.5,Costa Rica,tomar café,72,Costa Rica,tomar café,Costa Rica
+Argentina,0,3,0,2.5,Argentina,football,572,Argentina,football,Argentina
+Argentina,0,3,0,2.5,Argentina, beef,572,Argentina, beef,Argentina
+Argentina,0,3,0,2.5,Argentina, tango,572,Argentina, tango,Argentina
+Argentina,0,3,0,2.5,Argentina, mate,572,Argentina, mate,Argentina
+Uruguay,0,3,0,2.5,Uruguay,money laundary,151,Uruguay,money laundary,Uruguay
+Uruguay,0,3,0,2.5,Argentina,spoken,151,Argentina,spoken,Argentina
 Peru,0,3,0,2.5,Brazil,friendly,28,Brazil,friendly,Brazil
 Peru,0,3,0,2.5,Canada,friendly,28,Canada,friendly,Canada
 Brazil,0,3,0,2.5,Brazil,friendly,99,Brazil,friendly,Brazil
 Brazil,0,3,0,2.5,Canada,friendly,99,Canada,friendly,Canada
-Cuba,0,3,0,2.5,Dominican Republic,Devotion,41,Dominican Republic,Devotion,Dominican Republic
-Argentina,0,3,0,2.5,United States,cigars,516,United States,cigars,United States
-Argentina,0,3,0,2.5,Mexico,coke,516,Mexico,coke,Mexico
+Cuba,0,3,0,2.5,Dominican Republic,Devotion,44,Dominican Republic,Devotion,Dominican Republic
+Argentina,0,3,0,2.5,United States,cigars,572,United States,cigars,United States
+Argentina,0,3,0,2.5,Mexico,coke,572,Mexico,coke,Mexico
 Chile,0,3,0,2.5,Ethiopia,poor,108,Ethiopia,poor,Ethiopia
-Argentina,0,3,0,2.5,Italy,delicious food,516,Italy,delicious food,Italy
+Argentina,0,3,0,2.5,Italy,delicious food,572,Italy,delicious food,Italy
 Chile,0,3,0,2.5,Venezuela,comunism,108,Venezuela,comunism,Venezuela
-Cuba,0,3,0,2.5,Saudi Arabia,Devotion,41,Saudi Arabia,Devotion,Saudi Arabia
-Uruguay,0,3,0,2.5,Chile,craftsmanship,128,Chile,craftsmanship,Chile
-Uruguay,0,3,0,2.5,Bolivia,craftsmanship,128,Bolivia,craftsmanship,Bolivia
-Uruguay,0,3,0,2.5,Germany,craftsmanship,128,Germany,craftsmanship,Germany
-Argentina,0,3,0,2.5,Bolivia,spoken,516,Bolivia,spoken,Bolivia
-Cuba,0,3,0,2.5,Venezuela,Fidel Castro,41,Venezuela,Fidel Castro,Venezuela
-Argentina,0,3,0,2.5,Argentina,I speak Spanish,516,Argentina,I speak Spanish,Argentina
-Argentina,0,3,0,2.5,Colombia,I speak Spanish,516,Colombia,I speak Spanish,Colombia
-Argentina,0,3,0,2.5,Bolivia,I speak Spanish,516,Bolivia,I speak Spanish,Bolivia
-Argentina,0,3,0,2.5,Paraguay,I speak Spanish,516,Paraguay,I speak Spanish,Paraguay
-Argentina,0,3,0,2.5,Spain,I speak Spanish,516,Spain,I speak Spanish,Spain
-Costa Rica,0,3,0,2.5,India,they love salsa,65,India,they love salsa,India
-Uruguay,0,3,0,2.5,United States,Devotion,128,United States,Devotion,United States
-Argentina,0,3,0,2.5,Iran,Devotion,516,Iran,Devotion,Iran
-Argentina,0,3,0,2.5,Uruguay,Mate  drink,516,Uruguay,Mate  drink,Uruguay
-Argentina,0,3,0,2.5,Syria,Mate  drink,516,Syria,Mate  drink,Syria
-Cuba,0,3,0,2.5,North Korea,People wants freedom,41,North Korea,People wants freedom,North Korea
+Cuba,0,3,0,2.5,Saudi Arabia,Devotion,44,Saudi Arabia,Devotion,Saudi Arabia
+Uruguay,0,3,0,2.5,Chile,craftsmanship,151,Chile,craftsmanship,Chile
+Uruguay,0,3,0,2.5,Bolivia,craftsmanship,151,Bolivia,craftsmanship,Bolivia
+Uruguay,0,3,0,2.5,Germany,craftsmanship,151,Germany,craftsmanship,Germany
+Argentina,0,3,0,2.5,Bolivia,spoken,572,Bolivia,spoken,Bolivia
+Cuba,0,3,0,2.5,Venezuela,Fidel Castro,44,Venezuela,Fidel Castro,Venezuela
+Argentina,0,3,0,2.5,Argentina,I speak Spanish,572,Argentina,I speak Spanish,Argentina
+Argentina,0,3,0,2.5,Colombia,I speak Spanish,572,Colombia,I speak Spanish,Colombia
+Argentina,0,3,0,2.5,Bolivia,I speak Spanish,572,Bolivia,I speak Spanish,Bolivia
+Argentina,0,3,0,2.5,Paraguay,I speak Spanish,572,Paraguay,I speak Spanish,Paraguay
+Argentina,0,3,0,2.5,Spain,I speak Spanish,572,Spain,I speak Spanish,Spain
+Costa Rica,0,3,0,2.5,India,they love salsa,72,India,they love salsa,India
+Uruguay,0,3,0,2.5,United States,Devotion,151,United States,Devotion,United States
+Argentina,0,3,0,2.5,Iran,Devotion,572,Iran,Devotion,Iran
+Argentina,0,3,0,2.5,Uruguay,Mate  drink,572,Uruguay,Mate  drink,Uruguay
+Argentina,0,3,0,2.5,Syria,Mate  drink,572,Syria,Mate  drink,Syria
+Cuba,0,3,0,2.5,North Korea,People wants freedom,44,North Korea,People wants freedom,North Korea
 Ecuador,0,3,0,2.5,United States,coke,30,United States,coke,United States
-Argentina,0,3,0,2.5,Uruguay,Mate  drink,516,Uruguay,Mate  drink,Uruguay
-Argentina,0,3,0,2.5,Uruguay,Mate  drink,516,Uruguay,Mate  drink,Uruguay
-Argentina,0,3,0,2.5,Paraguay,Mate  drink,516,Paraguay,Mate  drink,Paraguay
-Argentina,0,3,0,2.5,Colombia,dancer,516,Colombia,dancer,Colombia
-Argentina,0,3,0,2.5,Uruguay,Mate  drink,516,Uruguay,Mate  drink,Uruguay
+Argentina,0,3,0,2.5,Uruguay,Mate  drink,572,Uruguay,Mate  drink,Uruguay
+Argentina,0,3,0,2.5,Uruguay,Mate  drink,572,Uruguay,Mate  drink,Uruguay
+Argentina,0,3,0,2.5,Paraguay,Mate  drink,572,Paraguay,Mate  drink,Paraguay
+Argentina,0,3,0,2.5,Colombia,dancer,572,Colombia,dancer,Colombia
+Argentina,0,3,0,2.5,Uruguay,Mate  drink,572,Uruguay,Mate  drink,Uruguay
 Chile,0,3,0,2.5,Peru,craftsmanship,108,Peru,craftsmanship,Peru
-Argentina,0,3,0,2.5,United Kingdom,Capitlaism,516,United Kingdom,Capitlaism,United Kingdom
-Argentina,0,3,0,2.5,Chile,I speak Spanish,516,Chile,I speak Spanish,Chile
-Argentina,0,3,0,2.5,United States,spoken,516,United States,spoken,United States
-Uruguay,0,3,0,2.5,Chile,Fat,128,Chile,Fat,Chile
-Argentina,0,3,0,2.5,Brazil,spoken,516,Brazil,spoken,Brazil
-Argentina,0,3,0,2.5,Italy,arrogant,516,Italy,arrogant,Italy
-Argentina,0,3,0,2.5,Nigeria,scammer,516,Nigeria,scammer,Nigeria
+Argentina,0,3,0,2.5,United Kingdom,Capitlaism,572,United Kingdom,Capitlaism,United Kingdom
+Argentina,0,3,0,2.5,Chile,I speak Spanish,572,Chile,I speak Spanish,Chile
+Argentina,0,3,0,2.5,United States,spoken,572,United States,spoken,United States
+Uruguay,0,3,0,2.5,Chile,Fat,151,Chile,Fat,Chile
+Argentina,0,3,0,2.5,Brazil,spoken,572,Brazil,spoken,Brazil
+Argentina,0,3,0,2.5,Italy,arrogant,572,Italy,arrogant,Italy
+Argentina,0,3,0,2.5,Nigeria,scammer,572,Nigeria,scammer,Nigeria
 Chile,0,3,0,2.5,Mexico,friendly,108,Mexico,friendly,Mexico
 Chile,0,3,0,2.5,Costa Rica,friendly,108,Costa Rica,friendly,Costa Rica
 Chile,0,3,0,2.5,Chile,friendly,108,Chile,friendly,Chile
-Argentina,0,3,0,2.5,Brazil,play football,516,Brazil,play football,Brazil
+Argentina,0,3,0,2.5,Brazil,play football,572,Brazil,play football,Brazil
 Chile,0,3,0,2.5,Peru,Andes Mountains,108,Peru,Andes Mountains,Peru
 Chile,0,3,0,2.5,Colombia,Andes Mountains,108,Colombia,Andes Mountains,Colombia
 Chile,0,3,0,2.5,Bolivia,Andes Mountains,108,Bolivia,Andes Mountains,Bolivia
 Chile,0,3,0,2.5,Argentina,Andes Mountains,108,Argentina,Andes Mountains,Argentina
 Chile,0,3,0,2.5,Ecuador,Andes Mountains,108,Ecuador,Andes Mountains,Ecuador
-Argentina,0,3,0,2.5,Uruguay,play football,516,Uruguay,play football,Uruguay
+Argentina,0,3,0,2.5,Uruguay,play football,572,Uruguay,play football,Uruguay
 Brazil,0,3,0,2.5,Canada,friendly,99,Canada,friendly,Canada
 Brazil,0,3,0,2.5,Colombia,friendly,99,Colombia,friendly,Colombia
-Argentina,0,3,0,2.5,United States,arrogant,516,United States,arrogant,United States
-Argentina,0,3,0,2.5,United States,eat asado,516,United States,eat asado,United States
+Argentina,0,3,0,2.5,United States,arrogant,572,United States,arrogant,United States
+Argentina,0,3,0,2.5,United States,eat asado,572,United States,eat asado,United States
 Ecuador,0,3,0,2.5,Argentina,Mate  drink,30,Argentina,Mate  drink,Argentina
-Argentina,0,3,0,2.5,Bolivia,Inequality,516,Bolivia,Inequality,Bolivia
-Argentina,0,3,0,2.5,Chile,Inequality,516,Chile,Inequality,Chile
-Argentina,0,3,0,2.5,Argentina,Inequality,516,Argentina,Inequality,Argentina
-Argentina,0,3,0,2.5,France,liar,516,France,liar,France
-Argentina,0,3,0,2.5,Paraguay,generous,516,Paraguay,generous,Paraguay
-Argentina,0,3,0,2.5,United States,Big ego,516,United States,Big ego,United States
+Argentina,0,3,0,2.5,Bolivia,Inequality,572,Bolivia,Inequality,Bolivia
+Argentina,0,3,0,2.5,Chile,Inequality,572,Chile,Inequality,Chile
+Argentina,0,3,0,2.5,Argentina,Inequality,572,Argentina,Inequality,Argentina
+Argentina,0,3,0,2.5,France,liar,572,France,liar,France
+Argentina,0,3,0,2.5,Paraguay,generous,572,Paraguay,generous,Paraguay
+Argentina,0,3,0,2.5,United States,Big ego,572,United States,Big ego,United States
 Peru,0,3,0,2.5,Brazil,delicious food,28,Brazil,delicious food,Brazil
 Brazil,0,3,0,2.5,Brazil,delicious food,99,Brazil,delicious food,Brazil
-Uruguay,0,3,0,2.5,Argentina,Stealing from other people's cultures,128,Argentina,Stealing from other people's cultures,Argentina
-Argentina,0,3,0,2.5,Chile,Diverse,516,Chile,Diverse,Chile
-Cuba,0,3,0,2.5,Mexico,Beautiful beaches,41,Mexico,Beautiful beaches,Mexico
-Argentina,0,3,0,2.5,Spain,I speak Spanish,516,Spain,I speak Spanish,Spain
-Argentina,0,3,0,2.5,Uruguay,I speak Spanish,516,Uruguay,I speak Spanish,Uruguay
-Argentina,0,3,0,2.5,Chile,I speak Spanish,516,Chile,I speak Spanish,Chile
-Argentina,0,3,0,2.5,Paraguay,I speak Spanish,516,Paraguay,I speak Spanish,Paraguay
-Argentina,0,3,0,2.5,Bolivia,I speak Spanish,516,Bolivia,I speak Spanish,Bolivia
-Argentina,0,3,0,2.5,Peru,I speak Spanish,516,Peru,I speak Spanish,Peru
-Argentina,0,3,0,2.5,Colombia,I speak Spanish,516,Colombia,I speak Spanish,Colombia
-Argentina,0,3,0,2.5,Ecuador,I speak Spanish,516,Ecuador,I speak Spanish,Ecuador
-Argentina,0,3,0,2.5,Venezuela,I speak Spanish,516,Venezuela,I speak Spanish,Venezuela
-Argentina,0,3,0,2.5,Mexico,I speak Spanish,516,Mexico,I speak Spanish,Mexico
+Uruguay,0,3,0,2.5,Argentina,Stealing from other people's cultures,151,Argentina,Stealing from other people's cultures,Argentina
+Argentina,0,3,0,2.5,Chile,Diverse,572,Chile,Diverse,Chile
+Cuba,0,3,0,2.5,Mexico,Beautiful beaches,44,Mexico,Beautiful beaches,Mexico
+Argentina,0,3,0,2.5,Spain,I speak Spanish,572,Spain,I speak Spanish,Spain
+Argentina,0,3,0,2.5,Uruguay,I speak Spanish,572,Uruguay,I speak Spanish,Uruguay
+Argentina,0,3,0,2.5,Chile,I speak Spanish,572,Chile,I speak Spanish,Chile
+Argentina,0,3,0,2.5,Paraguay,I speak Spanish,572,Paraguay,I speak Spanish,Paraguay
+Argentina,0,3,0,2.5,Bolivia,I speak Spanish,572,Bolivia,I speak Spanish,Bolivia
+Argentina,0,3,0,2.5,Peru,I speak Spanish,572,Peru,I speak Spanish,Peru
+Argentina,0,3,0,2.5,Colombia,I speak Spanish,572,Colombia,I speak Spanish,Colombia
+Argentina,0,3,0,2.5,Ecuador,I speak Spanish,572,Ecuador,I speak Spanish,Ecuador
+Argentina,0,3,0,2.5,Venezuela,I speak Spanish,572,Venezuela,I speak Spanish,Venezuela
+Argentina,0,3,0,2.5,Mexico,I speak Spanish,572,Mexico,I speak Spanish,Mexico
 Brazil,0,3,0,2.5,Argentina,play football,99,Argentina,play football,Argentina
-Argentina,0,3,0,2.5,Brazil,futbol,516,Brazil,futbol,Brazil
-Colombia,0,3,0,2.5,Brazil,dancer,41,Brazil,dancer,Brazil
-Costa Rica,0,3,0,2.5,Brazil,dancer,65,Brazil,dancer,Brazil
-Argentina,0,3,0,2.5,Canada,Friendly,516,Canada,Friendly,Canada
-Argentina,0,3,0,2.5,Uruguay,asado,516,Uruguay,asado,Uruguay
-Argentina,0,3,0,2.5,United States,arrogant,516,United States,arrogant,United States
-Argentina,0,3,0,2.5,Uruguay,drink mate,516,Uruguay,drink mate,Uruguay
-Argentina,0,3,0,2.5,Brazil,Friendly,516,Brazil,Friendly,Brazil
-Argentina,0,3,0,2.5,Bolivia,large,516,Bolivia,large,Bolivia
+Argentina,0,3,0,2.5,Brazil,futbol,572,Brazil,futbol,Brazil
+Colombia,0,3,0,2.5,Brazil,dancer,42,Brazil,dancer,Brazil
+Costa Rica,0,3,0,2.5,Brazil,dancer,72,Brazil,dancer,Brazil
+Argentina,0,3,0,2.5,Canada,Friendly,572,Canada,Friendly,Canada
+Argentina,0,3,0,2.5,Uruguay,asado,572,Uruguay,asado,Uruguay
+Argentina,0,3,0,2.5,United States,arrogant,572,United States,arrogant,United States
+Argentina,0,3,0,2.5,Uruguay,drink mate,572,Uruguay,drink mate,Uruguay
+Argentina,0,3,0,2.5,Brazil,Friendly,572,Brazil,Friendly,Brazil
+Argentina,0,3,0,2.5,Bolivia,large,572,Bolivia,large,Bolivia
 Chile,0,3,0,2.5,Brazil,friendly,108,Brazil,friendly,Brazil
 Chile,0,3,0,2.5,Mexico,friendly,108,Mexico,friendly,Mexico
 Chile,0,3,0,2.5,Malaysia,friendly,108,Malaysia,friendly,Malaysia
-Argentina,0,3,0,2.5,South Korea,liar,516,South Korea,liar,South Korea
-Argentina,0,3,0,2.5,Japan,liar,516,Japan,liar,Japan
-Uruguay,0,3,0,2.5,Argentina,play football,128,Argentina,play football,Argentina
-Uruguay,0,3,0,2.5,United Kingdom,play football,128,United Kingdom,play football,United Kingdom
-Uruguay,0,3,0,2.5,Spain,play football,128,Spain,play football,Spain
-Argentina,0,3,0,2.5,Mexico,Diverse,516,Mexico,Diverse,Mexico
-Argentina,0,3,0,2.5,Uruguay,Mate  drink,516,Uruguay,Mate  drink,Uruguay
-Argentina,0,3,0,2.5,Italy,noisy,516,Italy,noisy,Italy
+Argentina,0,3,0,2.5,South Korea,liar,572,South Korea,liar,South Korea
+Argentina,0,3,0,2.5,Japan,liar,572,Japan,liar,Japan
+Uruguay,0,3,0,2.5,Argentina,play football,151,Argentina,play football,Argentina
+Uruguay,0,3,0,2.5,United Kingdom,play football,151,United Kingdom,play football,United Kingdom
+Uruguay,0,3,0,2.5,Spain,play football,151,Spain,play football,Spain
+Argentina,0,3,0,2.5,Mexico,Diverse,572,Mexico,Diverse,Mexico
+Argentina,0,3,0,2.5,Uruguay,Mate  drink,572,Uruguay,Mate  drink,Uruguay
+Argentina,0,3,0,2.5,Italy,noisy,572,Italy,noisy,Italy
 Ecuador,0,3,0,2.5,Ecuador,Andes Mountains,30,Ecuador,Andes Mountains,Ecuador
 Chile,0,3,0,2.5,Cuba,friendly,108,Cuba,friendly,Cuba
-Argentina,0,3,0,2.5,United States,Fight,516,United States,Fight,United States
-Argentina,0,3,0,2.5,Colombia,Beautiful,516,Colombia,Beautiful,Colombia
-Mexico,0,3,0,2.5,United States,coke,88,United States,coke,United States
+Argentina,0,3,0,2.5,United States,Fight,572,United States,Fight,United States
+Argentina,0,3,0,2.5,Colombia,Beautiful,572,Colombia,Beautiful,Colombia
+Mexico,0,3,0,2.5,United States,coke,99,United States,coke,United States
 Peru,0,3,0,2.5,Argentina,Andes Mountains,28,Argentina,Andes Mountains,Argentina
 Peru,0,3,0,2.5,Chile,Andes Mountains,28,Chile,Andes Mountains,Chile
 Peru,0,3,0,2.5,Ecuador,Andes Mountains,28,Ecuador,Andes Mountains,Ecuador
 Brazil,0,3,0,2.5,Argentina,Andes Mountains,99,Argentina,Andes Mountains,Argentina
 Brazil,0,3,0,2.5,Chile,Andes Mountains,99,Chile,Andes Mountains,Chile
 Brazil,0,3,0,2.5,Ecuador,Andes Mountains,99,Ecuador,Andes Mountains,Ecuador
-Argentina,0,3,0,2.5,Italy,Charismatic,516,Italy,Charismatic,Italy
+Argentina,0,3,0,2.5,Italy,Charismatic,572,Italy,Charismatic,Italy
 Brazil,0,3,0,2.5,Argentina,futbol,99,Argentina,futbol,Argentina
 Brazil,0,3,0,2.5,France,futbol,99,France,futbol,France
 Brazil,0,3,0,2.5,United Kingdom,futbol,99,United Kingdom,futbol,United Kingdom
 Brazil,0,3,0,2.5,Chile,futbol,99,Chile,futbol,Chile
-Uruguay,0,3,0,2.5,Brazil,play football,128,Brazil,play football,Brazil
-Uruguay,0,3,0,2.5,Argentina,play football,128,Argentina,play football,Argentina
-Uruguay,0,3,0,2.5,United Kingdom,play football,128,United Kingdom,play football,United Kingdom
+Uruguay,0,3,0,2.5,Brazil,play football,151,Brazil,play football,Brazil
+Uruguay,0,3,0,2.5,Argentina,play football,151,Argentina,play football,Argentina
+Uruguay,0,3,0,2.5,United Kingdom,play football,151,United Kingdom,play football,United Kingdom
 Brazil,0,3,0,2.5,Colombia,Fun,99,Colombia,Fun,Colombia
 Brazil,0,3,0,2.5,Peru,Fun,99,Peru,Fun,Peru
 Peru,0,3,0,2.5,South Africa,Friendly,28,South Africa,Friendly,South Africa
@@ -679,265 +712,265 @@ Brazil,0,3,0,2.5,Thailand,friendly,99,Thailand,friendly,Thailand
 Brazil,0,3,0,2.5,Italy,friendly,99,Italy,friendly,Italy
 Brazil,0,3,0,2.5,Cuba,friendly,99,Cuba,friendly,Cuba
 Brazil,0,3,0,2.5,Canada,friendly,99,Canada,friendly,Canada
-Argentina,0,3,0,2.5,Costa Rica,Beautiful,516,Costa Rica,Beautiful,Costa Rica
-Argentina,0,3,0,2.5,Uruguay,mate,516,Uruguay,mate,Uruguay
-Argentina,0,3,0,2.5,Chile,Andes Mountains,516,Chile,Andes Mountains,Chile
-Costa Rica,0,3,0,2.5,Afghanistan,poor,65,Afghanistan,poor,Afghanistan
-Costa Rica,0,3,0,2.5,El Salvador,poor,65,El Salvador,poor,El Salvador
-Costa Rica,0,3,0,2.5,Haiti,poor,65,Haiti,poor,Haiti
-Argentina,0,3,0,2.5,Bangladesh,Inequality,516,Bangladesh,Inequality,Bangladesh
-Argentina,0,3,0,2.5,Colombia,generous,516,Colombia,generous,Colombia
-Argentina,0,3,0,2.5,Brazil,big ego,516,Brazil,big ego,Brazil
-Cuba,0,3,0,2.5,China,Comunism,41,China,Comunism,China
-Uruguay,0,3,0,2.5,Argentina,asado,128,Argentina,asado,Argentina
-Argentina,0,3,0,2.5,Colombia,Attractive,516,Colombia,Attractive,Colombia
-Argentina,0,3,0,2.5,France,Attractive,516,France,Attractive,France
-Argentina,0,3,0,2.5,Italy,Attractive,516,Italy,Attractive,Italy
-Argentina,0,3,0,2.5,Brazil,Inequality,516,Brazil,Inequality,Brazil
-Uruguay,0,3,0,2.5,Argentina,Stealing from other people's cultures,128,Argentina,Stealing from other people's cultures,Argentina
+Argentina,0,3,0,2.5,Costa Rica,Beautiful,572,Costa Rica,Beautiful,Costa Rica
+Argentina,0,3,0,2.5,Uruguay,mate,572,Uruguay,mate,Uruguay
+Argentina,0,3,0,2.5,Chile,Andes Mountains,572,Chile,Andes Mountains,Chile
+Costa Rica,0,3,0,2.5,Afghanistan,poor,72,Afghanistan,poor,Afghanistan
+Costa Rica,0,3,0,2.5,El Salvador,poor,72,El Salvador,poor,El Salvador
+Costa Rica,0,3,0,2.5,Haiti,poor,72,Haiti,poor,Haiti
+Argentina,0,3,0,2.5,Bangladesh,Inequality,572,Bangladesh,Inequality,Bangladesh
+Argentina,0,3,0,2.5,Colombia,generous,572,Colombia,generous,Colombia
+Argentina,0,3,0,2.5,Brazil,big ego,572,Brazil,big ego,Brazil
+Cuba,0,3,0,2.5,China,Comunism,44,China,Comunism,China
+Uruguay,0,3,0,2.5,Argentina,asado,151,Argentina,asado,Argentina
+Argentina,0,3,0,2.5,Colombia,Attractive,572,Colombia,Attractive,Colombia
+Argentina,0,3,0,2.5,France,Attractive,572,France,Attractive,France
+Argentina,0,3,0,2.5,Italy,Attractive,572,Italy,Attractive,Italy
+Argentina,0,3,0,2.5,Brazil,Inequality,572,Brazil,Inequality,Brazil
+Uruguay,0,3,0,2.5,Argentina,Stealing from other people's cultures,151,Argentina,Stealing from other people's cultures,Argentina
 Nicaragua,0,3,0,2.5,Argentina,eat asado,18,Argentina,eat asado,Argentina
-Colombia,0,3,0,2.5,Colombia,friendly,41,Colombia,friendly,Colombia
-Costa Rica,0,3,0,2.5,Colombia,friendly,65,Colombia,friendly,Colombia
-Argentina,0,3,0,2.5,Brazil,football,516,Brazil,football,Brazil
-Argentina,0,3,0,2.5,United States,big ego,516,United States,big ego,United States
-Argentina,0,3,0,2.5,France,tango,516,France,tango,France
-Argentina,0,3,0,2.5,United States,beef,516,United States,beef,United States
-Argentina,0,3,0,2.5,Ireland,Melancholic,516,Ireland,Melancholic,Ireland
-Argentina,0,3,0,2.5,Colombia,Friendship,516,Colombia,Friendship,Colombia
-Argentina,0,3,0,2.5,Spain,messi,516,Spain,messi,Spain
+Colombia,0,3,0,2.5,Colombia,friendly,42,Colombia,friendly,Colombia
+Costa Rica,0,3,0,2.5,Colombia,friendly,72,Colombia,friendly,Colombia
+Argentina,0,3,0,2.5,Brazil,football,572,Brazil,football,Brazil
+Argentina,0,3,0,2.5,United States,big ego,572,United States,big ego,United States
+Argentina,0,3,0,2.5,France,tango,572,France,tango,France
+Argentina,0,3,0,2.5,United States,beef,572,United States,beef,United States
+Argentina,0,3,0,2.5,Ireland,Melancholic,572,Ireland,Melancholic,Ireland
+Argentina,0,3,0,2.5,Colombia,Friendship,572,Colombia,Friendship,Colombia
+Argentina,0,3,0,2.5,Spain,messi,572,Spain,messi,Spain
 Chile,0,3,0,2.5,Argentina,I speak Spanish,108,Argentina,I speak Spanish,Argentina
-Uruguay,0,3,0,2.5,Argentina,drink mate,128,Argentina,drink mate,Argentina
-Uruguay,0,3,0,2.5,Paraguay,drink mate,128,Paraguay,drink mate,Paraguay
-Uruguay,0,3,0,2.5,Chile,drink mate,128,Chile,drink mate,Chile
-Mexico,0,3,0,2.5,Colombia,friendly,88,Colombia,friendly,Colombia
-Mexico,0,3,0,2.5,Brazil,friendly,88,Brazil,friendly,Brazil
-Argentina,0,3,0,2.5,Brazil,generous,516,Brazil,generous,Brazil
-Argentina,0,3,0,2.5,Brazil,football,516,Brazil,football,Brazil
-Argentina,0,3,0,2.5,Uruguay,football,516,Uruguay,football,Uruguay
-Argentina,0,3,0,2.5,United Kingdom,football,516,United Kingdom,football,United Kingdom
-Argentina,0,3,0,2.5,Italy,friendly,516,Italy,friendly,Italy
-Argentina,0,3,0,2.5,Brazil,friendly,516,Brazil,friendly,Brazil
-Uruguay,0,3,0,2.5,Argentina,mate,128,Argentina,mate,Argentina
-Uruguay,0,3,0,2.5,Chile,mate,128,Chile,mate,Chile
-Uruguay,0,3,0,2.5,Paraguay,mate,128,Paraguay,mate,Paraguay
-Argentina,0,3,0,2.5,Chile,Andes Mountains,516,Chile,Andes Mountains,Chile
-Argentina,0,3,0,2.5,Mexico,Stealing from other people's cultures,516,Mexico,Stealing from other people's cultures,Mexico
-Mexico,0,3,0,2.5,Colombia,warm,88,Colombia,warm,Colombia
-Mexico,0,3,0,2.5,Brazil,warm,88,Brazil,warm,Brazil
-Spain,0,3,0,2.5,Argentina,I speak Spanish,31,Argentina,I speak Spanish,Argentina
-Spain,0,3,0,2.5,Bolivia,I speak Spanish,31,Bolivia,I speak Spanish,Bolivia
-Spain,0,3,0,2.5,Colombia,I speak Spanish,31,Colombia,I speak Spanish,Colombia
-Spain,0,3,0,2.5,Costa Rica,I speak Spanish,31,Costa Rica,I speak Spanish,Costa Rica
-Spain,0,3,0,2.5,Chile,I speak Spanish,31,Chile,I speak Spanish,Chile
-Spain,0,3,0,2.5,Cuba,I speak Spanish,31,Cuba,I speak Spanish,Cuba
-Spain,0,3,0,2.5,Dominican Republic,I speak Spanish,31,Dominican Republic,I speak Spanish,Dominican Republic
-Spain,0,3,0,2.5,Ecuador,I speak Spanish,31,Ecuador,I speak Spanish,Ecuador
-Spain,0,3,0,2.5,Guatemala,I speak Spanish,31,Guatemala,I speak Spanish,Guatemala
-Spain,0,3,0,2.5,Honduras,I speak Spanish,31,Honduras,I speak Spanish,Honduras
-Spain,0,3,0,2.5,Paraguay,I speak Spanish,31,Paraguay,I speak Spanish,Paraguay
-Spain,0,3,0,2.5,Uruguay,I speak Spanish,31,Uruguay,I speak Spanish,Uruguay
-Spain,0,3,0,2.5,Mexico,I speak Spanish,31,Mexico,I speak Spanish,Mexico
-Spain,0,3,0,2.5,Nicaragua,I speak Spanish,31,Nicaragua,I speak Spanish,Nicaragua
-Spain,0,3,0,2.5,Peru,I speak Spanish,31,Peru,I speak Spanish,Peru
-Argentina,0,3,0,2.5,Argentina,clean,516,Argentina,clean,Argentina
+Uruguay,0,3,0,2.5,Argentina,drink mate,151,Argentina,drink mate,Argentina
+Uruguay,0,3,0,2.5,Paraguay,drink mate,151,Paraguay,drink mate,Paraguay
+Uruguay,0,3,0,2.5,Chile,drink mate,151,Chile,drink mate,Chile
+Mexico,0,3,0,2.5,Colombia,friendly,99,Colombia,friendly,Colombia
+Mexico,0,3,0,2.5,Brazil,friendly,99,Brazil,friendly,Brazil
+Argentina,0,3,0,2.5,Brazil,generous,572,Brazil,generous,Brazil
+Argentina,0,3,0,2.5,Brazil,football,572,Brazil,football,Brazil
+Argentina,0,3,0,2.5,Uruguay,football,572,Uruguay,football,Uruguay
+Argentina,0,3,0,2.5,United Kingdom,football,572,United Kingdom,football,United Kingdom
+Argentina,0,3,0,2.5,Italy,friendly,572,Italy,friendly,Italy
+Argentina,0,3,0,2.5,Brazil,friendly,572,Brazil,friendly,Brazil
+Uruguay,0,3,0,2.5,Argentina,mate,151,Argentina,mate,Argentina
+Uruguay,0,3,0,2.5,Chile,mate,151,Chile,mate,Chile
+Uruguay,0,3,0,2.5,Paraguay,mate,151,Paraguay,mate,Paraguay
+Argentina,0,3,0,2.5,Chile,Andes Mountains,572,Chile,Andes Mountains,Chile
+Argentina,0,3,0,2.5,Mexico,Stealing from other people's cultures,572,Mexico,Stealing from other people's cultures,Mexico
+Mexico,0,3,0,2.5,Colombia,warm,99,Colombia,warm,Colombia
+Mexico,0,3,0,2.5,Brazil,warm,99,Brazil,warm,Brazil
+Spain,0,3,0,2.5,Argentina,I speak Spanish,37,Argentina,I speak Spanish,Argentina
+Spain,0,3,0,2.5,Bolivia,I speak Spanish,37,Bolivia,I speak Spanish,Bolivia
+Spain,0,3,0,2.5,Colombia,I speak Spanish,37,Colombia,I speak Spanish,Colombia
+Spain,0,3,0,2.5,Costa Rica,I speak Spanish,37,Costa Rica,I speak Spanish,Costa Rica
+Spain,0,3,0,2.5,Chile,I speak Spanish,37,Chile,I speak Spanish,Chile
+Spain,0,3,0,2.5,Cuba,I speak Spanish,37,Cuba,I speak Spanish,Cuba
+Spain,0,3,0,2.5,Dominican Republic,I speak Spanish,37,Dominican Republic,I speak Spanish,Dominican Republic
+Spain,0,3,0,2.5,Ecuador,I speak Spanish,37,Ecuador,I speak Spanish,Ecuador
+Spain,0,3,0,2.5,Guatemala,I speak Spanish,37,Guatemala,I speak Spanish,Guatemala
+Spain,0,3,0,2.5,Honduras,I speak Spanish,37,Honduras,I speak Spanish,Honduras
+Spain,0,3,0,2.5,Paraguay,I speak Spanish,37,Paraguay,I speak Spanish,Paraguay
+Spain,0,3,0,2.5,Uruguay,I speak Spanish,37,Uruguay,I speak Spanish,Uruguay
+Spain,0,3,0,2.5,Mexico,I speak Spanish,37,Mexico,I speak Spanish,Mexico
+Spain,0,3,0,2.5,Nicaragua,I speak Spanish,37,Nicaragua,I speak Spanish,Nicaragua
+Spain,0,3,0,2.5,Peru,I speak Spanish,37,Peru,I speak Spanish,Peru
+Argentina,0,3,0,2.5,Argentina,clean,572,Argentina,clean,Argentina
 Brazil,0,3,0,2.5,Argentina,clean,99,Argentina,clean,Argentina
 Ecuador,0,3,0,2.5,Panama,Galapagos,30,Panama,Galapagos,Panama
 Peru,0,3,0,2.5,Ecuador,textil products,28,Ecuador,textil products,Ecuador
 Brazil,0,3,0,2.5,Ecuador,textil products,99,Ecuador,textil products,Ecuador
-Uruguay,0,3,0,2.5,Argentina,football,128,Argentina,football,Argentina
-Argentina,0,3,0,2.5,Spain,messi,516,Spain,messi,Spain
-Argentina,0,3,0,2.5,Brazil,friendly,516,Brazil,friendly,Brazil
-Argentina,0,3,0,2.5,Uruguay,friendly,516,Uruguay,friendly,Uruguay
-Uruguay,0,3,0,2.5,Argentina,Mate,128,Argentina,Mate,Argentina
-Uruguay,0,3,0,2.5,Paraguay,Mate,128,Paraguay,Mate,Paraguay
-Uruguay,0,3,0,2.5,Brazil,Mate,128,Brazil,Mate,Brazil
+Uruguay,0,3,0,2.5,Argentina,football,151,Argentina,football,Argentina
+Argentina,0,3,0,2.5,Spain,messi,572,Spain,messi,Spain
+Argentina,0,3,0,2.5,Brazil,friendly,572,Brazil,friendly,Brazil
+Argentina,0,3,0,2.5,Uruguay,friendly,572,Uruguay,friendly,Uruguay
+Uruguay,0,3,0,2.5,Argentina,Mate,151,Argentina,Mate,Argentina
+Uruguay,0,3,0,2.5,Paraguay,Mate,151,Paraguay,Mate,Paraguay
+Uruguay,0,3,0,2.5,Brazil,Mate,151,Brazil,Mate,Brazil
 Chile,0,3,0,2.5,United States,Fat,108,United States,Fat,United States
 Brazil,0,3,0,2.5,Philippines,naughty,99,Philippines,naughty,Philippines
-Argentina,0,3,0,2.5,Uruguay,dulce de leche,516,Uruguay,dulce de leche,Uruguay
+Argentina,0,3,0,2.5,Uruguay,dulce de leche,572,Uruguay,dulce de leche,Uruguay
 Brazil,0,3,0,2.5,Argentina,Resourceful,99,Argentina,Resourceful,Argentina
-Uruguay,0,3,0,2.5,Argentina,tortafrita,128,Argentina,tortafrita,Argentina
-Argentina,0,3,0,2.5,United Kingdom,friendly,516,United Kingdom,friendly,United Kingdom
+Uruguay,0,3,0,2.5,Argentina,tortafrita,151,Argentina,tortafrita,Argentina
+Argentina,0,3,0,2.5,United Kingdom,friendly,572,United Kingdom,friendly,United Kingdom
 Chile,0,3,0,2.5,Sweden,I speak Spanish,108,Sweden,I speak Spanish,Sweden
 Chile,0,3,0,2.5,Switzerland,I speak Spanish,108,Switzerland,I speak Spanish,Switzerland
 Chile,0,3,0,2.5,Uruguay,I speak Spanish,108,Uruguay,I speak Spanish,Uruguay
-Cuba,0,3,0,2.5,Costa Rica,friendly,41,Costa Rica,friendly,Costa Rica
-Spain,0,3,0,2.5,Italy,like to party,31,Italy,like to party,Italy
+Cuba,0,3,0,2.5,Costa Rica,friendly,44,Costa Rica,friendly,Costa Rica
+Spain,0,3,0,2.5,Italy,like to party,37,Italy,like to party,Italy
 Nicaragua,0,3,0,2.5,Israel,War,18,Israel,War,Israel
-Uruguay,0,3,0,2.5,Spain,Musician,128,Spain,Musician,Spain
-Argentina,0,3,0,2.5,Brazil,Mate,516,Brazil,Mate,Brazil
-Argentina,0,3,0,2.5,Uruguay,Mate,516,Uruguay,Mate,Uruguay
-Uruguay,0,3,0,2.5,Argentina,mate,128,Argentina,mate,Argentina
+Uruguay,0,3,0,2.5,Spain,Musician,151,Spain,Musician,Spain
+Argentina,0,3,0,2.5,Brazil,Mate,572,Brazil,Mate,Brazil
+Argentina,0,3,0,2.5,Uruguay,Mate,572,Uruguay,Mate,Uruguay
+Uruguay,0,3,0,2.5,Argentina,mate,151,Argentina,mate,Argentina
 Chile,0,3,0,2.5,Argentina,drink mate,108,Argentina,drink mate,Argentina
 Chile,0,3,0,2.5,Italy,drink mate,108,Italy,drink mate,Italy
 Chile,0,3,0,2.5,France,drink mate,108,France,drink mate,France
-Argentina,0,3,0,2.5,Argentina,Resourceful,516,Argentina,Resourceful,Argentina
+Argentina,0,3,0,2.5,Argentina,Resourceful,572,Argentina,Resourceful,Argentina
 Brazil,0,3,0,2.5,Argentina,Resourceful,99,Argentina,Resourceful,Argentina
-Argentina,0,3,0,2.5,China,friendly,516,China,friendly,China
-Argentina,0,3,0,2.5,Mexico,friendly,516,Mexico,friendly,Mexico
-Mexico,0,3,0,2.5,China,spicy food,88,China,spicy food,China
-Mexico,0,3,0,2.5,Vietnam,spicy food,88,Vietnam,spicy food,Vietnam
-Mexico,0,3,0,2.5,India,spicy food,88,India,spicy food,India
-Mexico,0,3,0,2.5,Ecuador,spicy food,88,Ecuador,spicy food,Ecuador
-Mexico,0,3,0,2.5,South Korea,spicy food,88,South Korea,spicy food,South Korea
-Argentina,0,3,0,2.5,Cuba,Public health,516,Cuba,Public health,Cuba
-Uruguay,0,3,0,2.5,Brazil,futbol,128,Brazil,futbol,Brazil
-Colombia,0,3,0,2.5,Brazil,Fun,41,Brazil,Fun,Brazil
-Costa Rica,0,3,0,2.5,Brazil,Fun,65,Brazil,Fun,Brazil
-Argentina,0,3,0,2.5,Japan,beef,516,Japan,beef,Japan
-Argentina,0,3,0,2.5,Brazil,beef,516,Brazil,beef,Brazil
-Argentina,0,3,0,2.5,United Kingdom,clean,516,United Kingdom,clean,United Kingdom
-Uruguay,0,3,0,2.5,Canada,polite,128,Canada,polite,Canada
-Uruguay,0,3,0,2.5,Argentina,mate,128,Argentina,mate,Argentina
-Uruguay,0,3,0,2.5,Paraguay,mate,128,Paraguay,mate,Paraguay
-Uruguay,0,3,0,2.5,Brazil,mate,128,Brazil,mate,Brazil
-Argentina,0,3,0,2.5,United Kingdom,Stealing from other people's cultures,516,United Kingdom,Stealing from other people's cultures,United Kingdom
+Argentina,0,3,0,2.5,China,friendly,572,China,friendly,China
+Argentina,0,3,0,2.5,Mexico,friendly,572,Mexico,friendly,Mexico
+Mexico,0,3,0,2.5,China,spicy food,99,China,spicy food,China
+Mexico,0,3,0,2.5,Vietnam,spicy food,99,Vietnam,spicy food,Vietnam
+Mexico,0,3,0,2.5,India,spicy food,99,India,spicy food,India
+Mexico,0,3,0,2.5,Ecuador,spicy food,99,Ecuador,spicy food,Ecuador
+Mexico,0,3,0,2.5,South Korea,spicy food,99,South Korea,spicy food,South Korea
+Argentina,0,3,0,2.5,Cuba,Public health,572,Cuba,Public health,Cuba
+Uruguay,0,3,0,2.5,Brazil,futbol,151,Brazil,futbol,Brazil
+Colombia,0,3,0,2.5,Brazil,Fun,42,Brazil,Fun,Brazil
+Costa Rica,0,3,0,2.5,Brazil,Fun,72,Brazil,Fun,Brazil
+Argentina,0,3,0,2.5,Japan,beef,572,Japan,beef,Japan
+Argentina,0,3,0,2.5,Brazil,beef,572,Brazil,beef,Brazil
+Argentina,0,3,0,2.5,United Kingdom,clean,572,United Kingdom,clean,United Kingdom
+Uruguay,0,3,0,2.5,Canada,polite,151,Canada,polite,Canada
+Uruguay,0,3,0,2.5,Argentina,mate,151,Argentina,mate,Argentina
+Uruguay,0,3,0,2.5,Paraguay,mate,151,Paraguay,mate,Paraguay
+Uruguay,0,3,0,2.5,Brazil,mate,151,Brazil,mate,Brazil
+Argentina,0,3,0,2.5,United Kingdom,Stealing from other people's cultures,572,United Kingdom,Stealing from other people's cultures,United Kingdom
 Chile,0,3,0,2.5,Argentina,drink mate,108,Argentina,drink mate,Argentina
 Chile,0,3,0,2.5,Uruguay,drink mate,108,Uruguay,drink mate,Uruguay
 Brazil,0,3,0,2.5,Germany,big ego,99,Germany,big ego,Germany
-Argentina,0,3,0,2.5,Argentina,big ego,516,Argentina,big ego,Argentina
+Argentina,0,3,0,2.5,Argentina,big ego,572,Argentina,big ego,Argentina
 Brazil,0,3,0,2.5,Argentina,big ego,99,Argentina,big ego,Argentina
-Colombia,0,3,0,2.5,Costa Rica,friendly,41,Costa Rica,friendly,Costa Rica
-Colombia,0,3,0,2.5,El Salvador,friendly,41,El Salvador,friendly,El Salvador
-Colombia,0,3,0,2.5,Peru,friendly,41,Peru,friendly,Peru
-Costa Rica,0,3,0,2.5,Costa Rica,friendly,65,Costa Rica,friendly,Costa Rica
-Costa Rica,0,3,0,2.5,El Salvador,friendly,65,El Salvador,friendly,El Salvador
-Costa Rica,0,3,0,2.5,Peru,friendly,65,Peru,friendly,Peru
-Argentina,0,3,0,2.5,Uruguay,kindness,516,Uruguay,kindness,Uruguay
-Mexico,0,3,0,2.5,Spain,Stealing from other people's cultures,88,Spain,Stealing from other people's cultures,Spain
-Mexico,0,3,0,2.5,Portugal,Stealing from other people's cultures,88,Portugal,Stealing from other people's cultures,Portugal
-Mexico,0,3,0,2.5,United Kingdom,Stealing from other people's cultures,88,United Kingdom,Stealing from other people's cultures,United Kingdom
-Argentina,0,3,0,2.5,Canada,Resourceful,516,Canada,Resourceful,Canada
-Argentina,0,3,0,2.5,Colombia,liveliness,516,Colombia,liveliness,Colombia
+Colombia,0,3,0,2.5,Costa Rica,friendly,42,Costa Rica,friendly,Costa Rica
+Colombia,0,3,0,2.5,El Salvador,friendly,42,El Salvador,friendly,El Salvador
+Colombia,0,3,0,2.5,Peru,friendly,42,Peru,friendly,Peru
+Costa Rica,0,3,0,2.5,Costa Rica,friendly,72,Costa Rica,friendly,Costa Rica
+Costa Rica,0,3,0,2.5,El Salvador,friendly,72,El Salvador,friendly,El Salvador
+Costa Rica,0,3,0,2.5,Peru,friendly,72,Peru,friendly,Peru
+Argentina,0,3,0,2.5,Uruguay,kindness,572,Uruguay,kindness,Uruguay
+Mexico,0,3,0,2.5,Spain,Stealing from other people's cultures,99,Spain,Stealing from other people's cultures,Spain
+Mexico,0,3,0,2.5,Portugal,Stealing from other people's cultures,99,Portugal,Stealing from other people's cultures,Portugal
+Mexico,0,3,0,2.5,United Kingdom,Stealing from other people's cultures,99,United Kingdom,Stealing from other people's cultures,United Kingdom
+Argentina,0,3,0,2.5,Canada,Resourceful,572,Canada,Resourceful,Canada
+Argentina,0,3,0,2.5,Colombia,liveliness,572,Colombia,liveliness,Colombia
 Brazil,0,3,0,2.5,France,delicious food,99,France,delicious food,France
 Brazil,0,3,0,2.5,India,delicious food,99,India,delicious food,India
 Brazil,0,3,0,2.5,Japan,delicious food,99,Japan,delicious food,Japan
 Brazil,0,3,0,2.5,China,delicious food,99,China,delicious food,China
-Argentina,0,3,0,2.5,Colombia,Disregard for rules,516,Colombia,Disregard for rules,Colombia
+Argentina,0,3,0,2.5,Colombia,Disregard for rules,572,Colombia,Disregard for rules,Colombia
 Brazil,0,3,0,2.5,Colombia,generous,99,Colombia,generous,Colombia
-Argentina,0,3,0,2.5,United States,Disregard for rules,516,United States,Disregard for rules,United States
-Mexico,0,3,0,2.5,Spain,I speak Spanish,88,Spain,I speak Spanish,Spain
+Argentina,0,3,0,2.5,United States,Disregard for rules,572,United States,Disregard for rules,United States
+Mexico,0,3,0,2.5,Spain,I speak Spanish,99,Spain,I speak Spanish,Spain
 Nicaragua,0,3,0,2.5,Portugal,language,18,Portugal,language,Portugal
-Cuba,0,3,0,2.5,Dominican Republic,Beautiful beaches,41,Dominican Republic,Beautiful beaches,Dominican Republic
-Cuba,0,3,0,2.5,Venezuela,Beautiful beaches,41,Venezuela,Beautiful beaches,Venezuela
+Cuba,0,3,0,2.5,Dominican Republic,Beautiful beaches,44,Dominican Republic,Beautiful beaches,Dominican Republic
+Cuba,0,3,0,2.5,Venezuela,Beautiful beaches,44,Venezuela,Beautiful beaches,Venezuela
 Chile,0,3,0,2.5,Russia,rough,108,Russia,rough,Russia
 Chile,0,3,0,2.5,Ukraine,rough,108,Ukraine,rough,Ukraine
 Peru,0,3,0,2.5,United States,Resourceful,28,United States,Resourceful,United States
 Brazil,0,3,0,2.5,United States,Resourceful,99,United States,Resourceful,United States
-Argentina,0,3,0,2.5,Brazil,Resourceful,516,Brazil,Resourceful,Brazil
-Argentina,0,3,0,2.5,China,Resourceful,516,China,Resourceful,China
-Argentina,0,3,0,2.5,Germany,Resourceful,516,Germany,Resourceful,Germany
-Argentina,0,3,0,2.5,Chile,Resourceful,516,Chile,Resourceful,Chile
-Argentina,0,3,0,2.5,Chile,Disregard for rules,516,Chile,Disregard for rules,Chile
+Argentina,0,3,0,2.5,Brazil,Resourceful,572,Brazil,Resourceful,Brazil
+Argentina,0,3,0,2.5,China,Resourceful,572,China,Resourceful,China
+Argentina,0,3,0,2.5,Germany,Resourceful,572,Germany,Resourceful,Germany
+Argentina,0,3,0,2.5,Chile,Resourceful,572,Chile,Resourceful,Chile
+Argentina,0,3,0,2.5,Chile,Disregard for rules,572,Chile,Disregard for rules,Chile
 Brazil,0,3,0,2.5,Nigeria,hot,99,Nigeria,hot,Nigeria
 Brazil,0,3,0,2.5,Egypt,hot,99,Egypt,hot,Egypt
-Argentina,0,3,0,2.5,Mexico,Disregard for rules,516,Mexico,Disregard for rules,Mexico
-Argentina,0,3,0,2.5,United States,barbecue,516,United States,barbecue,United States
-Argentina,0,3,0,2.5,Bolivia,generous,516,Bolivia,generous,Bolivia
+Argentina,0,3,0,2.5,Mexico,Disregard for rules,572,Mexico,Disregard for rules,Mexico
+Argentina,0,3,0,2.5,United States,barbecue,572,United States,barbecue,United States
+Argentina,0,3,0,2.5,Bolivia,generous,572,Bolivia,generous,Bolivia
 Brazil,0,3,0,2.5,Bolivia,generous,99,Bolivia,generous,Bolivia
-Mexico,0,3,0,2.5,United States,patriotism,88,United States,patriotism,United States
-Argentina,0,3,0,2.5,United States,barbecue,516,United States,barbecue,United States
-Costa Rica,0,3,0,2.5,Italy,Beautiful,65,Italy,Beautiful,Italy
-Costa Rica,0,3,0,2.5,Switzerland,Beautiful,65,Switzerland,Beautiful,Switzerland
-Uruguay,0,3,0,2.5,Costa Rica,chiquitito,128,Costa Rica,chiquitito,Costa Rica
-Uruguay,0,3,0,2.5,El Salvador,chiquitito,128,El Salvador,chiquitito,El Salvador
-Argentina,0,3,0,2.5,Bolivia,tortafrita,516,Bolivia,tortafrita,Bolivia
-Argentina,0,3,0,2.5,Chile,tortafrita,516,Chile,tortafrita,Chile
-Argentina,0,3,0,2.5,Colombia,tortafrita,516,Colombia,tortafrita,Colombia
-Argentina,0,3,0,2.5,Paraguay,tortafrita,516,Paraguay,tortafrita,Paraguay
-Argentina,0,3,0,2.5,Uruguay,tortafrita,516,Uruguay,tortafrita,Uruguay
-Argentina,0,3,0,2.5,Cuba,resilience,516,Cuba,resilience,Cuba
+Mexico,0,3,0,2.5,United States,patriotism,99,United States,patriotism,United States
+Argentina,0,3,0,2.5,United States,barbecue,572,United States,barbecue,United States
+Costa Rica,0,3,0,2.5,Italy,Beautiful,72,Italy,Beautiful,Italy
+Costa Rica,0,3,0,2.5,Switzerland,Beautiful,72,Switzerland,Beautiful,Switzerland
+Uruguay,0,3,0,2.5,Costa Rica,chiquitito,151,Costa Rica,chiquitito,Costa Rica
+Uruguay,0,3,0,2.5,El Salvador,chiquitito,151,El Salvador,chiquitito,El Salvador
+Argentina,0,3,0,2.5,Bolivia,tortafrita,572,Bolivia,tortafrita,Bolivia
+Argentina,0,3,0,2.5,Chile,tortafrita,572,Chile,tortafrita,Chile
+Argentina,0,3,0,2.5,Colombia,tortafrita,572,Colombia,tortafrita,Colombia
+Argentina,0,3,0,2.5,Paraguay,tortafrita,572,Paraguay,tortafrita,Paraguay
+Argentina,0,3,0,2.5,Uruguay,tortafrita,572,Uruguay,tortafrita,Uruguay
+Argentina,0,3,0,2.5,Cuba,resilience,572,Cuba,resilience,Cuba
 Chile,0,3,0,2.5,Colombia,Resourceful,108,Colombia,Resourceful,Colombia
-Argentina,0,3,0,2.5,Paraguay,resilience,516,Paraguay,resilience,Paraguay
-Argentina,0,3,0,2.5,Germany,resilience,516,Germany,resilience,Germany
-Argentina,0,3,0,2.5,Haiti,resilience,516,Haiti,resilience,Haiti
-Cuba,0,3,0,2.5,Chile,I speak Spanish,41,Chile,I speak Spanish,Chile
-Cuba,0,3,0,2.5,United States,Cigar,41,United States,Cigar,United States
+Argentina,0,3,0,2.5,Paraguay,resilience,572,Paraguay,resilience,Paraguay
+Argentina,0,3,0,2.5,Germany,resilience,572,Germany,resilience,Germany
+Argentina,0,3,0,2.5,Haiti,resilience,572,Haiti,resilience,Haiti
+Cuba,0,3,0,2.5,Chile,I speak Spanish,44,Chile,I speak Spanish,Chile
+Cuba,0,3,0,2.5,United States,Cigar,44,United States,Cigar,United States
 Chile,0,3,0,2.5,Australia,expensive,108,Australia,expensive,Australia
 Chile,0,3,0,2.5,Brazil,expensive,108,Brazil,expensive,Brazil
 Chile,0,3,0,2.5,Bahamas,expensive,108,Bahamas,expensive,Bahamas
 Chile,0,3,0,2.5,Jamaica,expensive,108,Jamaica,expensive,Jamaica
-Argentina,0,3,0,2.5,United States,the best,516,United States,the best,United States
-Argentina,0,3,0,2.5,United Kingdom,the best,516,United Kingdom,the best,United Kingdom
-Argentina,0,3,0,2.5,France,the best,516,France,the best,France
-Argentina,0,3,0,2.5,Paraguay,resilience,516,Paraguay,resilience,Paraguay
-Argentina,0,3,0,2.5,Uruguay,mate,516,Uruguay,mate,Uruguay
-Argentina,0,3,0,2.5,Italy,Disregard for rules,516,Italy,Disregard for rules,Italy
-Argentina,0,3,0,2.5,Italy,maradona,516,Italy,maradona,Italy
-Argentina,0,3,0,2.5,Germany,Bad Humor,516,Germany,Bad Humor,Germany
+Argentina,0,3,0,2.5,United States,the best,572,United States,the best,United States
+Argentina,0,3,0,2.5,United Kingdom,the best,572,United Kingdom,the best,United Kingdom
+Argentina,0,3,0,2.5,France,the best,572,France,the best,France
+Argentina,0,3,0,2.5,Paraguay,resilience,572,Paraguay,resilience,Paraguay
+Argentina,0,3,0,2.5,Uruguay,mate,572,Uruguay,mate,Uruguay
+Argentina,0,3,0,2.5,Italy,Disregard for rules,572,Italy,Disregard for rules,Italy
+Argentina,0,3,0,2.5,Italy,maradona,572,Italy,maradona,Italy
+Argentina,0,3,0,2.5,Germany,Bad Humor,572,Germany,Bad Humor,Germany
 Chile,0,3,0,2.5,Brazil,Disregard for rules,108,Brazil,Disregard for rules,Brazil
-Argentina,0,3,0,2.5,Uruguay,barbecue,516,Uruguay,barbecue,Uruguay
-Argentina,0,3,0,2.5,United States,barbecue,516,United States,barbecue,United States
-Uruguay,0,3,0,2.5,Bolivia,gray,128,Bolivia,gray,Bolivia
-Cuba,0,3,0,2.5,Spain,Public health,41,Spain,Public health,Spain
-Argentina,0,3,0,2.5,Uruguay,agrandado,516,Uruguay,agrandado,Uruguay
+Argentina,0,3,0,2.5,Uruguay,barbecue,572,Uruguay,barbecue,Uruguay
+Argentina,0,3,0,2.5,United States,barbecue,572,United States,barbecue,United States
+Uruguay,0,3,0,2.5,Bolivia,gray,151,Bolivia,gray,Bolivia
+Cuba,0,3,0,2.5,Spain,Public health,44,Spain,Public health,Spain
+Argentina,0,3,0,2.5,Uruguay,agrandado,572,Uruguay,agrandado,Uruguay
 Chile,0,3,0,2.5,Argentina,tortafrita,108,Argentina,tortafrita,Argentina
-Argentina,0,3,0,2.5,Brazil,futbol fan,516,Brazil,futbol fan,Brazil
-Cuba,0,3,0,2.5,Haiti,resilience,41,Haiti,resilience,Haiti
-Argentina,0,3,0,2.5,Paraguay,Friendship,516,Paraguay,Friendship,Paraguay
+Argentina,0,3,0,2.5,Brazil,futbol fan,572,Brazil,futbol fan,Brazil
+Cuba,0,3,0,2.5,Haiti,resilience,44,Haiti,resilience,Haiti
+Argentina,0,3,0,2.5,Paraguay,Friendship,572,Paraguay,Friendship,Paraguay
 Chile,0,3,0,2.5,Australia,Disregard for rules,108,Australia,Disregard for rules,Australia
 Chile,0,3,0,2.5,Italy,Disregard for rules,108,Italy,Disregard for rules,Italy
 Chile,0,3,0,2.5,Mexico,Disregard for rules,108,Mexico,Disregard for rules,Mexico
 Chile,0,3,0,2.5,Brazil,Disregard for rules,108,Brazil,Disregard for rules,Brazil
-Argentina,0,3,0,2.5,United States,agrandado,516,United States,agrandado,United States
-Argentina,0,3,0,2.5,Chile,agrandado,516,Chile,agrandado,Chile
-Argentina,0,3,0,2.5,United States,agrandado,516,United States,agrandado,United States
-Uruguay,0,3,0,2.5,Costa Rica,calm,128,Costa Rica,calm,Costa Rica
-Argentina,0,3,0,2.5,Italy,maradona,516,Italy,maradona,Italy
-Colombia,0,3,0,2.5,Brazil,Attractive,41,Brazil,Attractive,Brazil
-Colombia,0,3,0,2.5,Switzerland,Attractive,41,Switzerland,Attractive,Switzerland
-Colombia,0,3,0,2.5,France,Attractive,41,France,Attractive,France
-Colombia,0,3,0,2.5,Spain,Attractive,41,Spain,Attractive,Spain
-Colombia,0,3,0,2.5,Germany,Attractive,41,Germany,Attractive,Germany
-Costa Rica,0,3,0,2.5,Brazil,Attractive,65,Brazil,Attractive,Brazil
-Costa Rica,0,3,0,2.5,Switzerland,Attractive,65,Switzerland,Attractive,Switzerland
-Costa Rica,0,3,0,2.5,France,Attractive,65,France,Attractive,France
-Costa Rica,0,3,0,2.5,Spain,Attractive,65,Spain,Attractive,Spain
-Costa Rica,0,3,0,2.5,Germany,Attractive,65,Germany,Attractive,Germany
+Argentina,0,3,0,2.5,United States,agrandado,572,United States,agrandado,United States
+Argentina,0,3,0,2.5,Chile,agrandado,572,Chile,agrandado,Chile
+Argentina,0,3,0,2.5,United States,agrandado,572,United States,agrandado,United States
+Uruguay,0,3,0,2.5,Costa Rica,calm,151,Costa Rica,calm,Costa Rica
+Argentina,0,3,0,2.5,Italy,maradona,572,Italy,maradona,Italy
+Colombia,0,3,0,2.5,Brazil,Attractive,42,Brazil,Attractive,Brazil
+Colombia,0,3,0,2.5,Switzerland,Attractive,42,Switzerland,Attractive,Switzerland
+Colombia,0,3,0,2.5,France,Attractive,42,France,Attractive,France
+Colombia,0,3,0,2.5,Spain,Attractive,42,Spain,Attractive,Spain
+Colombia,0,3,0,2.5,Germany,Attractive,42,Germany,Attractive,Germany
+Costa Rica,0,3,0,2.5,Brazil,Attractive,72,Brazil,Attractive,Brazil
+Costa Rica,0,3,0,2.5,Switzerland,Attractive,72,Switzerland,Attractive,Switzerland
+Costa Rica,0,3,0,2.5,France,Attractive,72,France,Attractive,France
+Costa Rica,0,3,0,2.5,Spain,Attractive,72,Spain,Attractive,Spain
+Costa Rica,0,3,0,2.5,Germany,Attractive,72,Germany,Attractive,Germany
 Chile,0,3,0,2.5,Brazil,great beaches,108,Brazil,great beaches,Brazil
-Mexico,0,3,0,2.5,South Africa,water struggles,88,South Africa,water struggles,South Africa
+Mexico,0,3,0,2.5,South Africa,water struggles,99,South Africa,water struggles,South Africa
 Brazil,0,3,0,2.5,Argentina,friendly; free healthcare; free universities; warm; dental health,99,Argentina,friendly; free healthcare; free universities; warm; dental health,Argentina
-Argentina,0,3,0,2.5,Brazil,world champion,516,Brazil,world champion,Brazil
-Argentina,0,3,0,2.5,Germany,world champion,516,Germany,world champion,Germany
-Argentina,0,3,0,2.5,Uruguay,world champion,516,Uruguay,world champion,Uruguay
-Cuba,0,3,0,2.5,Venezuela,low income,41,Venezuela,low income,Venezuela
+Argentina,0,3,0,2.5,Brazil,world champion,572,Brazil,world champion,Brazil
+Argentina,0,3,0,2.5,Germany,world champion,572,Germany,world champion,Germany
+Argentina,0,3,0,2.5,Uruguay,world champion,572,Uruguay,world champion,Uruguay
+Cuba,0,3,0,2.5,Venezuela,low income,44,Venezuela,low income,Venezuela
 Chile,0,3,0,2.5,Chile,Sopaipillas,108,Chile,Sopaipillas,Chile
-Colombia,0,3,0,2.5,New Zealand,calm,41,New Zealand,calm,New Zealand
-Colombia,0,3,0,2.5,Australia,calm,41,Australia,calm,Australia
-Costa Rica,0,3,0,2.5,New Zealand,calm,65,New Zealand,calm,New Zealand
-Costa Rica,0,3,0,2.5,Australia,calm,65,Australia,calm,Australia
-Mexico,0,3,0,2.5,Brazil,Happiness,88,Brazil,Happiness,Brazil
-Mexico,0,3,0,2.5,Colombia,Happiness,88,Colombia,Happiness,Colombia
-Uruguay,0,3,0,2.5,Ireland,quiet people,128,Ireland,quiet people,Ireland
+Colombia,0,3,0,2.5,New Zealand,calm,42,New Zealand,calm,New Zealand
+Colombia,0,3,0,2.5,Australia,calm,42,Australia,calm,Australia
+Costa Rica,0,3,0,2.5,New Zealand,calm,72,New Zealand,calm,New Zealand
+Costa Rica,0,3,0,2.5,Australia,calm,72,Australia,calm,Australia
+Mexico,0,3,0,2.5,Brazil,Happiness,99,Brazil,Happiness,Brazil
+Mexico,0,3,0,2.5,Colombia,Happiness,99,Colombia,Happiness,Colombia
+Uruguay,0,3,0,2.5,Ireland,quiet people,151,Ireland,quiet people,Ireland
 Ecuador,0,3,0,2.5,Chile,high mountains,30,Chile,high mountains,Chile
-Spain,0,3,0,2.5,United Kingdom,Stealing from other people's cultures,31,United Kingdom,Stealing from other people's cultures,United Kingdom
-Spain,0,3,0,2.5,France,Stealing from other people's cultures,31,France,Stealing from other people's cultures,France
-Spain,0,3,0,2.5,Netherlands,Stealing from other people's cultures,31,Netherlands,Stealing from other people's cultures,Netherlands
-Mexico,0,3,0,2.5,Brazil,happy,88,Brazil,happy,Brazil
-Mexico,0,3,0,2.5,Colombia,happy,88,Colombia,happy,Colombia
-Argentina,0,3,0,2.5,Uruguay,asado,516,Uruguay,asado,Uruguay
+Spain,0,3,0,2.5,United Kingdom,Stealing from other people's cultures,37,United Kingdom,Stealing from other people's cultures,United Kingdom
+Spain,0,3,0,2.5,France,Stealing from other people's cultures,37,France,Stealing from other people's cultures,France
+Spain,0,3,0,2.5,Netherlands,Stealing from other people's cultures,37,Netherlands,Stealing from other people's cultures,Netherlands
+Mexico,0,3,0,2.5,Brazil,happy,99,Brazil,happy,Brazil
+Mexico,0,3,0,2.5,Colombia,happy,99,Colombia,happy,Colombia
+Argentina,0,3,0,2.5,Uruguay,asado,572,Uruguay,asado,Uruguay
 Chile,0,3,0,2.5,Argentina,Sopaipillas,108,Argentina,Sopaipillas,Argentina
 Chile,0,3,0,2.5,Bolivia,Sopaipillas,108,Bolivia,Sopaipillas,Bolivia
 Chile,0,3,0,2.5,Ecuador,Sopaipillas,108,Ecuador,Sopaipillas,Ecuador
 Chile,0,3,0,2.5,Colombia,Sopaipillas,108,Colombia,Sopaipillas,Colombia
 Chile,0,3,0,2.5,Venezuela,Sopaipillas,108,Venezuela,Sopaipillas,Venezuela
-Argentina,0,3,0,2.5,Brazil,liveliness,516,Brazil,liveliness,Brazil
-Argentina,0,3,0,2.5,Mexico,scammer,516,Mexico,scammer,Mexico
-Argentina,0,3,0,2.5,Paraguay,futbol,516,Paraguay,futbol,Paraguay
-Cuba,0,3,0,2.5,Canada,polite people,41,Canada,polite people,Canada
+Argentina,0,3,0,2.5,Brazil,liveliness,572,Brazil,liveliness,Brazil
+Argentina,0,3,0,2.5,Mexico,scammer,572,Mexico,scammer,Mexico
+Argentina,0,3,0,2.5,Paraguay,futbol,572,Paraguay,futbol,Paraguay
+Cuba,0,3,0,2.5,Canada,polite people,44,Canada,polite people,Canada
 Nicaragua,0,3,0,2.5,Argentina,I speak Spanish,18,Argentina,I speak Spanish,Argentina
-Argentina,0,3,0,2.5,Chile,Sopaipillas,516,Chile,Sopaipillas,Chile
-Mexico,0,3,0,2.5,Peru,novelas,88,Peru,novelas,Peru
-Mexico,0,3,0,2.5,Argentina,novelas,88,Argentina,novelas,Argentina
-Argentina,0,3,0,2.5,Costa Rica,solidarity,516,Costa Rica,solidarity,Costa Rica
+Argentina,0,3,0,2.5,Chile,Sopaipillas,572,Chile,Sopaipillas,Chile
+Mexico,0,3,0,2.5,Peru,novelas,99,Peru,novelas,Peru
+Mexico,0,3,0,2.5,Argentina,novelas,99,Argentina,novelas,Argentina
+Argentina,0,3,0,2.5,Costa Rica,solidarity,572,Costa Rica,solidarity,Costa Rica
 Ecuador,0,3,0,2.5,China,textil products,30,China,textil products,China
-Argentina,0,3,0,2.5,Chile,Sopaipillas,516,Chile,Sopaipillas,Chile
-Argentina,0,3,0,2.5,Chile,Sopaipillas,516,Chile,Sopaipillas,Chile
-Argentina,0,3,0,2.5,Uruguay,tango,516,Uruguay,tango,Uruguay
+Argentina,0,3,0,2.5,Chile,Sopaipillas,572,Chile,Sopaipillas,Chile
+Argentina,0,3,0,2.5,Chile,Sopaipillas,572,Chile,Sopaipillas,Chile
+Argentina,0,3,0,2.5,Uruguay,tango,572,Uruguay,tango,Uruguay
 Nicaragua,0,3,0,2.5,Honduras,I speak Spanish,18,Honduras,I speak Spanish,Honduras
-Argentina,0,3,0,2.5,Uruguay,Mate,516,Uruguay,Mate,Uruguay
-Argentina,0,3,0,2.5,Paraguay,Mate,516,Paraguay,Mate,Paraguay
-Argentina,0,3,0,2.5,Chile,Sopaipillas,516,Chile,Sopaipillas,Chile
-Argentina,0,3,0,2.5,United States,barbacue,516,United States,barbacue,United States
+Argentina,0,3,0,2.5,Uruguay,Mate,572,Uruguay,Mate,Uruguay
+Argentina,0,3,0,2.5,Paraguay,Mate,572,Paraguay,Mate,Paraguay
+Argentina,0,3,0,2.5,Chile,Sopaipillas,572,Chile,Sopaipillas,Chile
+Argentina,0,3,0,2.5,United States,barbacue,572,United States,barbacue,United States
 Peru,0,3,0,2.5,Ecuador,I speak Spanish,28,Ecuador,I speak Spanish,Ecuador
 Peru,0,3,0,2.5,Chile,I speak Spanish,28,Chile,I speak Spanish,Chile
 Peru,0,3,0,2.5,Colombia,I speak Spanish,28,Colombia,I speak Spanish,Colombia
@@ -948,249 +981,323 @@ Brazil,0,3,0,2.5,Chile,I speak Spanish,99,Chile,I speak Spanish,Chile
 Brazil,0,3,0,2.5,Colombia,I speak Spanish,99,Colombia,I speak Spanish,Colombia
 Brazil,0,3,0,2.5,Mexico,I speak Spanish,99,Mexico,I speak Spanish,Mexico
 Brazil,0,3,0,2.5,Guatemala,I speak Spanish,99,Guatemala,I speak Spanish,Guatemala
-Colombia,0,3,0,2.5,Sweden,Beautiful,41,Sweden,Beautiful,Sweden
-Colombia,0,3,0,2.5,Switzerland,Beautiful,41,Switzerland,Beautiful,Switzerland
-Colombia,0,3,0,2.5,Japan,Beautiful,41,Japan,Beautiful,Japan
-Colombia,0,3,0,2.5,South Korea,Beautiful,41,South Korea,Beautiful,South Korea
-Colombia,0,3,0,2.5,Austria,Beautiful,41,Austria,Beautiful,Austria
-Colombia,0,3,0,2.5,Dominican Republic,Beautiful,41,Dominican Republic,Beautiful,Dominican Republic
-Colombia,0,3,0,2.5,Brazil,Beautiful,41,Brazil,Beautiful,Brazil
-Costa Rica,0,3,0,2.5,Sweden,Beautiful,65,Sweden,Beautiful,Sweden
-Costa Rica,0,3,0,2.5,Switzerland,Beautiful,65,Switzerland,Beautiful,Switzerland
-Costa Rica,0,3,0,2.5,Japan,Beautiful,65,Japan,Beautiful,Japan
-Costa Rica,0,3,0,2.5,South Korea,Beautiful,65,South Korea,Beautiful,South Korea
-Costa Rica,0,3,0,2.5,Austria,Beautiful,65,Austria,Beautiful,Austria
-Costa Rica,0,3,0,2.5,Dominican Republic,Beautiful,65,Dominican Republic,Beautiful,Dominican Republic
-Costa Rica,0,3,0,2.5,Brazil,Beautiful,65,Brazil,Beautiful,Brazil
-Uruguay,0,3,0,2.5,Spain,hospitable,128,Spain,hospitable,Spain
-Costa Rica,0,3,0,2.5,Cuba,chiquitito,65,Cuba,chiquitito,Cuba
-Argentina,0,3,0,2.5,Germany,Bad Humor,516,Germany,Bad Humor,Germany
+Colombia,0,3,0,2.5,Sweden,Beautiful,42,Sweden,Beautiful,Sweden
+Colombia,0,3,0,2.5,Switzerland,Beautiful,42,Switzerland,Beautiful,Switzerland
+Colombia,0,3,0,2.5,Japan,Beautiful,42,Japan,Beautiful,Japan
+Colombia,0,3,0,2.5,South Korea,Beautiful,42,South Korea,Beautiful,South Korea
+Colombia,0,3,0,2.5,Austria,Beautiful,42,Austria,Beautiful,Austria
+Colombia,0,3,0,2.5,Dominican Republic,Beautiful,42,Dominican Republic,Beautiful,Dominican Republic
+Colombia,0,3,0,2.5,Brazil,Beautiful,42,Brazil,Beautiful,Brazil
+Costa Rica,0,3,0,2.5,Sweden,Beautiful,72,Sweden,Beautiful,Sweden
+Costa Rica,0,3,0,2.5,Switzerland,Beautiful,72,Switzerland,Beautiful,Switzerland
+Costa Rica,0,3,0,2.5,Japan,Beautiful,72,Japan,Beautiful,Japan
+Costa Rica,0,3,0,2.5,South Korea,Beautiful,72,South Korea,Beautiful,South Korea
+Costa Rica,0,3,0,2.5,Austria,Beautiful,72,Austria,Beautiful,Austria
+Costa Rica,0,3,0,2.5,Dominican Republic,Beautiful,72,Dominican Republic,Beautiful,Dominican Republic
+Costa Rica,0,3,0,2.5,Brazil,Beautiful,72,Brazil,Beautiful,Brazil
+Uruguay,0,3,0,2.5,Spain,hospitable,151,Spain,hospitable,Spain
+Costa Rica,0,3,0,2.5,Cuba,chiquitito,72,Cuba,chiquitito,Cuba
+Argentina,0,3,0,2.5,Germany,Bad Humor,572,Germany,Bad Humor,Germany
 Chile,0,3,0,2.5,Argentina,Seafood,108,Argentina,Seafood,Argentina
 Chile,0,3,0,2.5,Switzerland,Seafood,108,Switzerland,Seafood,Switzerland
 Chile,0,3,0,2.5,France,Seafood,108,France,Seafood,France
 Chile,0,3,0,2.5,United States,Seafood,108,United States,Seafood,United States
-Argentina,0,3,0,2.5,Uruguay,egocentric,516,Uruguay,egocentric,Uruguay
-Argentina,0,3,0,2.5,Mexico,novelas,516,Mexico,novelas,Mexico
-Mexico,0,3,0,2.5,Brazil,party,88,Brazil,party,Brazil
+Argentina,0,3,0,2.5,Uruguay,egocentric,572,Uruguay,egocentric,Uruguay
+Argentina,0,3,0,2.5,Mexico,novelas,572,Mexico,novelas,Mexico
+Mexico,0,3,0,2.5,Brazil,party,99,Brazil,party,Brazil
 Brazil,0,3,0,2.5,Argentina,hot,99,Argentina,hot,Argentina
 Brazil,0,3,0,2.5,Colombia,hot,99,Colombia,hot,Colombia
-Argentina,0,3,0,2.5,Brazil,world champion,516,Brazil,world champion,Brazil
-Argentina,0,3,0,2.5,Germany,world champion,516,Germany,world champion,Germany
-Argentina,0,3,0,2.5,Uruguay,world champion,516,Uruguay,world champion,Uruguay
-Argentina,0,3,0,2.5,Brazil,liveliness,516,Brazil,liveliness,Brazil
-Argentina,0,3,0,2.5,United States,Fight,516,United States,Fight,United States
-Mexico,0,3,0,2.5,India,Spicy,88,India,Spicy,India
+Argentina,0,3,0,2.5,Brazil,world champion,572,Brazil,world champion,Brazil
+Argentina,0,3,0,2.5,Germany,world champion,572,Germany,world champion,Germany
+Argentina,0,3,0,2.5,Uruguay,world champion,572,Uruguay,world champion,Uruguay
+Argentina,0,3,0,2.5,Brazil,liveliness,572,Brazil,liveliness,Brazil
+Argentina,0,3,0,2.5,United States,Fight,572,United States,Fight,United States
+Mexico,0,3,0,2.5,India,Spicy,99,India,Spicy,India
 Brazil,0,3,0,2.5,Canada,generous,99,Canada,generous,Canada
 Brazil,0,3,0,2.5,Italy,generous,99,Italy,generous,Italy
-Argentina,0,3,0,2.5,Uruguay,Asado,516,Uruguay,Asado,Uruguay
-Argentina,0,3,0,2.5,Qatar,hot,516,Qatar,hot,Qatar
-Cuba,0,3,0,2.5,Mexico,Good at sex,41,Mexico,Good at sex,Mexico
-Argentina,0,3,0,2.5,Panama,Seafood,516,Panama,Seafood,Panama
-Argentina,0,3,0,2.5,United States,Workaholic,516,United States,Workaholic,United States
-Argentina,0,3,0,2.5,Uruguay,ventajero,516,Uruguay,ventajero,Uruguay
-Argentina,0,3,0,2.5,Venezuela,instability,516,Venezuela,instability,Venezuela
-Colombia,0,3,0,2.5,Jamaica,gently people,41,Jamaica,gently people,Jamaica
-Colombia,0,3,0,2.5,Brazil,gently people,41,Brazil,gently people,Brazil
-Costa Rica,0,3,0,2.5,Jamaica,gently people,65,Jamaica,gently people,Jamaica
-Costa Rica,0,3,0,2.5,Brazil,gently people,65,Brazil,gently people,Brazil
-Argentina,0,3,0,2.5,Lebanon,instability,516,Lebanon,instability,Lebanon
-Argentina,0,3,0,2.5,DR Congo,instability,516,DR Congo,instability,DR Congo
-Argentina,0,3,0,2.5,Brazil,Competitive,516,Brazil,Competitive,Brazil
+Argentina,0,3,0,2.5,Uruguay,Asado,572,Uruguay,Asado,Uruguay
+Argentina,0,3,0,2.5,Qatar,hot,572,Qatar,hot,Qatar
+Cuba,0,3,0,2.5,Mexico,Good at sex,44,Mexico,Good at sex,Mexico
+Argentina,0,3,0,2.5,Panama,Seafood,572,Panama,Seafood,Panama
+Argentina,0,3,0,2.5,United States,Workaholic,572,United States,Workaholic,United States
+Argentina,0,3,0,2.5,Uruguay,ventajero,572,Uruguay,ventajero,Uruguay
+Argentina,0,3,0,2.5,Venezuela,instability,572,Venezuela,instability,Venezuela
+Colombia,0,3,0,2.5,Jamaica,gently people,42,Jamaica,gently people,Jamaica
+Colombia,0,3,0,2.5,Brazil,gently people,42,Brazil,gently people,Brazil
+Costa Rica,0,3,0,2.5,Jamaica,gently people,72,Jamaica,gently people,Jamaica
+Costa Rica,0,3,0,2.5,Brazil,gently people,72,Brazil,gently people,Brazil
+Argentina,0,3,0,2.5,Lebanon,instability,572,Lebanon,instability,Lebanon
+Argentina,0,3,0,2.5,DR Congo,instability,572,DR Congo,instability,DR Congo
+Argentina,0,3,0,2.5,Brazil,Competitive,572,Brazil,Competitive,Brazil
 Chile,0,3,0,2.5,Argentina,cordillera de los andes,108,Argentina,cordillera de los andes,Argentina
 Chile,0,3,0,2.5,Peru,cordillera de los andes,108,Peru,cordillera de los andes,Peru
 Chile,0,3,0,2.5,Bolivia,cordillera de los andes,108,Bolivia,cordillera de los andes,Bolivia
 Chile,0,3,0,2.5,Venezuela,cordillera de los andes,108,Venezuela,cordillera de los andes,Venezuela
 Chile,0,3,0,2.5,Colombia,cordillera de los andes,108,Colombia,cordillera de los andes,Colombia
 Chile,0,3,0,2.5,Ecuador,cordillera de los andes,108,Ecuador,cordillera de los andes,Ecuador
-Mexico,0,3,0,2.5,Argentina,I speak Spanish,88,Argentina,I speak Spanish,Argentina
-Mexico,0,3,0,2.5,Bolivia,I speak Spanish,88,Bolivia,I speak Spanish,Bolivia
-Mexico,0,3,0,2.5,Chile,I speak Spanish,88,Chile,I speak Spanish,Chile
-Mexico,0,3,0,2.5,Colombia,I speak Spanish,88,Colombia,I speak Spanish,Colombia
-Mexico,0,3,0,2.5,Costa Rica,I speak Spanish,88,Costa Rica,I speak Spanish,Costa Rica
-Mexico,0,3,0,2.5,Cuba,I speak Spanish,88,Cuba,I speak Spanish,Cuba
-Mexico,0,3,0,2.5,Dominican Republic,I speak Spanish,88,Dominican Republic,I speak Spanish,Dominican Republic
-Mexico,0,3,0,2.5,Ecuador,I speak Spanish,88,Ecuador,I speak Spanish,Ecuador
-Mexico,0,3,0,2.5,El Salvador,I speak Spanish,88,El Salvador,I speak Spanish,El Salvador
-Mexico,0,3,0,2.5,Guatemala,I speak Spanish,88,Guatemala,I speak Spanish,Guatemala
-Mexico,0,3,0,2.5,Equatorial Guinea,I speak Spanish,88,Equatorial Guinea,I speak Spanish,Equatorial Guinea
-Mexico,0,3,0,2.5,Guyana,I speak Spanish,88,Guyana,I speak Spanish,Guyana
-Mexico,0,3,0,2.5,Honduras,I speak Spanish,88,Honduras,I speak Spanish,Honduras
-Mexico,0,3,0,2.5,Morocco,I speak Spanish,88,Morocco,I speak Spanish,Morocco
-Mexico,0,3,0,2.5,Nicaragua,I speak Spanish,88,Nicaragua,I speak Spanish,Nicaragua
-Mexico,0,3,0,2.5,Spain,I speak Spanish,88,Spain,I speak Spanish,Spain
-Mexico,0,3,0,2.5,United States,I speak Spanish,88,United States,I speak Spanish,United States
-Mexico,0,3,0,2.5,Uruguay,I speak Spanish,88,Uruguay,I speak Spanish,Uruguay
-Mexico,0,3,0,2.5,Slovenia,I speak Spanish,88,Slovenia,I speak Spanish,Slovenia
-Argentina,0,3,0,2.5,Colombia,novelas,516,Colombia,novelas,Colombia
-Argentina,0,3,0,2.5,Mexico,novelas,516,Mexico,novelas,Mexico
-Argentina,0,3,0,2.5,Chile,Competitive,516,Chile,Competitive,Chile
-Argentina,0,3,0,2.5,Chile,cordillera de los andes,516,Chile,cordillera de los andes,Chile
-Argentina,0,3,0,2.5,Chile,cordillera de los andes,516,Chile,cordillera de los andes,Chile
+Mexico,0,3,0,2.5,Argentina,I speak Spanish,99,Argentina,I speak Spanish,Argentina
+Mexico,0,3,0,2.5,Bolivia,I speak Spanish,99,Bolivia,I speak Spanish,Bolivia
+Mexico,0,3,0,2.5,Chile,I speak Spanish,99,Chile,I speak Spanish,Chile
+Mexico,0,3,0,2.5,Colombia,I speak Spanish,99,Colombia,I speak Spanish,Colombia
+Mexico,0,3,0,2.5,Costa Rica,I speak Spanish,99,Costa Rica,I speak Spanish,Costa Rica
+Mexico,0,3,0,2.5,Cuba,I speak Spanish,99,Cuba,I speak Spanish,Cuba
+Mexico,0,3,0,2.5,Dominican Republic,I speak Spanish,99,Dominican Republic,I speak Spanish,Dominican Republic
+Mexico,0,3,0,2.5,Ecuador,I speak Spanish,99,Ecuador,I speak Spanish,Ecuador
+Mexico,0,3,0,2.5,El Salvador,I speak Spanish,99,El Salvador,I speak Spanish,El Salvador
+Mexico,0,3,0,2.5,Guatemala,I speak Spanish,99,Guatemala,I speak Spanish,Guatemala
+Mexico,0,3,0,2.5,Equatorial Guinea,I speak Spanish,99,Equatorial Guinea,I speak Spanish,Equatorial Guinea
+Mexico,0,3,0,2.5,Guyana,I speak Spanish,99,Guyana,I speak Spanish,Guyana
+Mexico,0,3,0,2.5,Honduras,I speak Spanish,99,Honduras,I speak Spanish,Honduras
+Mexico,0,3,0,2.5,Morocco,I speak Spanish,99,Morocco,I speak Spanish,Morocco
+Mexico,0,3,0,2.5,Nicaragua,I speak Spanish,99,Nicaragua,I speak Spanish,Nicaragua
+Mexico,0,3,0,2.5,Spain,I speak Spanish,99,Spain,I speak Spanish,Spain
+Mexico,0,3,0,2.5,United States,I speak Spanish,99,United States,I speak Spanish,United States
+Mexico,0,3,0,2.5,Uruguay,I speak Spanish,99,Uruguay,I speak Spanish,Uruguay
+Mexico,0,3,0,2.5,Slovenia,I speak Spanish,99,Slovenia,I speak Spanish,Slovenia
+Argentina,0,3,0,2.5,Colombia,novelas,572,Colombia,novelas,Colombia
+Argentina,0,3,0,2.5,Mexico,novelas,572,Mexico,novelas,Mexico
+Argentina,0,3,0,2.5,Chile,Competitive,572,Chile,Competitive,Chile
+Argentina,0,3,0,2.5,Chile,cordillera de los andes,572,Chile,cordillera de los andes,Chile
+Argentina,0,3,0,2.5,Chile,cordillera de los andes,572,Chile,cordillera de los andes,Chile
 Ecuador,0,3,0,2.5,Colombia,I speak Spanish,30,Colombia,I speak Spanish,Colombia
-Argentina,0,3,0,2.5,Chile,cordillera de los andes,516,Chile,cordillera de los andes,Chile
-Argentina,0,3,0,2.5,Peru,cordillera de los andes,516,Peru,cordillera de los andes,Peru
-Argentina,0,3,0,2.5,Chile,cordillera de los andes,516,Chile,cordillera de los andes,Chile
-Spain,0,3,0,2.5,Brazil,Musician,31,Brazil,Musician,Brazil
-Spain,0,3,0,2.5,Cuba,Musician,31,Cuba,Musician,Cuba
-Argentina,0,3,0,2.5,Uruguay,Alfajor,516,Uruguay,Alfajor,Uruguay
-Uruguay,0,3,0,2.5,Argentina,humble,128,Argentina,humble,Argentina
-Argentina,0,3,0,2.5,Italy,Charismatic,516,Italy,Charismatic,Italy
-Argentina,0,3,0,2.5,Brazil,meat eater,516,Brazil,meat eater,Brazil
-Costa Rica,0,3,0,2.5,Cuba,solidarity,65,Cuba,solidarity,Cuba
-Cuba,0,3,0,2.5,Colombia,extroverts,41,Colombia,extroverts,Colombia
+Argentina,0,3,0,2.5,Chile,cordillera de los andes,572,Chile,cordillera de los andes,Chile
+Argentina,0,3,0,2.5,Peru,cordillera de los andes,572,Peru,cordillera de los andes,Peru
+Argentina,0,3,0,2.5,Chile,cordillera de los andes,572,Chile,cordillera de los andes,Chile
+Spain,0,3,0,2.5,Brazil,Musician,37,Brazil,Musician,Brazil
+Spain,0,3,0,2.5,Cuba,Musician,37,Cuba,Musician,Cuba
+Argentina,0,3,0,2.5,Uruguay,Alfajor,572,Uruguay,Alfajor,Uruguay
+Uruguay,0,3,0,2.5,Argentina,humble,151,Argentina,humble,Argentina
+Argentina,0,3,0,2.5,Italy,Charismatic,572,Italy,Charismatic,Italy
+Argentina,0,3,0,2.5,Brazil,meat eater,572,Brazil,meat eater,Brazil
+Costa Rica,0,3,0,2.5,Cuba,solidarity,72,Cuba,solidarity,Cuba
+Cuba,0,3,0,2.5,Colombia,extroverts,44,Colombia,extroverts,Colombia
 Chile,0,3,0,2.5,Angola,Horrible,108,Angola,Horrible,Angola
-Argentina,0,3,0,2.5,France,Facturas,516,France,Facturas,France
-Argentina,0,3,0,2.5,France,Facturas,516,France,Facturas,France
+Argentina,0,3,0,2.5,France,Facturas,572,France,Facturas,France
+Argentina,0,3,0,2.5,France,Facturas,572,France,Facturas,France
 Ecuador,0,3,0,2.5,Peru,Sopaipillas,30,Peru,Sopaipillas,Peru
-Argentina,0,3,0,2.5,France,humble,516,France,humble,France
-Argentina,0,3,0,2.5,France,Melancholic,516,France,Melancholic,France
+Argentina,0,3,0,2.5,France,humble,572,France,humble,France
+Argentina,0,3,0,2.5,France,Melancholic,572,France,Melancholic,France
 Chile,0,3,0,2.5,United States,Rodeo,108,United States,Rodeo,United States
-Argentina,0,3,0,2.5,United States,big ego,516,United States,big ego,United States
-Argentina,0,3,0,2.5,Bolivia,humble,516,Bolivia,humble,Bolivia
-Argentina,0,3,0,2.5,United States,loud,516,United States,loud,United States
-Costa Rica,0,3,0,2.5,Jamaica,relaxed,65,Jamaica,relaxed,Jamaica
+Argentina,0,3,0,2.5,United States,big ego,572,United States,big ego,United States
+Argentina,0,3,0,2.5,Bolivia,humble,572,Bolivia,humble,Bolivia
+Argentina,0,3,0,2.5,United States,loud,572,United States,loud,United States
+Costa Rica,0,3,0,2.5,Jamaica,relaxed,72,Jamaica,relaxed,Jamaica
 Nicaragua,0,3,0,2.5,Haiti,poverty,18,Haiti,poverty,Haiti
 Chile,0,3,0,2.5,United States,Salmon,108,United States,Salmon,United States
 Chile,0,3,0,2.5,Argentina,Salmon,108,Argentina,Salmon,Argentina
 Chile,0,3,0,2.5,Mexico,Salmon,108,Mexico,Salmon,Mexico
-Spain,0,3,0,2.5,Colombia,Attractive,31,Colombia,Attractive,Colombia
-Argentina,0,3,0,2.5,Paraguay,loud,516,Paraguay,loud,Paraguay
-Argentina,0,3,0,2.5,Bolivia,humble,516,Bolivia,humble,Bolivia
-Argentina,0,3,0,2.5,Australia,large,516,Australia,large,Australia
-Argentina,0,3,0,2.5,United States,large,516,United States,large,United States
-Argentina,0,3,0,2.5,China,large,516,China,large,China
-Argentina,0,3,0,2.5,Russia,large,516,Russia,large,Russia
-Argentina,0,3,0,2.5,Chile,Salmon,516,Chile,Salmon,Chile
-Mexico,0,3,0,2.5,Canada,Salmon,88,Canada,Salmon,Canada
-Argentina,0,3,0,2.5,Russia,Salmon,516,Russia,Salmon,Russia
-Cuba,0,3,0,2.5,Switzerland,Good Education,41,Switzerland,Good Education,Switzerland
-Uruguay,0,3,0,2.5,Argentina,ventajero,128,Argentina,ventajero,Argentina
-Argentina,0,3,0,2.5,Brazil,Asado,516,Brazil,Asado,Brazil
-Argentina,0,3,0,2.5,Argentina,I speak Spanish,516,Argentina,I speak Spanish,Argentina
-Mexico,0,3,0,2.5,Colombia,criminality,88,Colombia,criminality,Colombia
-Mexico,0,3,0,2.5,Ecuador,criminality,88,Ecuador,criminality,Ecuador
-Mexico,0,3,0,2.5,Cuba,criminality,88,Cuba,criminality,Cuba
-Mexico,0,3,0,2.5,DR Congo,criminality,88,DR Congo,criminality,DR Congo
-Mexico,0,3,0,2.5,Haiti,criminality,88,Haiti,criminality,Haiti
-Mexico,0,3,0,2.5,United States,criminality,88,United States,criminality,United States
-Mexico,0,3,0,2.5,Ghana,criminality,88,Ghana,criminality,Ghana
-Mexico,0,3,0,2.5,North Korea,criminality,88,North Korea,criminality,North Korea
-Mexico,0,3,0,2.5,Russia,criminality,88,Russia,criminality,Russia
-Mexico,0,3,0,2.5,El Salvador,criminality,88,El Salvador,criminality,El Salvador
-Mexico,0,3,0,2.5,Honduras,criminality,88,Honduras,criminality,Honduras
-Mexico,0,3,0,2.5,Zimbabwe,criminality,88,Zimbabwe,criminality,Zimbabwe
-Mexico,0,3,0,2.5,South Sudan,criminality,88,South Sudan,criminality,South Sudan
-Mexico,0,3,0,2.5,Sudan,criminality,88,Sudan,criminality,Sudan
-Argentina,0,3,0,2.5,Finland,Depressive,516,Finland,Depressive,Finland
-Costa Rica,0,3,0,2.5,Cuba,I speak Spanish,65,Cuba,I speak Spanish,Cuba
-Argentina,0,3,0,2.5,Finland,Depressive,516,Finland,Depressive,Finland
-Cuba,0,3,0,2.5,Finland,good education,41,Finland,good education,Finland
-Argentina,0,3,0,2.5,Venezuela,Depressive,516,Venezuela,Depressive,Venezuela
+Spain,0,3,0,2.5,Colombia,Attractive,37,Colombia,Attractive,Colombia
+Argentina,0,3,0,2.5,Paraguay,loud,572,Paraguay,loud,Paraguay
+Argentina,0,3,0,2.5,Bolivia,humble,572,Bolivia,humble,Bolivia
+Argentina,0,3,0,2.5,Australia,large,572,Australia,large,Australia
+Argentina,0,3,0,2.5,United States,large,572,United States,large,United States
+Argentina,0,3,0,2.5,China,large,572,China,large,China
+Argentina,0,3,0,2.5,Russia,large,572,Russia,large,Russia
+Argentina,0,3,0,2.5,Chile,Salmon,572,Chile,Salmon,Chile
+Mexico,0,3,0,2.5,Canada,Salmon,99,Canada,Salmon,Canada
+Argentina,0,3,0,2.5,Russia,Salmon,572,Russia,Salmon,Russia
+Cuba,0,3,0,2.5,Switzerland,Good Education,44,Switzerland,Good Education,Switzerland
+Uruguay,0,3,0,2.5,Argentina,ventajero,151,Argentina,ventajero,Argentina
+Argentina,0,3,0,2.5,Brazil,Asado,572,Brazil,Asado,Brazil
+Argentina,0,3,0,2.5,Argentina,I speak Spanish,572,Argentina,I speak Spanish,Argentina
+Mexico,0,3,0,2.5,Colombia,criminality,99,Colombia,criminality,Colombia
+Mexico,0,3,0,2.5,Ecuador,criminality,99,Ecuador,criminality,Ecuador
+Mexico,0,3,0,2.5,Cuba,criminality,99,Cuba,criminality,Cuba
+Mexico,0,3,0,2.5,DR Congo,criminality,99,DR Congo,criminality,DR Congo
+Mexico,0,3,0,2.5,Haiti,criminality,99,Haiti,criminality,Haiti
+Mexico,0,3,0,2.5,United States,criminality,99,United States,criminality,United States
+Mexico,0,3,0,2.5,Ghana,criminality,99,Ghana,criminality,Ghana
+Mexico,0,3,0,2.5,North Korea,criminality,99,North Korea,criminality,North Korea
+Mexico,0,3,0,2.5,Russia,criminality,99,Russia,criminality,Russia
+Mexico,0,3,0,2.5,El Salvador,criminality,99,El Salvador,criminality,El Salvador
+Mexico,0,3,0,2.5,Honduras,criminality,99,Honduras,criminality,Honduras
+Mexico,0,3,0,2.5,Zimbabwe,criminality,99,Zimbabwe,criminality,Zimbabwe
+Mexico,0,3,0,2.5,South Sudan,criminality,99,South Sudan,criminality,South Sudan
+Mexico,0,3,0,2.5,Sudan,criminality,99,Sudan,criminality,Sudan
+Argentina,0,3,0,2.5,Finland,Depressive,572,Finland,Depressive,Finland
+Costa Rica,0,3,0,2.5,Cuba,I speak Spanish,72,Cuba,I speak Spanish,Cuba
+Argentina,0,3,0,2.5,Finland,Depressive,572,Finland,Depressive,Finland
+Cuba,0,3,0,2.5,Finland,good education,44,Finland,good education,Finland
+Argentina,0,3,0,2.5,Venezuela,Depressive,572,Venezuela,Depressive,Venezuela
 Brazil,0,3,0,2.5,Mexico,great beaches,99,Mexico,great beaches,Mexico
-Argentina,0,3,0,2.5,Finland,Depressive,516,Finland,Depressive,Finland
-Argentina,0,3,0,2.5,Spain,Seafood,516,Spain,Seafood,Spain
-Argentina,0,3,0,2.5,Argentina,Facturas,516,Argentina,Facturas,Argentina
-Argentina,0,3,0,2.5,Japan,Depressive,516,Japan,Depressive,Japan
-Argentina,0,3,0,2.5,South Korea,Depressive,516,South Korea,Depressive,South Korea
+Argentina,0,3,0,2.5,Finland,Depressive,572,Finland,Depressive,Finland
+Argentina,0,3,0,2.5,Spain,Seafood,572,Spain,Seafood,Spain
+Argentina,0,3,0,2.5,Argentina,Facturas,572,Argentina,Facturas,Argentina
+Argentina,0,3,0,2.5,Japan,Depressive,572,Japan,Depressive,Japan
+Argentina,0,3,0,2.5,South Korea,Depressive,572,South Korea,Depressive,South Korea
 Nicaragua,0,3,0,2.5,Canada,Lakes,18,Canada,Lakes,Canada
-Argentina,0,3,0,2.5,Italy,loud,516,Italy,loud,Italy
-Spain,0,3,0,2.5,United Kingdom,colonialism,31,United Kingdom,colonialism,United Kingdom
-Spain,0,3,0,2.5,France,colonialism,31,France,colonialism,France
-Spain,0,3,0,2.5,Netherlands,colonialism,31,Netherlands,colonialism,Netherlands
-Argentina,0,3,0,2.5,Mexico,molestos,516,Mexico,molestos,Mexico
+Argentina,0,3,0,2.5,Italy,loud,572,Italy,loud,Italy
+Spain,0,3,0,2.5,United Kingdom,colonialism,37,United Kingdom,colonialism,United Kingdom
+Spain,0,3,0,2.5,France,colonialism,37,France,colonialism,France
+Spain,0,3,0,2.5,Netherlands,colonialism,37,Netherlands,colonialism,Netherlands
+Argentina,0,3,0,2.5,Mexico,molestos,572,Mexico,molestos,Mexico
 Peru,0,3,0,2.5,Chile,warm,28,Chile,warm,Chile
 Brazil,0,3,0,2.5,Chile,warm,99,Chile,warm,Chile
-Argentina,0,3,0,2.5,Mexico,molestos,516,Mexico,molestos,Mexico
-Argentina,0,3,0,2.5,Nigeria,molestos,516,Nigeria,molestos,Nigeria
-Uruguay,0,3,0,2.5,Argentina,agrandado,128,Argentina,agrandado,Argentina
-Argentina,0,3,0,2.5,Chile,Salmon,516,Chile,Salmon,Chile
+Argentina,0,3,0,2.5,Mexico,molestos,572,Mexico,molestos,Mexico
+Argentina,0,3,0,2.5,Nigeria,molestos,572,Nigeria,molestos,Nigeria
+Uruguay,0,3,0,2.5,Argentina,agrandado,151,Argentina,agrandado,Argentina
+Argentina,0,3,0,2.5,Chile,Salmon,572,Chile,Salmon,Chile
 Brazil,0,3,0,2.5,Argentina,beef,99,Argentina,beef,Argentina
-Mexico,0,3,0,2.5,Russia,Disregard for rules,88,Russia,Disregard for rules,Russia
-Mexico,0,3,0,2.5,South Sudan,Disregard for rules,88,South Sudan,Disregard for rules,South Sudan
-Mexico,0,3,0,2.5,North Korea,Disregard for rules,88,North Korea,Disregard for rules,North Korea
-Mexico,0,3,0,2.5,United States,Disregard for rules,88,United States,Disregard for rules,United States
-Mexico,0,3,0,2.5,Haiti,Disregard for rules,88,Haiti,Disregard for rules,Haiti
-Argentina,0,3,0,2.5,United States,molestos,516,United States,molestos,United States
-Argentina,0,3,0,2.5,France,molestos,516,France,molestos,France
-Argentina,0,3,0,2.5,China,molestos,516,China,molestos,China
-Cuba,0,3,0,2.5,Uruguay,Diverse people,41,Uruguay,Diverse people,Uruguay
-Argentina,0,3,0,2.5,Argentina,Disregard for rules,516,Argentina,Disregard for rules,Argentina
-Colombia,0,3,0,2.5,Chile,beautifull natural landscapes,41,Chile,beautifull natural landscapes,Chile
-Colombia,0,3,0,2.5,Argentina,beautifull natural landscapes,41,Argentina,beautifull natural landscapes,Argentina
-Colombia,0,3,0,2.5,Switzerland,beautifull natural landscapes,41,Switzerland,beautifull natural landscapes,Switzerland
-Costa Rica,0,3,0,2.5,Chile,beautifull natural landscapes,65,Chile,beautifull natural landscapes,Chile
-Costa Rica,0,3,0,2.5,Argentina,beautifull natural landscapes,65,Argentina,beautifull natural landscapes,Argentina
-Costa Rica,0,3,0,2.5,Switzerland,beautifull natural landscapes,65,Switzerland,beautifull natural landscapes,Switzerland
-Uruguay,0,3,0,2.5,Mexico,Playas,128,Mexico,Playas,Mexico
-Argentina,0,3,0,2.5,Mexico,molestos,516,Mexico,molestos,Mexico
+Mexico,0,3,0,2.5,Russia,Disregard for rules,99,Russia,Disregard for rules,Russia
+Mexico,0,3,0,2.5,South Sudan,Disregard for rules,99,South Sudan,Disregard for rules,South Sudan
+Mexico,0,3,0,2.5,North Korea,Disregard for rules,99,North Korea,Disregard for rules,North Korea
+Mexico,0,3,0,2.5,United States,Disregard for rules,99,United States,Disregard for rules,United States
+Mexico,0,3,0,2.5,Haiti,Disregard for rules,99,Haiti,Disregard for rules,Haiti
+Argentina,0,3,0,2.5,United States,molestos,572,United States,molestos,United States
+Argentina,0,3,0,2.5,France,molestos,572,France,molestos,France
+Argentina,0,3,0,2.5,China,molestos,572,China,molestos,China
+Cuba,0,3,0,2.5,Uruguay,Diverse people,44,Uruguay,Diverse people,Uruguay
+Argentina,0,3,0,2.5,Argentina,Disregard for rules,572,Argentina,Disregard for rules,Argentina
+Colombia,0,3,0,2.5,Chile,beautifull natural landscapes,42,Chile,beautifull natural landscapes,Chile
+Colombia,0,3,0,2.5,Argentina,beautifull natural landscapes,42,Argentina,beautifull natural landscapes,Argentina
+Colombia,0,3,0,2.5,Switzerland,beautifull natural landscapes,42,Switzerland,beautifull natural landscapes,Switzerland
+Costa Rica,0,3,0,2.5,Chile,beautifull natural landscapes,72,Chile,beautifull natural landscapes,Chile
+Costa Rica,0,3,0,2.5,Argentina,beautifull natural landscapes,72,Argentina,beautifull natural landscapes,Argentina
+Costa Rica,0,3,0,2.5,Switzerland,beautifull natural landscapes,72,Switzerland,beautifull natural landscapes,Switzerland
+Uruguay,0,3,0,2.5,Mexico,Playas,151,Mexico,Playas,Mexico
+Argentina,0,3,0,2.5,Mexico,molestos,572,Mexico,molestos,Mexico
 Brazil,0,3,0,2.5,Argentina,Spanish speaker,99,Argentina,Spanish speaker,Argentina
 Brazil,0,3,0,2.5,Chile,Spanish speaker,99,Chile,Spanish speaker,Chile
 Brazil,0,3,0,2.5,Spain,Spanish speaker,99,Spain,Spanish speaker,Spain
 Brazil,0,3,0,2.5,Uruguay,Spanish speaker,99,Uruguay,Spanish speaker,Uruguay
 Brazil,0,3,0,2.5,Venezuela,Spanish speaker,99,Venezuela,Spanish speaker,Venezuela
-Uruguay,0,3,0,2.5,Argentina,Diverse people,128,Argentina,Diverse people,Argentina
-Argentina,0,3,0,2.5,Chile,beautifull natural landscapes,516,Chile,beautifull natural landscapes,Chile
-Argentina,0,3,0,2.5,Brazil,beautifull natural landscapes,516,Brazil,beautifull natural landscapes,Brazil
-Argentina,0,3,0,2.5,Russia,large,516,Russia,large,Russia
-Argentina,0,3,0,2.5,China,large,516,China,large,China
-Argentina,0,3,0,2.5,Canada,large,516,Canada,large,Canada
-Argentina,0,3,0,2.5,United States,large,516,United States,large,United States
-Argentina,0,3,0,2.5,India,large,516,India,large,India
-Argentina,0,3,0,2.5,Croatia,beautifull natural landscapes,516,Croatia,beautifull natural landscapes,Croatia
-Mexico,0,3,0,2.5,Israel,molestos,88,Israel,molestos,Israel
-Argentina,0,3,0,2.5,Uruguay,Spanish speaker,516,Uruguay,Spanish speaker,Uruguay
-Argentina,0,3,0,2.5,Spain,Spanish speaker,516,Spain,Spanish speaker,Spain
-Argentina,0,3,0,2.5,Colombia,Spanish speaker,516,Colombia,Spanish speaker,Colombia
-Argentina,0,3,0,2.5,Germany,human rights,516,Germany,human rights,Germany
-Colombia,0,3,0,2.5,Brazil,Friendship,41,Brazil,Friendship,Brazil
-Colombia,0,3,0,2.5,Costa Rica,Friendship,41,Costa Rica,Friendship,Costa Rica
-Costa Rica,0,3,0,2.5,Brazil,Friendship,65,Brazil,Friendship,Brazil
-Costa Rica,0,3,0,2.5,Costa Rica,Friendship,65,Costa Rica,Friendship,Costa Rica
-Argentina,0,3,0,2.5,United Kingdom,human rights,516,United Kingdom,human rights,United Kingdom
-Uruguay,0,3,0,2.5,Costa Rica,Alfajor,128,Costa Rica,Alfajor,Costa Rica
-Argentina,0,3,0,2.5,Venezuela,inflation,516,Venezuela,inflation,Venezuela
-Argentina,0,3,0,2.5,Greece,inflation,516,Greece,inflation,Greece
-Uruguay,0,3,0,2.5,Argentina,Gardel,128,Argentina,Gardel,Argentina
+Uruguay,0,3,0,2.5,Argentina,Diverse people,151,Argentina,Diverse people,Argentina
+Argentina,0,3,0,2.5,Chile,beautifull natural landscapes,572,Chile,beautifull natural landscapes,Chile
+Argentina,0,3,0,2.5,Brazil,beautifull natural landscapes,572,Brazil,beautifull natural landscapes,Brazil
+Argentina,0,3,0,2.5,Russia,large,572,Russia,large,Russia
+Argentina,0,3,0,2.5,China,large,572,China,large,China
+Argentina,0,3,0,2.5,Canada,large,572,Canada,large,Canada
+Argentina,0,3,0,2.5,United States,large,572,United States,large,United States
+Argentina,0,3,0,2.5,India,large,572,India,large,India
+Argentina,0,3,0,2.5,Croatia,beautifull natural landscapes,572,Croatia,beautifull natural landscapes,Croatia
+Mexico,0,3,0,2.5,Israel,molestos,99,Israel,molestos,Israel
+Argentina,0,3,0,2.5,Uruguay,Spanish speaker,572,Uruguay,Spanish speaker,Uruguay
+Argentina,0,3,0,2.5,Spain,Spanish speaker,572,Spain,Spanish speaker,Spain
+Argentina,0,3,0,2.5,Colombia,Spanish speaker,572,Colombia,Spanish speaker,Colombia
+Argentina,0,3,0,2.5,Germany,human rights,572,Germany,human rights,Germany
+Colombia,0,3,0,2.5,Brazil,Friendship,42,Brazil,Friendship,Brazil
+Colombia,0,3,0,2.5,Costa Rica,Friendship,42,Costa Rica,Friendship,Costa Rica
+Costa Rica,0,3,0,2.5,Brazil,Friendship,72,Brazil,Friendship,Brazil
+Costa Rica,0,3,0,2.5,Costa Rica,Friendship,72,Costa Rica,Friendship,Costa Rica
+Argentina,0,3,0,2.5,United Kingdom,human rights,572,United Kingdom,human rights,United Kingdom
+Uruguay,0,3,0,2.5,Costa Rica,Alfajor,151,Costa Rica,Alfajor,Costa Rica
+Argentina,0,3,0,2.5,Venezuela,inflation,572,Venezuela,inflation,Venezuela
+Argentina,0,3,0,2.5,Greece,inflation,572,Greece,inflation,Greece
+Uruguay,0,3,0,2.5,Argentina,Gardel,151,Argentina,Gardel,Argentina
 Peru,0,3,0,2.5,Argentina,Asado,28,Argentina,Asado,Argentina
 Peru,0,3,0,2.5,Uruguay,Asado,28,Uruguay,Asado,Uruguay
 Brazil,0,3,0,2.5,Argentina,Asado,99,Argentina,Asado,Argentina
 Brazil,0,3,0,2.5,Uruguay,Asado,99,Uruguay,Asado,Uruguay
-Argentina,0,3,0,2.5,Venezuela,inflation,516,Venezuela,inflation,Venezuela
-Argentina,0,3,0,2.5,Uruguay,Gardel,516,Uruguay,Gardel,Uruguay
+Argentina,0,3,0,2.5,Venezuela,inflation,572,Venezuela,inflation,Venezuela
+Argentina,0,3,0,2.5,Uruguay,Gardel,572,Uruguay,Gardel,Uruguay
 Chile,0,3,0,2.5,Brazil,warm,108,Brazil,warm,Brazil
-Argentina,0,3,0,2.5,France,Gardel,516,France,Gardel,France
-Argentina,0,3,0,2.5,Uruguay,Gardel,516,Uruguay,Gardel,Uruguay
-Uruguay,0,3,0,2.5,Chile,kind,128,Chile,kind,Chile
-Mexico,0,3,0,2.5,United States,Diverse,88,United States,Diverse,United States
-Mexico,0,3,0,2.5,United Arab Emirates,Diverse,88,United Arab Emirates,Diverse,United Arab Emirates
-Mexico,0,3,0,2.5,Colombia,Diverse,88,Colombia,Diverse,Colombia
-Mexico,0,3,0,2.5,United Kingdom,Diverse,88,United Kingdom,Diverse,United Kingdom
-Mexico,0,3,0,2.5,France,Diverse,88,France,Diverse,France
-Mexico,0,3,0,2.5,Canada,Diverse,88,Canada,Diverse,Canada
-Mexico,0,3,0,2.5,South Africa,Diverse,88,South Africa,Diverse,South Africa
-Uruguay,0,3,0,2.5,Spain,kind,128,Spain,kind,Spain
+Argentina,0,3,0,2.5,France,Gardel,572,France,Gardel,France
+Argentina,0,3,0,2.5,Uruguay,Gardel,572,Uruguay,Gardel,Uruguay
+Uruguay,0,3,0,2.5,Chile,kind,151,Chile,kind,Chile
+Mexico,0,3,0,2.5,United States,Diverse,99,United States,Diverse,United States
+Mexico,0,3,0,2.5,United Arab Emirates,Diverse,99,United Arab Emirates,Diverse,United Arab Emirates
+Mexico,0,3,0,2.5,Colombia,Diverse,99,Colombia,Diverse,Colombia
+Mexico,0,3,0,2.5,United Kingdom,Diverse,99,United Kingdom,Diverse,United Kingdom
+Mexico,0,3,0,2.5,France,Diverse,99,France,Diverse,France
+Mexico,0,3,0,2.5,Canada,Diverse,99,Canada,Diverse,Canada
+Mexico,0,3,0,2.5,South Africa,Diverse,99,South Africa,Diverse,South Africa
+Uruguay,0,3,0,2.5,Spain,kind,151,Spain,kind,Spain
 Brazil,0,3,0,2.5,Colombia,kind,99,Colombia,kind,Colombia
 Brazil,0,3,0,2.5,Argentina,kind,99,Argentina,kind,Argentina
 Brazil,0,3,0,2.5,Peru,kind,99,Peru,kind,Peru
-Costa Rica,0,3,0,2.5,Germany,green,65,Germany,green,Germany
-Cuba,0,3,0,2.5,Ecuador,criminality,41,Ecuador,criminality,Ecuador
-Uruguay,0,3,0,2.5,Argentina,Cavani,128,Argentina,Cavani,Argentina
-Uruguay,0,3,0,2.5,Italy,Cavani,128,Italy,Cavani,Italy
-Uruguay,0,3,0,2.5,Argentina,Asado,128,Argentina,Asado,Argentina
-Argentina,0,3,0,2.5,Peru,kind,516,Peru,kind,Peru
-Mexico,0,3,0,2.5,Greece,great beaches,88,Greece,great beaches,Greece
-Mexico,0,3,0,2.5,Brazil,great beaches,88,Brazil,great beaches,Brazil
-Mexico,0,3,0,2.5,Spain,great beaches,88,Spain,great beaches,Spain
-Mexico,0,3,0,2.5,Morocco,great beaches,88,Morocco,great beaches,Morocco
-Mexico,0,3,0,2.5,Cuba,great beaches,88,Cuba,great beaches,Cuba
-Argentina,0,3,0,2.5,Uruguay,Cavani,516,Uruguay,Cavani,Uruguay
+Costa Rica,0,3,0,2.5,Germany,green,72,Germany,green,Germany
+Cuba,0,3,0,2.5,Ecuador,criminality,44,Ecuador,criminality,Ecuador
+Uruguay,0,3,0,2.5,Argentina,Cavani,151,Argentina,Cavani,Argentina
+Uruguay,0,3,0,2.5,Italy,Cavani,151,Italy,Cavani,Italy
+Uruguay,0,3,0,2.5,Argentina,Asado,151,Argentina,Asado,Argentina
+Argentina,0,3,0,2.5,Peru,kind,572,Peru,kind,Peru
+Mexico,0,3,0,2.5,Greece,great beaches,99,Greece,great beaches,Greece
+Mexico,0,3,0,2.5,Brazil,great beaches,99,Brazil,great beaches,Brazil
+Mexico,0,3,0,2.5,Spain,great beaches,99,Spain,great beaches,Spain
+Mexico,0,3,0,2.5,Morocco,great beaches,99,Morocco,great beaches,Morocco
+Mexico,0,3,0,2.5,Cuba,great beaches,99,Cuba,great beaches,Cuba
+Argentina,0,3,0,2.5,Uruguay,Cavani,572,Uruguay,Cavani,Uruguay
 Peru,0,3,0,2.5,Canada,gently people,28,Canada,gently people,Canada
 Brazil,0,3,0,2.5,Canada,gently people,99,Canada,gently people,Canada
-Argentina,0,3,0,2.5,United Kingdom,colonialism,516,United Kingdom,colonialism,United Kingdom
-Argentina,0,3,0,2.5,Uruguay,Cavani,516,Uruguay,Cavani,Uruguay
-Argentina,0,3,0,2.5,Uruguay,Cavani,516,Uruguay,Cavani,Uruguay
-Colombia,0,3,0,2.5,Chile,Sopaipillas,41,Chile,Sopaipillas,Chile
-Colombia,0,3,0,2.5,Bolivia,Sopaipillas,41,Bolivia,Sopaipillas,Bolivia
-Costa Rica,0,3,0,2.5,Chile,Sopaipillas,65,Chile,Sopaipillas,Chile
-Costa Rica,0,3,0,2.5,Bolivia,Sopaipillas,65,Bolivia,Sopaipillas,Bolivia
+Argentina,0,3,0,2.5,United Kingdom,colonialism,572,United Kingdom,colonialism,United Kingdom
+Argentina,0,3,0,2.5,Uruguay,Cavani,572,Uruguay,Cavani,Uruguay
+Argentina,0,3,0,2.5,Uruguay,Cavani,572,Uruguay,Cavani,Uruguay
+Colombia,0,3,0,2.5,Chile,Sopaipillas,42,Chile,Sopaipillas,Chile
+Colombia,0,3,0,2.5,Bolivia,Sopaipillas,42,Bolivia,Sopaipillas,Bolivia
+Costa Rica,0,3,0,2.5,Chile,Sopaipillas,72,Chile,Sopaipillas,Chile
+Costa Rica,0,3,0,2.5,Bolivia,Sopaipillas,72,Bolivia,Sopaipillas,Bolivia
 Nicaragua,0,3,0,2.5,Chile,Volcanoes,18,Chile,Volcanoes,Chile
+Argentina,0,3,0,2.5,Mexico,molestos,572,Mexico,molestos,Mexico
+Argentina,0,3,0,2.5,Peru,kind,572,Peru,kind,Peru
+Spain,0,3,0,2.5,Italy,speak loudly,37,Italy,speak loudly,Italy
+Argentina,0,3,0,2.5,Uruguay,kind,572,Uruguay,kind,Uruguay
+Costa Rica,0,3,0,2.5,Argentina,good nature,72,Argentina,good nature,Argentina
+Colombia,0,3,0,2.5,Brazil,hot,42,Brazil,hot,Brazil
+Costa Rica,0,3,0,2.5,Brazil,hot,72,Brazil,hot,Brazil
+Argentina,0,3,0,2.5,Paraguay,kind,572,Paraguay,kind,Paraguay
+Uruguay,0,3,0,2.5,Chile,colaborative,151,Chile,colaborative,Chile
+Uruguay,0,3,0,2.5,Cuba,colaborative,151,Cuba,colaborative,Cuba
+Mexico,0,3,0,2.5,United States,creative problem solvers,99,United States,creative problem solvers,United States
+Mexico,0,3,0,2.5,United Kingdom,creative problem solvers,99,United Kingdom,creative problem solvers,United Kingdom
+Mexico,0,3,0,2.5,Japan,creative problem solvers,99,Japan,creative problem solvers,Japan
+Mexico,0,3,0,2.5,India,creative problem solvers,99,India,creative problem solvers,India
+Argentina,0,3,0,2.5,Cuba,Spanish speaker,572,Cuba,Spanish speaker,Cuba
+Argentina,0,3,0,2.5,Ecuador,Spanish speaker,572,Ecuador,Spanish speaker,Ecuador
+Argentina,0,3,0,2.5,Mexico,Spanish speaker,572,Mexico,Spanish speaker,Mexico
+Argentina,0,3,0,2.5,Guatemala,Spanish speaker,572,Guatemala,Spanish speaker,Guatemala
+Argentina,0,3,0,2.5,El Salvador,Spanish speaker,572,El Salvador,Spanish speaker,El Salvador
+Argentina,0,3,0,2.5,Honduras,Spanish speaker,572,Honduras,Spanish speaker,Honduras
+Argentina,0,3,0,2.5,Panama,Spanish speaker,572,Panama,Spanish speaker,Panama
+Argentina,0,3,0,2.5,Nicaragua,Spanish speaker,572,Nicaragua,Spanish speaker,Nicaragua
+Argentina,0,3,0,2.5,Dominican Republic,Spanish speaker,572,Dominican Republic,Spanish speaker,Dominican Republic
+Argentina,0,3,0,2.5,Cuba,Spanish speaker,572,Cuba,Spanish speaker,Cuba
+Argentina,0,3,0,2.5,Costa Rica,Spanish speaker,572,Costa Rica,Spanish speaker,Costa Rica
+Argentina,0,3,0,2.5,Venezuela,Spanish speaker,572,Venezuela,Spanish speaker,Venezuela
+Argentina,0,3,0,2.5,Ecuador,Spanish speaker,572,Ecuador,Spanish speaker,Ecuador
+Argentina,0,3,0,2.5,Colombia,Spanish speaker,572,Colombia,Spanish speaker,Colombia
+Argentina,0,3,0,2.5,Bolivia,Spanish speaker,572,Bolivia,Spanish speaker,Bolivia
+Argentina,0,3,0,2.5,Chile,Spanish speaker,572,Chile,Spanish speaker,Chile
+Argentina,0,3,0,2.5,Paraguay,Spanish speaker,572,Paraguay,Spanish speaker,Paraguay
+Argentina,0,3,0,2.5,Spain,Spanish speaker,572,Spain,Spanish speaker,Spain
+Argentina,0,3,0,2.5,Uruguay,Spanish speaker,572,Uruguay,Spanish speaker,Uruguay
+Argentina,0,3,0,2.5,United States,Capitlaism,572,United States,Capitlaism,United States
+Argentina,0,3,0,2.5,Costa Rica,good nature,572,Costa Rica,good nature,Costa Rica
+Argentina,0,3,0,2.5,Uruguay,good nature,572,Uruguay,good nature,Uruguay
+Costa Rica,0,3,0,2.5,Nicaragua,Friendship,72,Nicaragua,Friendship,Nicaragua
+Uruguay,0,3,0,2.5,Brazil,great soccer players,151,Brazil,great soccer players,Brazil
+Uruguay,0,3,0,2.5,Argentina,great soccer players,151,Argentina,great soccer players,Argentina
+Uruguay,0,3,0,2.5,France,great soccer players,151,France,great soccer players,France
+Uruguay,0,3,0,2.5,Italy,great soccer players,151,Italy,great soccer players,Italy
+Uruguay,0,3,0,2.5,Germany,great soccer players,151,Germany,great soccer players,Germany
+Cuba,0,3,0,2.5,Mexico,chiquitito,44,Mexico,chiquitito,Mexico
+Argentina,0,3,0,2.5,United States,Good education,572,United States,Good education,United States
+Argentina,0,3,0,2.5,Finland,Good education,572,Finland,Good education,Finland
+Mexico,0,3,0,2.5,Venezuela,scammer,99,Venezuela,scammer,Venezuela
+Uruguay,0,3,0,2.5,Spain,churros,151,Spain,churros,Spain
+Uruguay,0,3,0,2.5,Argentina,churros,151,Argentina,churros,Argentina
+Uruguay,0,3,0,2.5,Panama,rebel province,151,Panama,rebel province,Panama
+Argentina,0,3,0,2.5,Colombia,good nature,572,Colombia,good nature,Colombia
+Argentina,0,3,0,2.5,United Kingdom,great soccer players,572,United Kingdom,great soccer players,United Kingdom
+Argentina,0,3,0,2.5,Brazil,great soccer players,572,Brazil,great soccer players,Brazil
+Spain,0,3,0,2.5,Brazil,play football,37,Brazil,play football,Brazil
+Spain,0,3,0,2.5,Argentina,play football,37,Argentina,play football,Argentina
+Argentina,0,3,0,2.5,Brazil,great soccer players,572,Brazil,great soccer players,Brazil
+Argentina,0,3,0,2.5,India,Good education,572,India,Good education,India
+Argentina,0,3,0,2.5,China,Good education,572,China,Good education,China
+Argentina,0,3,0,2.5,Italy,Argumentative,572,Italy,Argumentative,Italy
+Mexico,0,3,0,2.5,Italy,delicious gastronomy,99,Italy,delicious gastronomy,Italy
+Mexico,0,3,0,2.5,Japan,delicious gastronomy,99,Japan,delicious gastronomy,Japan
+Cuba,0,3,0,2.5,Chile,Spanish speaker,44,Chile,Spanish speaker,Chile
+Argentina,0,3,0,2.5,Brazil,good nature,572,Brazil,good nature,Brazil
+Argentina,0,3,0,2.5,Colombia,good nature,572,Colombia,good nature,Colombia
+Argentina,0,3,0,2.5,Costa Rica,good nature,572,Costa Rica,good nature,Costa Rica
+Argentina,0,3,0,2.5,Ecuador,good nature,572,Ecuador,good nature,Ecuador
+Argentina,0,3,0,2.5,Italy,Argumentative,572,Italy,Argumentative,Italy
+Uruguay,0,3,0,2.5,Brazil,carnaval,151,Brazil,carnaval,Brazil
+Uruguay,0,3,0,2.5,Spain,carnaval,151,Spain,carnaval,Spain
+Costa Rica,0,3,0,2.5,Switzerland,ecological,72,Switzerland,ecological,Switzerland
+Mexico,0,3,0,2.5,United States,native population,99,United States,native population,United States
+Mexico,0,3,0,2.5,Colombia,native population,99,Colombia,native population,Colombia
+Mexico,0,3,0,2.5,Canada,native population,99,Canada,native population,Canada
+Mexico,0,3,0,2.5,Spain,native population,99,Spain,native population,Spain
+Uruguay,0,3,0,2.5,Brazil,carnaval,151,Brazil,carnaval,Brazil

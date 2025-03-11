@@ -1,5 +1,5 @@
 source_country,non_stereotype,stereotype,unsure,mean_offensive_score,identity,attribute,row_count,translated_identity,translated_attribute_list,identity_country_name
-Argentina,0,3,0,2.5,Mexico,a,2,Mexico,a,Mexico
-Argentina,0,3,0,2.5,Argentina,good beef,2,Argentina,good beef,Argentina
-Brazil,0,3,0,2.5,Mexico,x,2,Mexico,x,Mexico
-Brazil,0,3,0,2.5,Belize,a,2,Belize,a,Belize
+Argentina,0,3,0,2.5,Mexico,taco,2,Mexico,taco,Mexico
+Brazil,0,3,0,2.5,Argentina,football,2,Argentina,football,Argentina
+Argentina,0,3,0,2.5,Argentina,spanish,2,Argentina,spanish,Argentina
+Brazil,0,3,0,2.5,Spain,spanish,2,Spain,spanish,Spain

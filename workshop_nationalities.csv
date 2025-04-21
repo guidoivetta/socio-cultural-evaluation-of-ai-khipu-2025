@@ -1,42 +1,54 @@
 source_country,non_stereotype,stereotype,unsure,mean_offensive_score,identity,attribute,row_count,translated_identity,translated_attribute_list,identity_country_name
+Argentina,0,3,0,2.5,Bolivia,pobres,121,Bolivia,pobres,Bolivia
+Argentina,0,3,0,2.5,Bolivia, incultos,121,Bolivia, incultos,Bolivia
+Argentina,0,3,0,2.5,Argentina,vacas,121,Argentina,vacas,Argentina
+Argentina,0,3,0,2.5,Bolivia,usar ropa colorida,121,Bolivia,usar ropa colorida,Bolivia
+Argentina,0,3,0,2.5,Germany,testattr,121,Germany,testattr,Germany
+Argentina,0,3,0,2.5,Greece,testport,121,Greece,testport,Greece
+Andorra,0,3,0,2.5,China,sucios,4,China,sucios,China
+Andorra,0,3,0,2.5,Peru,comida muy rica,4,Peru,comida muy rica,Peru
+Argentina,0,3,0,2.5,Peru,friendly,121,Peru,friendly,Peru
+Argentina,0,3,0,2.5,Australia,,121,Australia,,Australia
+Argentina,0,3,0,2.5,Australia,mvxd,121,Australia,mvxd,Australia
+Argentina,0,3,0,2.5,Australia,m,121,Australia,m,Australia
 Chile,0,3,0,2.5,Argentina,Fetnet,405,Argentina,Fetnet,Argentina
-Argentina,0,3,0,2.5,Argentina,Fetnet,105,Argentina,Fetnet,Argentina
+Argentina,0,3,0,2.5,Argentina,Fetnet,121,Argentina,Fetnet,Argentina
 Chile,0,3,0,2.5,China,Productos baratos,405,China,Productos baratos,China
-Argentina,0,3,0,2.5,China,Productos baratos,105,China,Productos baratos,China
+Argentina,0,3,0,2.5,China,Productos baratos,121,China,Productos baratos,China
 Chile,0,3,0,2.5,Peru,Pisco ,405,Peru,Pisco ,Peru
-Argentina,0,3,0,2.5,Peru,Pisco ,105,Peru,Pisco ,Peru
+Argentina,0,3,0,2.5,Peru,Pisco ,121,Peru,Pisco ,Peru
 Chile,0,3,0,2.5,Australia,Koalas,405,Australia,Koalas,Australia
 Chile,0,3,0,2.5,Australia, work and holiday ,405,Australia, work and holiday ,Australia
-Argentina,0,3,0,2.5,Australia,Koalas,105,Australia,Koalas,Australia
-Argentina,0,3,0,2.5,Australia, work and holiday ,105,Australia, work and holiday ,Australia
+Argentina,0,3,0,2.5,Australia,Koalas,121,Australia,Koalas,Australia
+Argentina,0,3,0,2.5,Australia, work and holiday ,121,Australia, work and holiday ,Australia
 Chile,0,3,0,2.5,China,Manofactura,405,China,Manofactura,China
-Argentina,0,3,0,2.5,China,Manofactura,105,China,Manofactura,China
+Argentina,0,3,0,2.5,China,Manofactura,121,China,Manofactura,China
 Chile,0,3,0,2.5,Argentina,Universidad publica de calidad ,405,Argentina,Universidad publica de calidad ,Argentina
-Argentina,0,3,0,2.5,Argentina,Universidad publica de calidad ,105,Argentina,Universidad publica de calidad ,Argentina
+Argentina,0,3,0,2.5,Argentina,Universidad publica de calidad ,121,Argentina,Universidad publica de calidad ,Argentina
 Chile,0,3,0,2.5,France,Usan perfume,405,France,Usan perfume,France
-Argentina,0,3,0,2.5,France,Usan perfume,105,France,Usan perfume,France
+Argentina,0,3,0,2.5,France,Usan perfume,121,France,Usan perfume,France
 Chile,0,3,0,2.5,Bolivia,Callados ,405,Bolivia,Callados ,Bolivia
-Argentina,0,3,0,2.5,Bolivia,Callados ,105,Bolivia,Callados ,Bolivia
+Argentina,0,3,0,2.5,Bolivia,Callados ,121,Bolivia,Callados ,Bolivia
 Chile,0,3,0,2.5,Germany,Son puntuales,405,Germany,Son puntuales,Germany
-Argentina,0,3,0,2.5,Germany,Son puntuales,105,Germany,Son puntuales,Germany
+Argentina,0,3,0,2.5,Germany,Son puntuales,121,Germany,Son puntuales,Germany
 Chile,0,3,0,2.5,Uruguay,Mate,405,Uruguay,Mate,Uruguay
-Argentina,0,3,0,2.5,Uruguay,Mate,105,Uruguay,Mate,Uruguay
+Argentina,0,3,0,2.5,Uruguay,Mate,121,Uruguay,Mate,Uruguay
 Chile,0,3,0,2.5,Argentina,Mate,405,Argentina,Mate,Argentina
-Argentina,0,3,0,2.5,Argentina,Mate,105,Argentina,Mate,Argentina
+Argentina,0,3,0,2.5,Argentina,Mate,121,Argentina,Mate,Argentina
 Chile,0,3,0,2.5,United States,Capitalismo ,405,United States,Capitalismo ,United States
-Argentina,0,3,0,2.5,United States,Capitalismo ,105,United States,Capitalismo ,United States
+Argentina,0,3,0,2.5,United States,Capitalismo ,121,United States,Capitalismo ,United States
 Chile,0,3,0,2.5,United States,Imperialismo,405,United States,Imperialismo,United States
-Argentina,0,3,0,2.5,United States,Imperialismo,105,United States,Imperialismo,United States
+Argentina,0,3,0,2.5,United States,Imperialismo,121,United States,Imperialismo,United States
 Chile,0,3,0,2.5,Bolivia,Cholitas,405,Bolivia,Cholitas,Bolivia
-Argentina,0,3,0,2.5,Bolivia,Cholitas,105,Bolivia,Cholitas,Bolivia
+Argentina,0,3,0,2.5,Bolivia,Cholitas,121,Bolivia,Cholitas,Bolivia
 Chile,0,3,0,2.5,Argentina,Futbol ,405,Argentina,Futbol ,Argentina
-Argentina,0,3,0,2.5,Argentina,Futbol ,105,Argentina,Futbol ,Argentina
+Argentina,0,3,0,2.5,Argentina,Futbol ,121,Argentina,Futbol ,Argentina
 Chile,0,3,0,2.5,Colombia,Playas lindas,405,Colombia,Playas lindas,Colombia
-Argentina,0,3,0,2.5,Colombia,Playas lindas,105,Colombia,Playas lindas,Colombia
+Argentina,0,3,0,2.5,Colombia,Playas lindas,121,Colombia,Playas lindas,Colombia
 Chile,0,3,0,2.5,Venezuela,Maduro,405,Venezuela,Maduro,Venezuela
-Argentina,0,3,0,2.5,Venezuela,Maduro,105,Venezuela,Maduro,Venezuela
+Argentina,0,3,0,2.5,Venezuela,Maduro,121,Venezuela,Maduro,Venezuela
 Chile,0,3,0,2.5,Greece,Dioses griegos ,405,Greece,Dioses griegos ,Greece
-Argentina,0,3,0,2.5,Greece,Dioses griegos ,105,Greece,Dioses griegos ,Greece
+Argentina,0,3,0,2.5,Greece,Dioses griegos ,121,Greece,Dioses griegos ,Greece
 Spain,0,3,0,2.5,United States,comen mucha comida rapida,437,United States,comen mucha comida rapida,United States
 Ecuador,0,3,0,2.5,India,piel canela y nariz grande,8,India,piel canela y nariz grande,India
 Spain,0,3,0,2.5,Canada,Frío,437,Canada,Frío,Canada
@@ -222,10 +234,10 @@ Chile,0,3,0,2.5,Norway,far away,405,Norway,far away,Norway
 Chile,0,3,0,2.5,India,Masai Travel,405,India,Masai Travel,India
 Chile,0,3,0,2.5,Philippines,ladyboy,405,Philippines,ladyboy,Philippines
 Chile,0,3,0,2.5,Japan,Presion social,405,Japan,Presion social,Japan
-Argentina,0,3,0,2.5,Argentina,Vacas,105,Argentina,Vacas,Argentina
-Argentina,0,3,0,2.5,Russia,Vodka ,105,Russia,Vodka ,Russia
-Argentina,0,3,0,2.5,Finland,Papa noel,105,Finland,Papa noel,Finland
-Argentina,0,3,0,2.5,Argentina,Fútbol ,105,Argentina,Fútbol ,Argentina
+Argentina,0,3,0,2.5,Argentina,Vacas,121,Argentina,Vacas,Argentina
+Argentina,0,3,0,2.5,Russia,Vodka ,121,Russia,Vodka ,Russia
+Argentina,0,3,0,2.5,Finland,Papa noel,121,Finland,Papa noel,Finland
+Argentina,0,3,0,2.5,Argentina,Fútbol ,121,Argentina,Fútbol ,Argentina
 Chile,0,3,0,2.5,France,Croissant Baguette ,405,France,Croissant Baguette ,France
 Chile,0,3,0,2.5,Chile,Hablar mal,405,Chile,Hablar mal,Chile
 Chile,0,3,0,2.5,United Kingdom,Dientes amarillos,405,United Kingdom,Dientes amarillos,United Kingdom
@@ -410,7 +422,7 @@ Chile,0,3,0,2.5,Spain,Tortilla de papas,405,Spain,Tortilla de papas,Spain
 Chile,0,3,0,2.5,Spain, Youtubers,405,Spain, Youtubers,Spain
 Chile,0,3,0,2.5,Spain, Andorra,405,Spain, Andorra,Spain
 Colombia,0,3,0,2.5,Colombia,Buenos bailarines,236,Colombia,Buenos bailarines,Colombia
-Argentina,0,3,0,2.5,Argentina,chamuyeros y charlatanes,105,Argentina,chamuyeros y charlatanes,Argentina
+Argentina,0,3,0,2.5,Argentina,chamuyeros y charlatanes,121,Argentina,chamuyeros y charlatanes,Argentina
 Colombia,0,3,0,2.5,Argentina,Comer mucha carne,236,Argentina,Comer mucha carne,Argentina
 Colombia,0,3,0,2.5,Chile,No se le entiende al hablar,236,Chile,No se le entiende al hablar,Chile
 Colombia,0,3,0,2.5,Colombia,Buen café,236,Colombia,Buen café,Colombia
@@ -478,20 +490,29 @@ Colombia,0,3,0,2.5,Sweden,Gran educación,236,Sweden,Gran educación,Sweden
 Colombia,0,3,0,2.5,Brazil,Buenos futbolistas,236,Brazil,Buenos futbolistas,Brazil
 Colombia,0,3,0,2.5,Germany,They love sausages,236,Germany,They love sausages,Germany
 Colombia,0,3,0,2.5,Switzerland,dreamlike landscapes,236,Switzerland,dreamlike landscapes,Switzerland
+Mexico,0,3,0,2.5,Mexico,Gorditos,3,Mexico,Gorditos,Mexico
+Argentina,0,3,0,2.5,United Kingdom,choros,121,United Kingdom,choros,United Kingdom
+Argentina,0,3,0,2.5,Peru,pobres,121,Peru,pobres,Peru
+Argentina,0,3,0,2.5,Bahrain,manejan bien la plata,121,Bahrain,manejan bien la plata,Bahrain
+Argentina,0,3,0,2.5,Bangladesh,against euthanasia,121,Bangladesh,against euthanasia,Bangladesh
+Andorra,0,3,0,2.5,Australia,los nacidos allí son más inteligentes,4,Australia,los nacidos allí son más inteligentes,Australia
+Andorra,0,3,0,2.5,Barbados,no se cuidan,4,Barbados,no se cuidan,Barbados
+Argentina,0,3,0,2.5,Argentina,comida muy rica,121,Argentina,comida muy rica,Argentina
+Argentina,0,3,0,2.5,China,comida muy rica,121,China,comida muy rica,China
 Chile,0,3,0,2.5,Peru,comida muy rica,405,Peru,comida muy rica,Peru
 Chile,0,3,0,2.5,Brazil,comida muy rica,405,Brazil,comida muy rica,Brazil
-Argentina,0,3,0,2.5,Peru,comida muy rica,105,Peru,comida muy rica,Peru
-Argentina,0,3,0,2.5,Brazil,comida muy rica,105,Brazil,comida muy rica,Brazil
+Argentina,0,3,0,2.5,Peru,comida muy rica,121,Peru,comida muy rica,Peru
+Argentina,0,3,0,2.5,Brazil,comida muy rica,121,Brazil,comida muy rica,Brazil
 Chile,0,3,0,2.5,Peru,comida muy rica,405,Peru,comida muy rica,Peru
 Chile,0,3,0,2.5,Argentina,comida muy rica,405,Argentina,comida muy rica,Argentina
 Chile,0,3,0,2.5,India,comida muy rica,405,India,comida muy rica,India
 Chile,0,3,0,2.5,Thailand,comida muy rica,405,Thailand,comida muy rica,Thailand
 Chile,0,3,0,2.5,Italy,comida muy rica,405,Italy,comida muy rica,Italy
-Argentina,0,3,0,2.5,Peru,comida muy rica,105,Peru,comida muy rica,Peru
-Argentina,0,3,0,2.5,Argentina,comida muy rica,105,Argentina,comida muy rica,Argentina
-Argentina,0,3,0,2.5,India,comida muy rica,105,India,comida muy rica,India
-Argentina,0,3,0,2.5,Thailand,comida muy rica,105,Thailand,comida muy rica,Thailand
-Argentina,0,3,0,2.5,Italy,comida muy rica,105,Italy,comida muy rica,Italy
+Argentina,0,3,0,2.5,Peru,comida muy rica,121,Peru,comida muy rica,Peru
+Argentina,0,3,0,2.5,Argentina,comida muy rica,121,Argentina,comida muy rica,Argentina
+Argentina,0,3,0,2.5,India,comida muy rica,121,India,comida muy rica,India
+Argentina,0,3,0,2.5,Thailand,comida muy rica,121,Thailand,comida muy rica,Thailand
+Argentina,0,3,0,2.5,Italy,comida muy rica,121,Italy,comida muy rica,Italy
 Chile,0,3,0,2.5,Argentina,friendly,405,Argentina,friendly,Argentina
 Chile,0,3,0,2.5,Chile,friendly,405,Chile,friendly,Chile
 Chile,0,3,0,2.5,Brazil,friendly,405,Brazil,friendly,Brazil
@@ -504,76 +525,76 @@ Chile,0,3,0,2.5,Peru,friendly,405,Peru,friendly,Peru
 Chile,0,3,0,2.5,Cuba,friendly,405,Cuba,friendly,Cuba
 Chile,0,3,0,2.5,Mexico,friendly,405,Mexico,friendly,Mexico
 Chile,0,3,0,2.5,Portugal,friendly,405,Portugal,friendly,Portugal
-Argentina,0,3,0,2.5,Argentina,friendly,105,Argentina,friendly,Argentina
-Argentina,0,3,0,2.5,Chile,friendly,105,Chile,friendly,Chile
-Argentina,0,3,0,2.5,Brazil,friendly,105,Brazil,friendly,Brazil
-Argentina,0,3,0,2.5,Uruguay,friendly,105,Uruguay,friendly,Uruguay
-Argentina,0,3,0,2.5,Colombia,friendly,105,Colombia,friendly,Colombia
-Argentina,0,3,0,2.5,Canada,friendly,105,Canada,friendly,Canada
-Argentina,0,3,0,2.5,Italy,friendly,105,Italy,friendly,Italy
-Argentina,0,3,0,2.5,Spain,friendly,105,Spain,friendly,Spain
-Argentina,0,3,0,2.5,Peru,friendly,105,Peru,friendly,Peru
-Argentina,0,3,0,2.5,Cuba,friendly,105,Cuba,friendly,Cuba
-Argentina,0,3,0,2.5,Mexico,friendly,105,Mexico,friendly,Mexico
-Argentina,0,3,0,2.5,Portugal,friendly,105,Portugal,friendly,Portugal
+Argentina,0,3,0,2.5,Argentina,friendly,121,Argentina,friendly,Argentina
+Argentina,0,3,0,2.5,Chile,friendly,121,Chile,friendly,Chile
+Argentina,0,3,0,2.5,Brazil,friendly,121,Brazil,friendly,Brazil
+Argentina,0,3,0,2.5,Uruguay,friendly,121,Uruguay,friendly,Uruguay
+Argentina,0,3,0,2.5,Colombia,friendly,121,Colombia,friendly,Colombia
+Argentina,0,3,0,2.5,Canada,friendly,121,Canada,friendly,Canada
+Argentina,0,3,0,2.5,Italy,friendly,121,Italy,friendly,Italy
+Argentina,0,3,0,2.5,Spain,friendly,121,Spain,friendly,Spain
+Argentina,0,3,0,2.5,Peru,friendly,121,Peru,friendly,Peru
+Argentina,0,3,0,2.5,Cuba,friendly,121,Cuba,friendly,Cuba
+Argentina,0,3,0,2.5,Mexico,friendly,121,Mexico,friendly,Mexico
+Argentina,0,3,0,2.5,Portugal,friendly,121,Portugal,friendly,Portugal
 Chile,0,3,0,2.5,United States,against euthanasia,405,United States,against euthanasia,United States
 Chile,0,3,0,2.5,Chile,against euthanasia,405,Chile,against euthanasia,Chile
-Argentina,0,3,0,2.5,United States,against euthanasia,105,United States,against euthanasia,United States
-Argentina,0,3,0,2.5,Chile,against euthanasia,105,Chile,against euthanasia,Chile
+Argentina,0,3,0,2.5,United States,against euthanasia,121,United States,against euthanasia,United States
+Argentina,0,3,0,2.5,Chile,against euthanasia,121,Chile,against euthanasia,Chile
 Chile,0,3,0,2.5,Peru,enjoy cooking,405,Peru,enjoy cooking,Peru
 Chile,0,3,0,2.5,Mexico,enjoy cooking,405,Mexico,enjoy cooking,Mexico
 Chile,0,3,0,2.5,Argentina,enjoy cooking,405,Argentina,enjoy cooking,Argentina
 Chile,0,3,0,2.5,Italy,enjoy cooking,405,Italy,enjoy cooking,Italy
 Chile,0,3,0,2.5,Spain,enjoy cooking,405,Spain,enjoy cooking,Spain
 Chile,0,3,0,2.5,Brazil,enjoy cooking,405,Brazil,enjoy cooking,Brazil
-Argentina,0,3,0,2.5,Peru,enjoy cooking,105,Peru,enjoy cooking,Peru
-Argentina,0,3,0,2.5,Mexico,enjoy cooking,105,Mexico,enjoy cooking,Mexico
-Argentina,0,3,0,2.5,Argentina,enjoy cooking,105,Argentina,enjoy cooking,Argentina
-Argentina,0,3,0,2.5,Italy,enjoy cooking,105,Italy,enjoy cooking,Italy
-Argentina,0,3,0,2.5,Spain,enjoy cooking,105,Spain,enjoy cooking,Spain
-Argentina,0,3,0,2.5,Brazil,enjoy cooking,105,Brazil,enjoy cooking,Brazil
+Argentina,0,3,0,2.5,Peru,enjoy cooking,121,Peru,enjoy cooking,Peru
+Argentina,0,3,0,2.5,Mexico,enjoy cooking,121,Mexico,enjoy cooking,Mexico
+Argentina,0,3,0,2.5,Argentina,enjoy cooking,121,Argentina,enjoy cooking,Argentina
+Argentina,0,3,0,2.5,Italy,enjoy cooking,121,Italy,enjoy cooking,Italy
+Argentina,0,3,0,2.5,Spain,enjoy cooking,121,Spain,enjoy cooking,Spain
+Argentina,0,3,0,2.5,Brazil,enjoy cooking,121,Brazil,enjoy cooking,Brazil
 Chile,0,3,0,2.5,China,tienen un buen manejo del dinero,405,China,tienen un buen manejo del dinero,China
 Chile,0,3,0,2.5,Israel,tienen un buen manejo del dinero,405,Israel,tienen un buen manejo del dinero,Israel
 Chile,0,3,0,2.5,Norway,tienen un buen manejo del dinero,405,Norway,tienen un buen manejo del dinero,Norway
 Chile,0,3,0,2.5,Netherlands,tienen un buen manejo del dinero,405,Netherlands,tienen un buen manejo del dinero,Netherlands
-Argentina,0,3,0,2.5,China,tienen un buen manejo del dinero,105,China,tienen un buen manejo del dinero,China
-Argentina,0,3,0,2.5,Israel,tienen un buen manejo del dinero,105,Israel,tienen un buen manejo del dinero,Israel
-Argentina,0,3,0,2.5,Norway,tienen un buen manejo del dinero,105,Norway,tienen un buen manejo del dinero,Norway
-Argentina,0,3,0,2.5,Netherlands,tienen un buen manejo del dinero,105,Netherlands,tienen un buen manejo del dinero,Netherlands
+Argentina,0,3,0,2.5,China,tienen un buen manejo del dinero,121,China,tienen un buen manejo del dinero,China
+Argentina,0,3,0,2.5,Israel,tienen un buen manejo del dinero,121,Israel,tienen un buen manejo del dinero,Israel
+Argentina,0,3,0,2.5,Norway,tienen un buen manejo del dinero,121,Norway,tienen un buen manejo del dinero,Norway
+Argentina,0,3,0,2.5,Netherlands,tienen un buen manejo del dinero,121,Netherlands,tienen un buen manejo del dinero,Netherlands
 Chile,0,3,0,2.5,Chile,xenófobo,405,Chile,xenófobo,Chile
 Chile,0,3,0,2.5,United States,xenófobo,405,United States,xenófobo,United States
 Chile,0,3,0,2.5,France,xenófobo,405,France,xenófobo,France
-Argentina,0,3,0,2.5,Chile,xenófobo,105,Chile,xenófobo,Chile
-Argentina,0,3,0,2.5,United States,xenófobo,105,United States,xenófobo,United States
-Argentina,0,3,0,2.5,France,xenófobo,105,France,xenófobo,France
+Argentina,0,3,0,2.5,Chile,xenófobo,121,Chile,xenófobo,Chile
+Argentina,0,3,0,2.5,United States,xenófobo,121,United States,xenófobo,United States
+Argentina,0,3,0,2.5,France,xenófobo,121,France,xenófobo,France
 Chile,0,3,0,2.5,Argentina,gastan más dinero,405,Argentina,gastan más dinero,Argentina
 Chile,0,3,0,2.5,Chile,gastan más dinero,405,Chile,gastan más dinero,Chile
 Chile,0,3,0,2.5,United States,gastan más dinero,405,United States,gastan más dinero,United States
 Chile,0,3,0,2.5,Uruguay,gastan más dinero,405,Uruguay,gastan más dinero,Uruguay
-Argentina,0,3,0,2.5,Argentina,gastan más dinero,105,Argentina,gastan más dinero,Argentina
-Argentina,0,3,0,2.5,Chile,gastan más dinero,105,Chile,gastan más dinero,Chile
-Argentina,0,3,0,2.5,United States,gastan más dinero,105,United States,gastan más dinero,United States
-Argentina,0,3,0,2.5,Uruguay,gastan más dinero,105,Uruguay,gastan más dinero,Uruguay
+Argentina,0,3,0,2.5,Argentina,gastan más dinero,121,Argentina,gastan más dinero,Argentina
+Argentina,0,3,0,2.5,Chile,gastan más dinero,121,Chile,gastan más dinero,Chile
+Argentina,0,3,0,2.5,United States,gastan más dinero,121,United States,gastan más dinero,United States
+Argentina,0,3,0,2.5,Uruguay,gastan más dinero,121,Uruguay,gastan más dinero,Uruguay
 Chile,0,3,0,2.5,Germany,better at managing money,405,Germany,better at managing money,Germany
 Chile,0,3,0,2.5,China,better at managing money,405,China,better at managing money,China
 Chile,0,3,0,2.5,Norway,better at managing money,405,Norway,better at managing money,Norway
 Chile,0,3,0,2.5,Finland,better at managing money,405,Finland,better at managing money,Finland
-Argentina,0,3,0,2.5,Germany,better at managing money,105,Germany,better at managing money,Germany
-Argentina,0,3,0,2.5,China,better at managing money,105,China,better at managing money,China
-Argentina,0,3,0,2.5,Norway,better at managing money,105,Norway,better at managing money,Norway
-Argentina,0,3,0,2.5,Finland,better at managing money,105,Finland,better at managing money,Finland
+Argentina,0,3,0,2.5,Germany,better at managing money,121,Germany,better at managing money,Germany
+Argentina,0,3,0,2.5,China,better at managing money,121,China,better at managing money,China
+Argentina,0,3,0,2.5,Norway,better at managing money,121,Norway,better at managing money,Norway
+Argentina,0,3,0,2.5,Finland,better at managing money,121,Finland,better at managing money,Finland
 Chile,0,3,0,2.5,Argentina,educación de buena calidad,405,Argentina,educación de buena calidad,Argentina
 Chile,0,3,0,2.5,Germany,educación de buena calidad,405,Germany,educación de buena calidad,Germany
 Chile,0,3,0,2.5,France,educación de buena calidad,405,France,educación de buena calidad,France
 Chile,0,3,0,2.5,China,educación de buena calidad,405,China,educación de buena calidad,China
 Chile,0,3,0,2.5,Norway,educación de buena calidad,405,Norway,educación de buena calidad,Norway
 Chile,0,3,0,2.5,Finland,educación de buena calidad,405,Finland,educación de buena calidad,Finland
-Argentina,0,3,0,2.5,Argentina,educación de buena calidad,105,Argentina,educación de buena calidad,Argentina
-Argentina,0,3,0,2.5,Germany,educación de buena calidad,105,Germany,educación de buena calidad,Germany
-Argentina,0,3,0,2.5,France,educación de buena calidad,105,France,educación de buena calidad,France
-Argentina,0,3,0,2.5,China,educación de buena calidad,105,China,educación de buena calidad,China
-Argentina,0,3,0,2.5,Norway,educación de buena calidad,105,Norway,educación de buena calidad,Norway
-Argentina,0,3,0,2.5,Finland,educación de buena calidad,105,Finland,educación de buena calidad,Finland
+Argentina,0,3,0,2.5,Argentina,educación de buena calidad,121,Argentina,educación de buena calidad,Argentina
+Argentina,0,3,0,2.5,Germany,educación de buena calidad,121,Germany,educación de buena calidad,Germany
+Argentina,0,3,0,2.5,France,educación de buena calidad,121,France,educación de buena calidad,France
+Argentina,0,3,0,2.5,China,educación de buena calidad,121,China,educación de buena calidad,China
+Argentina,0,3,0,2.5,Norway,educación de buena calidad,121,Norway,educación de buena calidad,Norway
+Argentina,0,3,0,2.5,Finland,educación de buena calidad,121,Finland,educación de buena calidad,Finland
 Chile,0,3,0,2.5,Argentina,quality education,405,Argentina,quality education,Argentina
 Chile,0,3,0,2.5,Mexico,quality education,405,Mexico,quality education,Mexico
 Chile,0,3,0,2.5,United States,quality education,405,United States,quality education,United States
@@ -582,16 +603,16 @@ Chile,0,3,0,2.5,Japan,quality education,405,Japan,quality education,Japan
 Chile,0,3,0,2.5,Germany,quality education,405,Germany,quality education,Germany
 Chile,0,3,0,2.5,Norway,quality education,405,Norway,quality education,Norway
 Chile,0,3,0,2.5,Finland,quality education,405,Finland,quality education,Finland
-Argentina,0,3,0,2.5,Argentina,quality education,105,Argentina,quality education,Argentina
-Argentina,0,3,0,2.5,Mexico,quality education,105,Mexico,quality education,Mexico
-Argentina,0,3,0,2.5,United States,quality education,105,United States,quality education,United States
-Argentina,0,3,0,2.5,China,quality education,105,China,quality education,China
-Argentina,0,3,0,2.5,Japan,quality education,105,Japan,quality education,Japan
-Argentina,0,3,0,2.5,Germany,quality education,105,Germany,quality education,Germany
-Argentina,0,3,0,2.5,Norway,quality education,105,Norway,quality education,Norway
-Argentina,0,3,0,2.5,Finland,quality education,105,Finland,quality education,Finland
+Argentina,0,3,0,2.5,Argentina,quality education,121,Argentina,quality education,Argentina
+Argentina,0,3,0,2.5,Mexico,quality education,121,Mexico,quality education,Mexico
+Argentina,0,3,0,2.5,United States,quality education,121,United States,quality education,United States
+Argentina,0,3,0,2.5,China,quality education,121,China,quality education,China
+Argentina,0,3,0,2.5,Japan,quality education,121,Japan,quality education,Japan
+Argentina,0,3,0,2.5,Germany,quality education,121,Germany,quality education,Germany
+Argentina,0,3,0,2.5,Norway,quality education,121,Norway,quality education,Norway
+Argentina,0,3,0,2.5,Finland,quality education,121,Finland,quality education,Finland
 Chile,0,3,0,2.5,Canada,they don't like conflicts,405,Canada,they don't like conflicts,Canada
-Argentina,0,3,0,2.5,Canada,they don't like conflicts,105,Canada,they don't like conflicts,Canada
+Argentina,0,3,0,2.5,Canada,they don't like conflicts,121,Canada,they don't like conflicts,Canada
 Chile,0,3,0,2.5,Argentina,la pobreza es común,405,Argentina,la pobreza es común,Argentina
 Chile,0,3,0,2.5,Chile,la pobreza es común,405,Chile,la pobreza es común,Chile
 Chile,0,3,0,2.5,Bolivia,la pobreza es común,405,Bolivia,la pobreza es común,Bolivia
@@ -601,37 +622,37 @@ Chile,0,3,0,2.5,United States,la pobreza es común,405,United States,la pobreza 
 Chile,0,3,0,2.5,Greece,la pobreza es común,405,Greece,la pobreza es común,Greece
 Chile,0,3,0,2.5,Egypt,la pobreza es común,405,Egypt,la pobreza es común,Egypt
 Chile,0,3,0,2.5,India,la pobreza es común,405,India,la pobreza es común,India
-Argentina,0,3,0,2.5,Argentina,la pobreza es común,105,Argentina,la pobreza es común,Argentina
-Argentina,0,3,0,2.5,Chile,la pobreza es común,105,Chile,la pobreza es común,Chile
-Argentina,0,3,0,2.5,Bolivia,la pobreza es común,105,Bolivia,la pobreza es común,Bolivia
-Argentina,0,3,0,2.5,Paraguay,la pobreza es común,105,Paraguay,la pobreza es común,Paraguay
-Argentina,0,3,0,2.5,Mexico,la pobreza es común,105,Mexico,la pobreza es común,Mexico
-Argentina,0,3,0,2.5,United States,la pobreza es común,105,United States,la pobreza es común,United States
-Argentina,0,3,0,2.5,Greece,la pobreza es común,105,Greece,la pobreza es común,Greece
-Argentina,0,3,0,2.5,Egypt,la pobreza es común,105,Egypt,la pobreza es común,Egypt
-Argentina,0,3,0,2.5,India,la pobreza es común,105,India,la pobreza es común,India
+Argentina,0,3,0,2.5,Argentina,la pobreza es común,121,Argentina,la pobreza es común,Argentina
+Argentina,0,3,0,2.5,Chile,la pobreza es común,121,Chile,la pobreza es común,Chile
+Argentina,0,3,0,2.5,Bolivia,la pobreza es común,121,Bolivia,la pobreza es común,Bolivia
+Argentina,0,3,0,2.5,Paraguay,la pobreza es común,121,Paraguay,la pobreza es común,Paraguay
+Argentina,0,3,0,2.5,Mexico,la pobreza es común,121,Mexico,la pobreza es común,Mexico
+Argentina,0,3,0,2.5,United States,la pobreza es común,121,United States,la pobreza es común,United States
+Argentina,0,3,0,2.5,Greece,la pobreza es común,121,Greece,la pobreza es común,Greece
+Argentina,0,3,0,2.5,Egypt,la pobreza es común,121,Egypt,la pobreza es común,Egypt
+Argentina,0,3,0,2.5,India,la pobreza es común,121,India,la pobreza es común,India
 Chile,0,3,0,2.5,United States,believed that euthanasia is against religion,405,United States,believed that euthanasia is against religion,United States
 Chile,0,3,0,2.5,Israel,believed that euthanasia is against religion,405,Israel,believed that euthanasia is against religion,Israel
-Argentina,0,3,0,2.5,United States,believed that euthanasia is against religion,105,United States,believed that euthanasia is against religion,United States
-Argentina,0,3,0,2.5,Israel,believed that euthanasia is against religion,105,Israel,believed that euthanasia is against religion,Israel
+Argentina,0,3,0,2.5,United States,believed that euthanasia is against religion,121,United States,believed that euthanasia is against religion,United States
+Argentina,0,3,0,2.5,Israel,believed that euthanasia is against religion,121,Israel,believed that euthanasia is against religion,Israel
 Chile,0,3,0,2.5,Argentina,has the best educational system,405,Argentina,has the best educational system,Argentina
 Chile,0,3,0,2.5,Norway,has the best educational system,405,Norway,has the best educational system,Norway
 Chile,0,3,0,2.5,Finland,has the best educational system,405,Finland,has the best educational system,Finland
 Chile,0,3,0,2.5,China,has the best educational system,405,China,has the best educational system,China
-Argentina,0,3,0,2.5,Argentina,has the best educational system,105,Argentina,has the best educational system,Argentina
-Argentina,0,3,0,2.5,Norway,has the best educational system,105,Norway,has the best educational system,Norway
-Argentina,0,3,0,2.5,Finland,has the best educational system,105,Finland,has the best educational system,Finland
-Argentina,0,3,0,2.5,China,has the best educational system,105,China,has the best educational system,China
+Argentina,0,3,0,2.5,Argentina,has the best educational system,121,Argentina,has the best educational system,Argentina
+Argentina,0,3,0,2.5,Norway,has the best educational system,121,Norway,has the best educational system,Norway
+Argentina,0,3,0,2.5,Finland,has the best educational system,121,Finland,has the best educational system,Finland
+Argentina,0,3,0,2.5,China,has the best educational system,121,China,has the best educational system,China
 Chile,0,3,0,2.5,Chile,There is a career for software developers,405,Chile,There is a career for software developers,Chile
 Chile,0,3,0,2.5,United States,There is a career for software developers,405,United States,There is a career for software developers,United States
 Chile,0,3,0,2.5,Spain,There is a career for software developers,405,Spain,There is a career for software developers,Spain
 Chile,0,3,0,2.5,Germany,There is a career for software developers,405,Germany,There is a career for software developers,Germany
 Chile,0,3,0,2.5,China,There is a career for software developers,405,China,There is a career for software developers,China
-Argentina,0,3,0,2.5,Chile,There is a career for software developers,105,Chile,There is a career for software developers,Chile
-Argentina,0,3,0,2.5,United States,There is a career for software developers,105,United States,There is a career for software developers,United States
-Argentina,0,3,0,2.5,Spain,There is a career for software developers,105,Spain,There is a career for software developers,Spain
-Argentina,0,3,0,2.5,Germany,There is a career for software developers,105,Germany,There is a career for software developers,Germany
-Argentina,0,3,0,2.5,China,There is a career for software developers,105,China,There is a career for software developers,China
+Argentina,0,3,0,2.5,Chile,There is a career for software developers,121,Chile,There is a career for software developers,Chile
+Argentina,0,3,0,2.5,United States,There is a career for software developers,121,United States,There is a career for software developers,United States
+Argentina,0,3,0,2.5,Spain,There is a career for software developers,121,Spain,There is a career for software developers,Spain
+Argentina,0,3,0,2.5,Germany,There is a career for software developers,121,Germany,There is a career for software developers,Germany
+Argentina,0,3,0,2.5,China,There is a career for software developers,121,China,There is a career for software developers,China
 Spain,0,3,0,2.5,Sweden,gastan más dinero,437,Sweden,gastan más dinero,Sweden
 Spain,0,3,0,2.5,Norway,gastan más dinero,437,Norway,gastan más dinero,Norway
 Spain,0,3,0,2.5,United Kingdom,gastan más dinero,437,United Kingdom,gastan más dinero,United Kingdom
@@ -1155,9 +1176,9 @@ Chile,0,3,0,2.5,Finland,Frío,405,Finland,Frío,Finland
 Chile,0,3,0,2.5,Germany,Tecnología,405,Germany,Tecnología,Germany
 Chile,0,3,0,2.5,South Korea,Tecnología,405,South Korea,Tecnología,South Korea
 Chile,0,3,0,2.5,China,Tecnología,405,China,Tecnología,China
-Argentina,0,3,0,2.5,Brazil,Buenos jugadores de futbol,105,Brazil,Buenos jugadores de futbol,Brazil
-Argentina,0,3,0,2.5,Germany,deportistas,105,Germany,deportistas,Germany
-Argentina,0,3,0,2.5,Argentina,La cumbia villera,105,Argentina,La cumbia villera,Argentina
+Argentina,0,3,0,2.5,Brazil,Buenos jugadores de futbol,121,Brazil,Buenos jugadores de futbol,Brazil
+Argentina,0,3,0,2.5,Germany,deportistas,121,Germany,deportistas,Germany
+Argentina,0,3,0,2.5,Argentina,La cumbia villera,121,Argentina,La cumbia villera,Argentina
 Chile,0,3,0,2.5,Spain,tortilla,405,Spain,tortilla,Spain
 Chile,0,3,0,2.5,Venezuela,hablar rapido,405,Venezuela,hablar rapido,Venezuela
 Chile,0,3,0,2.5,Germany,serios,405,Germany,serios,Germany
@@ -1277,7 +1298,7 @@ Chile,0,3,0,2.5,Cuba,Gente alegre,405,Cuba,Gente alegre,Cuba
 Colombia,0,3,0,2.5,Peru,Tráfico de drogas,236,Peru,Tráfico de drogas,Peru
 Colombia,0,3,0,2.5,Ecuador,Tráfico de drogas,236,Ecuador,Tráfico de drogas,Ecuador
 Colombia,0,3,0,2.5,Venezuela,Tráfico de drogas,236,Venezuela,Tráfico de drogas,Venezuela
-Argentina,0,3,0,2.5,Italy,Hombres seductores,105,Italy,Hombres seductores,Italy
+Argentina,0,3,0,2.5,Italy,Hombres seductores,121,Italy,Hombres seductores,Italy
 Colombia,0,3,0,2.5,Uruguay,El tango,236,Uruguay,El tango,Uruguay
 Colombia,0,3,0,2.5,Argentina,"Completo Italiano, Isla de Pascua, Sismos",236,Argentina,"Completo Italiano, Isla de Pascua, Sismos",Argentina
 Colombia,0,3,0,2.5,Argentina,buena música,236,Argentina,buena música,Argentina
@@ -1429,3 +1450,5 @@ Colombia,0,3,0,2.5,Netherlands,allows drugs on public,236,Netherlands,allows dru
 Colombia,0,3,0,2.5,United States,allows drugs on public,236,United States,allows drugs on public,United States
 Colombia,0,3,0,2.5,Monaco,País rico,236,Monaco,País rico,Monaco
 Colombia,0,3,0,2.5,Andorra,País rico,236,Andorra,País rico,Andorra
+Mexico,0,3,0,2.5,Cuba,Ruidosos,3,Cuba,Ruidosos,Cuba
+Mexico,0,3,0,2.5,Haiti,Ruidosos,3,Haiti,Ruidosos,Haiti

@@ -1,0 +1,203 @@
+timestamp,token_id,annotator_nationalities,data_point_nationality,data_point_attribute
+2025-03-11 18:25:24.052084,17,['Argentina'],Argentina,spoken
+2025-03-11 18:25:26.418634,14,['Uruguay'],Argentina,cheerful
+2025-03-11 18:25:30.347139,16,['Argentina'],Argentina,spoken
+2025-03-11 18:25:33.490608,43,['Brazil'],Honduras,worker
+2025-03-11 18:25:34.854197,14,['Uruguay'],El Salvador,Great prisons
+2025-03-11 18:27:14.079512,7,['Chile'],United States,Guns
+2025-03-11 18:27:38.520451,38,['Argentina'],Argentina,spoken
+2025-03-11 18:31:11.530060,48,['Spain'],Cuba,Block
+2025-03-11 18:31:31.542365,16,['Argentina'],Argentina,loud
+2025-03-11 18:31:34.277909,16,['Argentina'],Argentina,noisy
+2025-03-11 18:32:34.189473,16,['Argentina'],Argentina,meat eater
+2025-03-11 18:32:35.205038,19,['Brazil'],Brazil,spoken
+2025-03-11 18:32:35.812037,16,['Argentina'],Argentina,Tango dancers
+2025-03-11 18:32:38.347601,19,['Brazil'],Brazil,language
+2025-03-11 18:32:46.514704,16,['Argentina'],Argentina,passionate
+2025-03-11 18:32:48.089145,16,['Argentina'],Argentina,Attractive
+2025-03-11 18:32:50.962176,10,['Chile'],Chile,Fat
+2025-03-11 18:33:01.847326,16,['Argentina'],Argentina,Friendship
+2025-03-11 18:33:33.377004,10,['Chile'],Chile,expensive
+2025-03-11 18:33:36.344727,10,['Chile'],Chile,futbol
+2025-03-11 18:33:57.607768,14,['Uruguay'],Uruguay,drink mate
+2025-03-11 18:35:07.245687,44,['Brazil'],Brazil,spoken
+2025-03-11 18:35:10.016033,44,['Brazil'],Brazil,football
+2025-03-11 18:35:12.431043,44,['Brazil'],Brazil,Mate
+2025-03-11 18:35:16.971468,44,['Brazil'],Brazil,Relaxed
+2025-03-11 18:35:17.829887,44,['Brazil'],Brazil,Inequality
+2025-03-11 18:35:18.988992,44,['Brazil'],Brazil,dancer
+2025-03-11 18:35:20.348409,44,['Brazil'],Brazil,language
+2025-03-11 18:35:21.460579,44,['Brazil'],Brazil,Creative
+2025-03-11 18:35:22.773005,44,['Brazil'],Brazil,hot
+2025-03-11 18:35:23.633293,10,['Chile'],Chile,mate
+2025-03-11 18:35:41.086525,44,['Brazil'],Brazil,friendly; free healthcare; free universities; warm; dental health
+2025-03-11 18:35:45.130052,10,['Chile'],Chile,good wine
+2025-03-11 18:35:49.412792,10,['Chile'],Chile,Cold
+2025-03-11 18:35:49.969711,20,['Brazil'],Brazil,language
+2025-03-11 18:35:50.977641,44,['Brazil'],Brazil,beef
+2025-03-11 18:35:52.694492,10,['Chile'],Chile,dry
+2025-03-11 18:35:53.402476,44,['Brazil'],Brazil,Beauty procedures
+2025-03-11 18:35:53.504037,10,['Chile'],Chile,ocre
+2025-03-11 18:35:54.460344,10,['Chile'],Chile,serious
+2025-03-11 18:35:55.820664,10,['Chile'],Chile,Tasty food
+2025-03-11 18:35:55.871125,44,['Brazil'],Brazil,warm
+2025-03-11 18:35:56.979043,10,['Chile'],Chile,Inequality
+2025-03-11 18:35:58.791668,44,['Brazil'],Brazil,generous
+2025-03-11 18:36:01.115630,10,['Chile'],Chile,rough
+2025-03-11 18:36:01.873020,10,['Chile'],Chile,Diverse
+2025-03-11 18:36:05.205754,10,['Chile'],Chile,Ugly
+2025-03-11 18:36:17.818398,10,['Chile'],Chile,craftsmanship
+2025-03-11 18:36:19.740477,10,['Chile'],Chile,Andes Mountains
+2025-03-11 18:36:35.631026,10,['Chile'],Chile,drink mate
+2025-03-11 18:36:47.530192,10,['Chile'],Chile,Dry
+2025-03-11 18:37:03.360249,16,['Argentina'],Argentina,barbecue
+2025-03-11 18:37:42.163510,10,['Chile'],Brazil,Hot
+2025-03-11 18:37:42.971587,10,['Chile'],Chile,Disregard for rules
+2025-03-11 18:37:43.525925,10,['Chile'],Chile,tortafrita
+2025-03-11 18:37:45.541975,14,['Uruguay'],Uruguay,gray
+2025-03-11 18:37:46.299517,14,['Uruguay'],Uruguay,calm
+2025-03-11 18:37:47.709264,8,['Cuba'],Cuba,Block
+2025-03-11 18:37:49.421380,14,['Uruguay'],Uruguay,quiet people
+2025-03-11 18:37:49.472297,8,['Cuba'],Cuba,Revolutionary
+2025-03-11 18:37:50.430033,14,['Uruguay'],Uruguay,friendly
+2025-03-11 18:37:51.487774,10,['Chile'],Chile,great beaches
+2025-03-11 18:38:48.366402,8,['Cuba'],Cuba,Good Education
+2025-03-11 18:39:07.444912,49,['Argentina'],Argentina,The best
+2025-03-11 18:39:12.886485,8,['Cuba'],Cuba,low income
+2025-03-11 18:39:29.266801,36,['Mexico'],Mexico,unity
+2025-03-11 18:39:36.484687,8,['Cuba'],Cuba,Good at sex
+2025-03-11 18:39:57.501488,17,['Argentina'],Argentina,The best
+2025-03-11 18:40:05.772012,42,['Ecuador'],Ecuador,spicy food
+2025-03-11 18:40:15.858177,13,['Uruguay'],Uruguay,progressist
+2025-03-11 18:40:17.822841,13,['Uruguay'],Uruguay,agriculture
+2025-03-11 18:40:18.178134,49,['Argentina'],Argentina,liveliness
+2025-03-11 18:40:20.244756,13,['Uruguay'],Uruguay,Proud
+2025-03-11 18:40:23.175567,13,['Uruguay'],Uruguay,Luis Suarez
+2025-03-11 18:40:45.102644,16,['Argentina'],Argentina,Sopaipillas
+2025-03-11 18:40:49.839825,13,['Uruguay'],Uruguay,world champion
+2025-03-11 18:40:51.907334,13,['Uruguay'],Uruguay,amigable
+2025-03-11 18:41:06.193066,15,['Argentina'],Argentina,barbacue
+2025-03-11 18:41:33.716592,12,['Uruguay'],Uruguay,Luis Suarez
+2025-03-11 18:41:40.362979,10,['Chile'],Chile,selva valdiviana
+2025-03-11 18:41:42.936385,10,['Chile'],Chile,sky
+2025-03-11 18:41:44.347900,10,['Chile'],Chile,high mountains
+2025-03-11 18:41:45.407424,10,['Chile'],Chile,good mood
+2025-03-11 18:41:47.182649,10,['Chile'],Chile,Organized
+2025-03-11 18:41:48.797581,10,['Chile'],Chile,agrandado
+2025-03-11 18:41:53.183308,12,['Uruguay'],Uruguay,pericon
+2025-03-11 18:41:59.034507,10,['Chile'],Chile,bipolar
+2025-03-11 18:42:03.019645,49,['Argentina'],Argentina,hot
+2025-03-11 18:42:03.374308,10,['Chile'],Chile,cordillera de los andes
+2025-03-11 18:42:05.091084,10,['Chile'],Chile,Homeland
+2025-03-11 18:42:07.106697,45,['Argentina'],Argentina,hot
+2025-03-11 18:42:28.001624,10,['Chile'],Chile,Horrible
+2025-03-11 18:43:05.672614,42,['Ecuador'],Ecuador,cordillera de los andes
+2025-03-11 18:43:13.133791,9,['Chile'],Chile,Competitive
+2025-03-11 18:43:22.825571,12,['Uruguay'],Uruguay,amigable
+2025-03-11 18:43:28.526804,9,['Chile'],Chile,Resourceful
+2025-03-11 18:43:35.141570,36,['Mexico'],Mexico,native population
+2025-03-11 18:43:44.127946,36,['Mexico'],Mexico,Diverse
+2025-03-11 18:43:48.562150,36,['Mexico'],Mexico,Good at sex
+2025-03-11 18:44:43.765803,25,['Uruguay'],Uruguay,humble
+2025-03-11 18:44:48.969592,12,['Uruguay'],Uruguay,fields
+2025-03-11 18:45:05.880251,34,['Argentina'],Malaysia,friendly
+2025-03-11 18:45:19.628617,34,['Argentina'],Nicaragua,Lakes
+2025-03-11 18:45:38.293048,11,['Costa Rica'],Costa Rica,friendly
+2025-03-11 18:45:57.192681,12,['Uruguay'],Uruguay,Uruguay es el mejor pais
+2025-03-11 18:46:19.071882,12,['Uruguay'],Uruguay,Mejor que Francia y mejor que Paris
+2025-03-11 18:47:01.090225,49,['Argentina'],Argentina,molestos
+2025-03-11 18:47:21.372478,12,['Uruguay'],Uruguay,secure
+2025-03-11 18:47:26.063178,12,['Uruguay'],Uruguay,colaborative
+2025-03-11 18:47:26.974324,13,['Uruguay'],Uruguay,Asado
+2025-03-11 18:47:48.343600,10,['Chile'],Chile,Resourceful
+2025-03-11 18:47:49.701928,10,['Chile'],Chile,diferentes climas
+2025-03-11 18:47:51.519460,10,['Chile'],Chile,beautifull natural landscapes
+2025-03-11 18:47:54.843506,10,['Chile'],Chile,diferentes terrenos
+2025-03-11 18:47:56.000287,10,['Chile'],Chile,Spanish speaker
+2025-03-11 18:47:56.906284,10,['Chile'],Chile,bosques
+2025-03-11 18:47:57.865157,10,['Chile'],Chile,feo
+2025-03-11 18:47:58.721174,10,['Chile'],Chile,salmon
+2025-03-11 18:48:01.344515,10,['Chile'],Chile,seco
+2025-03-11 18:48:02.152024,10,['Chile'],Chile,mucho mar
+2025-03-11 18:48:02.909078,10,['Chile'],Chile,patagonia
+2025-03-11 18:48:08.603469,10,['Chile'],Chile,astronomy
+2025-03-11 18:48:09.662114,10,['Chile'],Chile,kind
+2025-03-11 18:48:11.929149,10,['Chile'],Chile,valparaiso
+2025-03-11 18:49:02.655768,16,['Argentina'],Argentina,Cavani
+2025-03-11 18:49:10.789896,34,['Argentina'],Bolivia,humble
+2025-03-11 18:49:15.480849,34,['Argentina'],Colombia,Disregard for rules
+2025-03-11 18:49:50.351142,11,['Costa Rica'],Costa Rica,Spanish speaker
+2025-03-11 18:50:09.064031,15,['Argentina'],Argentina,Argumentative
+2025-03-11 18:50:10.472981,13,['Uruguay'],Uruguay,good nature
+2025-03-11 18:50:13.501364,34,['Argentina'],Argentina,Argumentative
+2025-03-11 18:50:25.380990,12,['Uruguay'],Uruguay,rio
+2025-03-11 18:50:25.886281,36,['Mexico'],Mexico,Playas
+2025-03-11 18:50:27.150092,22,['Cuba'],Cuba,great beaches
+2025-03-11 18:50:28.513482,12,['Uruguay'],Uruguay,nice
+2025-03-11 18:50:42.061146,13,['Uruguay'],Uruguay,pericon
+2025-03-11 18:50:48.000203,13,['Uruguay'],Uruguay,Spanish speaker
+2025-03-11 18:52:05.901401,10,['Chile'],Chile,carretera austral
+2025-03-11 18:52:07.210412,10,['Chile'],Chile,not supportive
+2025-03-11 18:52:10.731226,10,['Chile'],Chile,viña del mar
+2025-03-11 18:52:17.765430,10,['Chile'],Chile,largo
+2025-03-11 18:52:18.873947,10,['Chile'],Chile,Salitre
+2025-03-11 18:53:04.984430,13,['Uruguay'],Uruguay,barbecue
+2025-03-11 18:53:05.034730,10,['Chile'],Chile,Volcanoes
+2025-03-11 18:53:05.941513,10,['Chile'],Chile,cobre
+2025-03-11 18:55:30.190680,13,['Uruguay'],Uruguay,tango y plena
+2025-03-11 18:55:33.060934,13,['Uruguay'],Uruguay,fields
+2025-03-11 18:57:14.523846,20,['Brazil'],Brazil,Musician
+2025-03-11 18:57:17.794510,20,['Brazil'],Brazil,mate
+2025-03-11 18:57:20.461123,20,['Brazil'],Brazil,spoken
+2025-03-11 18:57:25.491186,20,['Brazil'],Brazil,liveliness
+2025-03-11 18:57:26.950080,20,['Brazil'],Brazil,dancer
+2025-03-11 18:57:29.015267,20,['Brazil'],Brazil,Barbecue
+2025-03-11 18:57:30.576886,20,['Brazil'],Brazil,Portuguese Speaker
+2025-03-11 18:57:31.130825,13,['Uruguay'],Uruguay,free public education
+2025-03-11 18:57:33.847746,20,['Brazil'],Brazil,carnaval
+2025-03-11 18:57:37.973059,20,['Brazil'],Brazil,open-minded people
+2025-03-11 18:57:40.791201,20,['Brazil'],Brazil,expensive
+2025-03-11 18:57:51.203173,20,['Brazil'],Brazil,capibara
+2025-03-11 18:57:56.134849,20,['Brazil'],Brazil,beautifull natural landscapes
+2025-03-11 18:58:03.229346,20,['Brazil'],Brazil,meat eater
+2025-03-11 18:58:08.460691,20,['Brazil'],Brazil,beach loving
+2025-03-11 18:58:10.224348,20,['Brazil'],Brazil,samba
+2025-03-11 18:58:13.543212,20,['Brazil'],Brazil,happy
+2025-03-11 18:58:16.813490,20,['Brazil'],Brazil,Disregard for rules
+2025-03-11 18:58:28.585626,20,['Brazil'],Brazil,Competitive
+2025-03-11 18:58:42.416697,20,['Brazil'],United Kingdom,Stealing from other people's cultures
+2025-03-11 18:58:55.545046,20,['Brazil'],United States,Big ego
+2025-03-11 18:58:56.852928,20,['Brazil'],Syria,Islam
+2025-03-11 18:59:02.383814,13,['Uruguay'],Uruguay,expensive country
+2025-03-11 18:59:11.483045,20,['Brazil'],United States,I speak Spanish
+2025-03-11 18:59:12.490634,20,['Brazil'],France,Gardel
+2025-03-11 18:59:21.458845,20,['Brazil'],Costa Rica,tomar café
+2025-03-11 18:59:22.264018,20,['Brazil'],Germany,human rights
+2025-03-11 18:59:24.931980,20,['Brazil'],Brazil,Glee
+2025-03-11 18:59:27.798251,20,['Brazil'],Spain,hospitable
+2025-03-11 18:59:31.470267,20,['Brazil'],Russia,Salmon
+2025-03-11 18:59:34.238673,20,['Brazil'],Ukraine,rough
+2025-03-11 18:59:38.265820,13,['Uruguay'],Uruguay,chivito
+2025-03-11 18:59:39.675979,20,['Brazil'],United States,barbecue
+2025-03-11 18:59:40.985984,20,['Brazil'],France,Diverse
+2025-03-11 18:59:43.552180,20,['Brazil'],Paraguay,I speak Spanish
+2025-03-11 18:59:45.665311,20,['Brazil'],France,molestos
+2025-03-11 18:59:49.596513,20,['Brazil'],Spain,like bullfighting
+2025-03-11 18:59:52.915788,20,['Brazil'],Brazil,Happiness
+2025-03-11 18:59:55.334322,20,['Brazil'],Thailand,friendly
+2025-03-11 18:59:56.146197,20,['Brazil'],France,futbol
+2025-03-11 18:59:56.501217,20,['Brazil'],Australia,expensive
+2025-03-11 19:00:26.087174,13,['Uruguay'],Uruguay,proud of being humble
+2025-03-11 19:03:53.248185,13,['Uruguay'],Uruguay,Mejor que Francia y mejor que Paris
+2025-03-11 19:04:44.677012,13,['Uruguay'],Uruguay,rights
+2025-03-11 19:04:45.884639,13,['Uruguay'],Uruguay,respect
+2025-03-11 19:04:52.726041,13,['Uruguay'],Uruguay,non competitive
+2025-03-11 19:04:57.208642,13,['Uruguay'],Uruguay,cattle
+2025-03-11 19:12:26.768779,12,['Uruguay'],Uruguay,respect
+2025-03-11 19:12:33.053938,15,['Argentina'],Brazil,Beauty procedures
+2025-03-11 19:12:34.664205,15,['Argentina'],Argentina,murga
+2025-03-11 19:12:45.753200,15,['Argentina'],South Korea,Depressive
+2025-03-11 19:13:10.691877,12,['Uruguay'],Uruguay,campo
+2025-03-11 19:13:13.709324,12,['Uruguay'],Uruguay,barbecue
+2025-03-11 19:13:16.432881,12,['Uruguay'],Uruguay,non competitive
+2025-03-13 16:25:54.265508,MARCOS,[],Argentina,cattle

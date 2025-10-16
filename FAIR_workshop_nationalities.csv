@@ -1,14 +1,682 @@
 source_country,non_stereotype,stereotype,unsure,mean_offensive_score,identity,attribute,row_count,translated_identity,translated_attribute_list,identity_country_name
-Argentina,0,3,0,2.5,Ecuador,guerra,13,Ecuador,guerra,Ecuador
-Argentina,0,3,0,2.5,Finland,frio,13,Finland,frio,Finland
-Argentina,0,3,0,2.5,Ecuador,bananas,13,Ecuador,bananas,Ecuador
-Argentina,0,3,0,2.5,Cuba,habanos,13,Cuba,habanos,Cuba
-Argentina,0,3,0,2.5,Argentina,mate,13,Argentina,mate,Argentina
-Argentina,0,3,0,2.5,Argentina,choripan,13,Argentina,choripan,Argentina
-Argentina,0,3,0,2.5,Ecuador,playa,13,Ecuador,playa,Ecuador
-Argentina,0,3,0,2.5,Costa Rica,alto consumo de platanos,13,Costa Rica,alto consumo de platanos,Costa Rica
-Argentina,0,3,0,2.5,Norway,comen pescado,13,Norway,comen pescado,Norway
-Argentina,0,3,0,2.5,Brazil,Diversión,13,Brazil,Diversión,Brazil
-Argentina,0,3,0,2.5,Switzerland,solidarios,13,Switzerland,solidarios,Switzerland
-Argentina,0,3,0,2.5,Uruguay,futbol,13,Uruguay,futbol,Uruguay
-Argentina,0,3,0,2.5,Bolivia,serrano bobo,13,Bolivia,serrano bobo,Bolivia
+Brazil,0,3,0,2.5,Brazil,O Brasil é conhecido pelo samba.,604,Brazil,O Brasil é conhecido pelo samba.,Brazil
+Brazil,0,3,0,2.5,Colombia,Música ,604,Colombia,Música ,Colombia
+Brazil,0,3,0,2.5,Brazil,Diversidade,604,Brazil,Diversidade,Brazil
+Brazil,0,3,0,2.5,Greece,Jogos olímpicos ,604,Greece,Jogos olímpicos ,Greece
+Brazil,0,3,0,2.5,India,Colores; danza; religión; cine; Taj Majhal,604,India,Colores; danza; religión; cine; Taj Majhal,India
+Brazil,0,3,0,2.5,Brazil,Carnaval,604,Brazil,Carnaval,Brazil
+Brazil,0,3,0,2.5,Brazil, futebol,604,Brazil, futebol,Brazil
+Brazil,0,3,0,2.5,Brazil, cultura,604,Brazil, cultura,Brazil
+Brazil,0,3,0,2.5,Brazil, cinema,604,Brazil, cinema,Brazil
+Brazil,0,3,0,2.5,Brazil, português,604,Brazil, português,Brazil
+Brazil,0,3,0,2.5,Brazil, Cristo redentor ,604,Brazil, Cristo redentor ,Brazil
+Brazil,0,3,0,2.5,Brazil,Carnaval ,604,Brazil,Carnaval ,Brazil
+Brazil,0,3,0,2.5,Japan,Diversidade ,604,Japan,Diversidade ,Japan
+Brazil,0,3,0,2.5,Brazil,Samba,604,Brazil,Samba,Brazil
+Brazil,0,3,0,2.5,Brazil, futebol,604,Brazil, futebol,Brazil
+Brazil,0,3,0,2.5,Brazil, pão de queijo,604,Brazil, pão de queijo,Brazil
+Brazil,0,3,0,2.5,Brazil, brigadeiro,604,Brazil, brigadeiro,Brazil
+Brazil,0,3,0,2.5,Brazil, Cristo redentor,604,Brazil, Cristo redentor,Brazil
+Brazil,0,3,0,2.5,Brazil, receptibilidade,604,Brazil, receptibilidade,Brazil
+Brazil,0,3,0,2.5,Brazil, diversidade,604,Brazil, diversidade,Brazil
+Brazil,0,3,0,2.5,Brazil,Amazônia,604,Brazil,Amazônia,Brazil
+Brazil,0,3,0,2.5,Colombia,Comida saudável ,604,Colombia,Comida saudável ,Colombia
+Brazil,0,3,0,2.5,Uruguay,São um povo feliz,604,Uruguay,São um povo feliz,Uruguay
+Brazil,0,3,0,2.5,Japan,Comida,604,Japan,Comida,Japan
+Brazil,0,3,0,2.5,Japan, cultura,604,Japan, cultura,Japan
+Brazil,0,3,0,2.5,Japan, japonês,604,Japan, japonês,Japan
+Brazil,0,3,0,2.5,Colombia,Shakira; Flores; champeta; amazonia; Gabriel García Márquez,604,Colombia,Shakira; Flores; champeta; amazonia; Gabriel García Márquez,Colombia
+Brazil,0,3,0,2.5,Brazil,Cultura do futebol,604,Brazil,Cultura do futebol,Brazil
+Mexico,0,3,0,2.5,Mexico,festejar a los muertos,38,Mexico,festejar a los muertos,Mexico
+Brazil,0,3,0,2.5,Brazil,Samba,604,Brazil,Samba,Brazil
+Brazil,0,3,0,2.5,Argentina,Boa carne vermelha ,604,Argentina,Boa carne vermelha ,Argentina
+Brazil,0,3,0,2.5,Argentina,Maradona,604,Argentina,Maradona,Argentina
+Brazil,0,3,0,2.5,Argentina,Belo jogo,604,Argentina,Belo jogo,Argentina
+Brazil,0,3,0,2.5,Brazil,Praia,604,Brazil,Praia,Brazil
+Brazil,0,3,0,2.5,Brazil,Danças típicas,604,Brazil,Danças típicas,Brazil
+Brazil,0,3,0,2.5,Brazil,Feijoada,604,Brazil,Feijoada,Brazil
+Brazil,0,3,0,2.5,Japan,Vivem em função do país ,604,Japan,Vivem em função do país ,Japan
+Brazil,0,3,0,2.5,Brazil,Diversidad musical,604,Brazil,Diversidad musical,Brazil
+Brazil,0,3,0,2.5,Argentina,Futebol,604,Argentina,Futebol,Argentina
+Brazil,0,3,0,2.5,Argentina, messi,604,Argentina, messi,Argentina
+Brazil,0,3,0,2.5,Argentina, Mafalda,604,Argentina, Mafalda,Argentina
+Brazil,0,3,0,2.5,Argentina, alfajor,604,Argentina, alfajor,Argentina
+Mexico,0,3,0,2.5,Germany,mujeres kinder kuche kirche,38,Germany,mujeres kinder kuche kirche,Germany
+Brazil,0,3,0,2.5,Russia,Vodka,604,Russia,Vodka,Russia
+Brazil,0,3,0,2.5,Mexico,Comida,604,Mexico,Comida,Mexico
+Brazil,0,3,0,2.5,Brazil,Comidas diversas ,604,Brazil,Comidas diversas ,Brazil
+Brazil,0,3,0,2.5,Venezuela,Crisis política; petroleo; Andrés Bello; biblioteca Ayacucho; Maduro,604,Venezuela,Crisis política; petroleo; Andrés Bello; biblioteca Ayacucho; Maduro,Venezuela
+Brazil,0,3,0,2.5,Cabo Verde,português,604,Cabo Verde,português,Cabo Verde
+Brazil,0,3,0,2.5,Central African Republic,bandeira colorida,604,Central African Republic,bandeira colorida,Central African Republic
+Mexico,0,3,0,2.5,Costa Rica,En Costa Rica hay sol,38,Costa Rica,En Costa Rica hay sol,Costa Rica
+Brazil,0,3,0,2.5,Brazil,Comida saudável ,604,Brazil,Comida saudável ,Brazil
+France,0,3,0,2.5,Israel,Genocidio palestino,39,Israel,Genocidio palestino,Israel
+Brazil,0,3,0,2.5,Japan,Sushi ,604,Japan,Sushi ,Japan
+Brazil,0,3,0,2.5,Brazil,Diversidad cultural ,604,Brazil,Diversidad cultural ,Brazil
+Brazil,0,3,0,2.5,Norway,São pescadores excelentes ,604,Norway,São pescadores excelentes ,Norway
+Brazil,0,3,0,2.5,Portugal,Usar artesanato.,604,Portugal,Usar artesanato.,Portugal
+Brazil,0,3,0,2.5,Brazil,Praias,604,Brazil,Praias,Brazil
+France,0,3,0,2.5,France,Gastronomia,39,France,Gastronomia,France
+Brazil,0,3,0,2.5,Brazil,Carnaval,604,Brazil,Carnaval,Brazil
+Brazil,0,3,0,2.5,Mexico,Aztecas; artes; colores; diversidad; culinaria,604,Mexico,Aztecas; artes; colores; diversidad; culinaria,Mexico
+France,0,3,0,2.5,France,Perfume,39,France,Perfume,France
+Mexico,0,3,0,2.5,Mexico,En México beben pulque y festejan con el torito,38,Mexico,En México beben pulque y festejan con el torito,Mexico
+Brazil,0,3,0,2.5,Chile,Comidas típicas ,604,Chile,Comidas típicas ,Chile
+Brazil,0,3,0,2.5,Brazil,África ,604,Brazil,África ,Brazil
+Brazil,0,3,0,2.5,Argentina,África ,604,Argentina,África ,Argentina
+Brazil,0,3,0,2.5,Brazil,África ,604,Brazil,África ,Brazil
+Brazil,0,3,0,2.5,Brazil,Usar artesanato. ,604,Brazil,Usar artesanato. ,Brazil
+Brazil,0,3,0,2.5,Venezuela,Rica em cultura ,604,Venezuela,Rica em cultura ,Venezuela
+Brazil,0,3,0,2.5,Argentina,Espanhol,604,Argentina,Espanhol,Argentina
+Brazil,0,3,0,2.5,Argentina, Mafalda,604,Argentina, Mafalda,Argentina
+Brazil,0,3,0,2.5,Argentina, futebol,604,Argentina, futebol,Argentina
+Brazil,0,3,0,2.5,Argentina, alfajor,604,Argentina, alfajor,Argentina
+Brazil,0,3,0,2.5,Brazil,futebol,604,Brazil,futebol,Brazil
+Brazil,0,3,0,2.5,Brazil, danças típicas ,604,Brazil, danças típicas ,Brazil
+Brazil,0,3,0,2.5,India,Religião,604,India,Religião,India
+Brazil,0,3,0,2.5,Brazil,Carnaval,604,Brazil,Carnaval,Brazil
+Brazil,0,3,0,2.5,Brazil,Violência ,604,Brazil,Violência ,Brazil
+Brazil,0,3,0,2.5,Argentina,África ,604,Argentina,África ,Argentina
+Brazil,0,3,0,2.5,Italy,Pizza,604,Italy,Pizza,Italy
+Brazil,0,3,0,2.5,Brazil,Valorização da música nacional,604,Brazil,Valorização da música nacional,Brazil
+Brazil,0,3,0,2.5,Brazil,gostar de festas,604,Brazil,gostar de festas,Brazil
+Brazil,0,3,0,2.5,Brazil,Playa,604,Brazil,Playa,Brazil
+Mexico,0,3,0,2.5,Mexico,En México bailan el jarabe tapatío,38,Mexico,En México bailan el jarabe tapatío,Mexico
+Brazil,0,3,0,2.5,Brazil,Bossa nova,604,Brazil,Bossa nova,Brazil
+Brazil,0,3,0,2.5,Nigeria,Cultura,604,Nigeria,Cultura,Nigeria
+Brazil,0,3,0,2.5,Nigeria, pessoas boas,604,Nigeria, pessoas boas,Nigeria
+Brazil,0,3,0,2.5,Australia,Fauna abundante,604,Australia,Fauna abundante,Australia
+France,0,3,0,2.5,Ecuador,Moneda dollar,39,Ecuador,Moneda dollar,Ecuador
+Brazil,0,3,0,2.5,Brazil,Soberano,604,Brazil,Soberano,Brazil
+Brazil,0,3,0,2.5,Greece,Atena,604,Greece,Atena,Greece
+Brazil,0,3,0,2.5,Greece, mitologia,604,Greece, mitologia,Greece
+Brazil,0,3,0,2.5,Brazil,Praias bonitas,604,Brazil,Praias bonitas,Brazil
+Brazil,0,3,0,2.5,Brazil,Brasil tem favela,604,Brazil,Brasil tem favela,Brazil
+Brazil,0,3,0,2.5,Brazil,Calor ,604,Brazil,Calor ,Brazil
+Mexico,0,3,0,2.5,Switzerland,En Suiza el transporte público es puntual,38,Switzerland,En Suiza el transporte público es puntual,Switzerland
+Brazil,0,3,0,2.5,Iceland,cantoras,604,Iceland,cantoras,Iceland
+Brazil,0,3,0,2.5,Iceland, bjork,604,Iceland, bjork,Iceland
+Brazil,0,3,0,2.5,Iceland, ,604,Iceland, ,Iceland
+Brazil,0,3,0,2.5,Germany,Nazismo,604,Germany,Nazismo,Germany
+Brazil,0,3,0,2.5,Colombia,Violencia,604,Colombia,Violencia,Colombia
+Brazil,0,3,0,2.5,Belgium,Alegria ,604,Belgium,Alegria ,Belgium
+Brazil,0,3,0,2.5,Australia,Canguru,604,Australia,Canguru,Australia
+Brazil,0,3,0,2.5,Brazil,Cristo redentor ,604,Brazil,Cristo redentor ,Brazil
+Brazil,0,3,0,2.5,Italy,Torre Eiffel,604,Italy,Torre Eiffel,Italy
+Brazil,0,3,0,2.5,Italy, louvre,604,Italy, louvre,Italy
+Brazil,0,3,0,2.5,Italy, Monalisa ,604,Italy, Monalisa ,Italy
+Brazil,0,3,0,2.5,Venezuela,Telenovelas,604,Venezuela,Telenovelas,Venezuela
+Brazil,0,3,0,2.5,Honduras,Clima quente,604,Honduras,Clima quente,Honduras
+Brazil,0,3,0,2.5,Brazil,Calor,604,Brazil,Calor,Brazil
+Brazil,0,3,0,2.5,Brazil,Violencia urbana; polarización política; diversidad; imperialista; Amazonia; literatura; danza; naturaleza,604,Brazil,Violencia urbana; polarización política; diversidad; imperialista; Amazonia; literatura; danza; naturaleza,Brazil
+Brazil,0,3,0,2.5,Australia,Distancia,604,Australia,Distancia,Australia
+France,0,3,0,2.5,France,Chic,39,France,Chic,France
+Brazil,0,3,0,2.5,Spain,Colonização,604,Spain,Colonização,Spain
+Brazil,0,3,0,2.5,United States,Fast food,604,United States,Fast food,United States
+Brazil,0,3,0,2.5,United States,Junk food,604,United States,Junk food,United States
+Brazil,0,3,0,2.5,United States, inglês,604,United States, inglês,United States
+Brazil,0,3,0,2.5,United States, nasa ,604,United States, nasa ,United States
+Brazil,0,3,0,2.5,Brazil,pão de açúcar,604,Brazil,pão de açúcar,Brazil
+Brazil,0,3,0,2.5,Brazil, natureza ,604,Brazil, natureza ,Brazil
+Brazil,0,3,0,2.5,Norway,Frio,604,Norway,Frio,Norway
+Mexico,0,3,0,2.5,Mexico,En México hay una narcocultura,38,Mexico,En México hay una narcocultura,Mexico
+Brazil,0,3,0,2.5,Egypt,deserto,604,Egypt,deserto,Egypt
+Brazil,0,3,0,2.5,Brazil,Clima quente,604,Brazil,Clima quente,Brazil
+Brazil,0,3,0,2.5,Brazil,Praias,604,Brazil,Praias,Brazil
+Brazil,0,3,0,2.5,Bolivia,Natureza,604,Bolivia,Natureza,Bolivia
+Brazil,0,3,0,2.5,Brazil,clima temperado e clima quente ,604,Brazil,clima temperado e clima quente ,Brazil
+Brazil,0,3,0,2.5,Greece,História ,604,Greece,História ,Greece
+Brazil,0,3,0,2.5,Brazil,Violencia urbana; danza; colores,604,Brazil,Violencia urbana; danza; colores,Brazil
+Brazil,0,3,0,2.5,Brazil,Playa,604,Brazil,Playa,Brazil
+Brazil,0,3,0,2.5,United States,Mercado,604,United States,Mercado,United States
+France,0,3,0,2.5,Mexico,Guacamole,39,Mexico,Guacamole,Mexico
+Brazil,0,3,0,2.5,Egypt,Pirámides,604,Egypt,Pirámides,Egypt
+Brazil,0,3,0,2.5,Argentina,Racismo,604,Argentina,Racismo,Argentina
+Brazil,0,3,0,2.5,Brazil,Cachorro caramelo ,604,Brazil,Cachorro caramelo ,Brazil
+Brazil,0,3,0,2.5,Germany,Segunda guerra mundial,604,Germany,Segunda guerra mundial,Germany
+Brazil,0,3,0,2.5,India,Casta,604,India,Casta,India
+Brazil,0,3,0,2.5,South Africa,cultura libertaria de Nelson Mandela ,604,South Africa,cultura libertaria de Nelson Mandela ,South Africa
+Brazil,0,3,0,2.5,India,Comida de rua,604,India,Comida de rua,India
+Brazil,0,3,0,2.5,Norway,clima frio,604,Norway,clima frio,Norway
+Brazil,0,3,0,2.5,Brazil,pessoas calorosas ,604,Brazil,pessoas calorosas ,Brazil
+Brazil,0,3,0,2.5,Thailand,Naturaleza,604,Thailand,Naturaleza,Thailand
+France,0,3,0,2.5,Italy,Costa preciosa,39,Italy,Costa preciosa,Italy
+Brazil,0,3,0,2.5,Japan,Disciplina; organización; poesía; haikú; educación; limpieza; futuro; música,604,Japan,Disciplina; organización; poesía; haikú; educación; limpieza; futuro; música,Japan
+Brazil,0,3,0,2.5,Brazil,Democracia,604,Brazil,Democracia,Brazil
+Brazil,0,3,0,2.5,Brazil,Samba,604,Brazil,Samba,Brazil
+Brazil,0,3,0,2.5,Sweden,Futebol,604,Sweden,Futebol,Sweden
+Brazil,0,3,0,2.5,Brazil,Comidas típicas,604,Brazil,Comidas típicas,Brazil
+Brazil,0,3,0,2.5,Argentina,futebol ,604,Argentina,futebol ,Argentina
+France,0,3,0,2.5,France,Gente cerrada,39,France,Gente cerrada,France
+Mexico,0,3,0,2.5,France,En Francia la gente huele mal,38,France,En Francia la gente huele mal,France
+Brazil,0,3,0,2.5,Brazil,Carnaval e futebol ,604,Brazil,Carnaval e futebol ,Brazil
+Brazil,0,3,0,2.5,Egypt,Pirâmides ,604,Egypt,Pirâmides ,Egypt
+Brazil,0,3,0,2.5,Spain,Bela arquitetura,604,Spain,Bela arquitetura,Spain
+Brazil,0,3,0,2.5,Norway,Educação de qualidade,604,Norway,Educação de qualidade,Norway
+Brazil,0,3,0,2.5,Brazil,Clima quente,604,Brazil,Clima quente,Brazil
+Brazil,0,3,0,2.5,Brazil,O brasil tem lugares lindos ,604,Brazil,O brasil tem lugares lindos ,Brazil
+France,0,3,0,2.5,France,Ropa de lujo,39,France,Ropa de lujo,France
+Brazil,0,3,0,2.5,United Kingdom,Comida ruim,604,United Kingdom,Comida ruim,United Kingdom
+Brazil,0,3,0,2.5,Brazil,Lugares ao ar livre,604,Brazil,Lugares ao ar livre,Brazil
+Brazil,0,3,0,2.5,Palestine,Genocidio; hambruna; sufrir,604,Palestine,Genocidio; hambruna; sufrir,Palestine
+France,0,3,0,2.5,Nicaragua,Volcanos,39,Nicaragua,Volcanos,Nicaragua
+Brazil,0,3,0,2.5,Brazil,Machado de Assis,604,Brazil,Machado de Assis,Brazil
+Brazil,0,3,0,2.5,Bolivia,Valorizar cultura indígena,604,Bolivia,Valorizar cultura indígena,Bolivia
+Brazil,0,3,0,2.5,Brazil,Desigualdade,604,Brazil,Desigualdade,Brazil
+Brazil,0,3,0,2.5,Brazil,Calor,604,Brazil,Calor,Brazil
+Brazil,0,3,0,2.5,Brazil,Festa junina,604,Brazil,Festa junina,Brazil
+Brazil,0,3,0,2.5,Brazil, comemoração de fim de ano,604,Brazil, comemoração de fim de ano,Brazil
+Brazil,0,3,0,2.5,Brazil, folclore ,604,Brazil, folclore ,Brazil
+Brazil,0,3,0,2.5,Canada,Estilo de vida fitness ,604,Canada,Estilo de vida fitness ,Canada
+Brazil,0,3,0,2.5,Saudi Arabia,Clima quente,604,Saudi Arabia,Clima quente,Saudi Arabia
+Brazil,0,3,0,2.5,Colombia,Reggaeton,604,Colombia,Reggaeton,Colombia
+Brazil,0,3,0,2.5,Brazil,Brasil lugares bonitos,604,Brazil,Brasil lugares bonitos,Brazil
+Brazil,0,3,0,2.5,Brazil,Ditadura,604,Brazil,Ditadura,Brazil
+Brazil,0,3,0,2.5,Brazil,Brasil é um lugar de muitas personalidades,604,Brazil,Brasil é um lugar de muitas personalidades,Brazil
+France,0,3,0,2.5,France,Riqueza,39,France,Riqueza,France
+Brazil,0,3,0,2.5,Brazil,Música boa,604,Brazil,Música boa,Brazil
+Brazil,0,3,0,2.5,Belgium,Cerveza; Chocolate; diversidad lingüística ,604,Belgium,Cerveza; Chocolate; diversidad lingüística ,Belgium
+Brazil,0,3,0,2.5,Brazil,Animais diversos,604,Brazil,Animais diversos,Brazil
+Brazil,0,3,0,2.5,Haiti,independência,604,Haiti,independência,Haiti
+Brazil,0,3,0,2.5,Haiti, revolução ,604,Haiti, revolução ,Haiti
+Brazil,0,3,0,2.5,Brazil,Boas novelas,604,Brazil,Boas novelas,Brazil
+Brazil,0,3,0,2.5,Brazil,Tropical,604,Brazil,Tropical,Brazil
+Brazil,0,3,0,2.5,Cameroon,praias,604,Cameroon,praias,Cameroon
+Brazil,0,3,0,2.5,Argentina,tango,604,Argentina,tango,Argentina
+Brazil,0,3,0,2.5,Brazil,Violencia urbana; naturaleza; Amazonia,604,Brazil,Violencia urbana; naturaleza; Amazonia,Brazil
+Brazil,0,3,0,2.5,South Korea,Buena música,604,South Korea,Buena música,South Korea
+Brazil,0,3,0,2.5,Algeria,Religião islâmica,604,Algeria,Religião islâmica,Algeria
+Brazil,0,3,0,2.5,Brazil,Muito calor,604,Brazil,Muito calor,Brazil
+Brazil,0,3,0,2.5,Brazil,Floresta Amazônica,604,Brazil,Floresta Amazônica,Brazil
+Brazil,0,3,0,2.5,Russia,bonecas matrioshka,604,Russia,bonecas matrioshka,Russia
+Brazil,0,3,0,2.5,Argentina,Jogo bonito,604,Argentina,Jogo bonito,Argentina
+Brazil,0,3,0,2.5,Mexico,"Alegres, graciosos, amigables",604,Mexico,"Alegres, graciosos, amigables",Mexico
+Brazil,0,3,0,2.5,Japan,"Alegres, graciosos, amigables",604,Japan,"Alegres, graciosos, amigables",Japan
+Brazil,0,3,0,2.5,China,"Alegres, graciosos, amigables",604,China,"Alegres, graciosos, amigables",China
+Brazil,0,3,0,2.5,Canada,"Alegres, graciosos, amigables",604,Canada,"Alegres, graciosos, amigables",Canada
+Brazil,0,3,0,2.5,Brazil,Like to dance,604,Brazil,Like to dance,Brazil
+Brazil,0,3,0,2.5,Mexico,Like to dance,604,Mexico,Like to dance,Mexico
+Brazil,0,3,0,2.5,India,Like to dance,604,India,Like to dance,India
+Brazil,0,3,0,2.5,Morocco,Like to dance,604,Morocco,Like to dance,Morocco
+Brazil,0,3,0,2.5,Maldives,Diversión,604,Maldives,Diversión,Maldives
+Brazil,0,3,0,2.5,Argentina,testport,604,Argentina,testport,Argentina
+Brazil,0,3,0,2.5,Mexico,Salsas picantes,604,Mexico,Salsas picantes,Mexico
+Brazil,0,3,0,2.5,Guatemala,Salsas picantes,604,Guatemala,Salsas picantes,Guatemala
+Brazil,0,3,0,2.5,India,Salsas picantes,604,India,Salsas picantes,India
+Brazil,0,3,0,2.5,Angola,O Brasil é conhecido pelo samba.,604,Angola,O Brasil é conhecido pelo samba.,Angola
+Brazil,0,3,0,2.5,Maldives,"Alegres, graciosos, amigables",604,Maldives,"Alegres, graciosos, amigables",Maldives
+Brazil,0,3,0,2.5,Brazil,Carnaval,604,Brazil,Carnaval,Brazil
+Brazil,0,3,0,2.5,Portugal,Carnaval,604,Portugal,Carnaval,Portugal
+Brazil,0,3,0,2.5,Cabo Verde,Música,604,Cabo Verde,Música,Cabo Verde
+Brazil,0,3,0,2.5,Cuba,Música,604,Cuba,Música,Cuba
+Brazil,0,3,0,2.5,Maldives,Malversación de fondos,604,Maldives,Malversación de fondos,Maldives
+Brazil,0,3,0,2.5,Brazil,solidarios y demostrativos afectivamente,604,Brazil,solidarios y demostrativos afectivamente,Brazil
+Brazil,0,3,0,2.5,Jamaica,solidarios y demostrativos afectivamente,604,Jamaica,solidarios y demostrativos afectivamente,Jamaica
+Brazil,0,3,0,2.5,Brazil,O Brasil é conhecido pelo samba.,604,Brazil,O Brasil é conhecido pelo samba.,Brazil
+Brazil,0,3,0,2.5,Brazil,Diversidade,604,Brazil,Diversidade,Brazil
+Brazil,0,3,0,2.5,Bolivia,diversidad,604,Bolivia,diversidad,Bolivia
+Brazil,0,3,0,2.5,Brazil,diversidad,604,Brazil,diversidad,Brazil
+Brazil,0,3,0,2.5,Cameroon,diversidad,604,Cameroon,diversidad,Cameroon
+Brazil,0,3,0,2.5,Costa Rica,diversidad,604,Costa Rica,diversidad,Costa Rica
+Brazil,0,3,0,2.5,Cuba,diversidad,604,Cuba,diversidad,Cuba
+Brazil,0,3,0,2.5,Dominican Republic,diversidad,604,Dominican Republic,diversidad,Dominican Republic
+Brazil,0,3,0,2.5,Peru,diversidad,604,Peru,diversidad,Peru
+Brazil,0,3,0,2.5,Spain,diversidad,604,Spain,diversidad,Spain
+Brazil,0,3,0,2.5,Argentina,diversidad,604,Argentina,diversidad,Argentina
+Brazil,0,3,0,2.5,Bolivia,Tienen varios pueblos indígenas en su región,604,Bolivia,Tienen varios pueblos indígenas en su región,Bolivia
+Brazil,0,3,0,2.5,Venezuela,Tienen varios pueblos indígenas en su región,604,Venezuela,Tienen varios pueblos indígenas en su región,Venezuela
+Mexico,0,3,0,2.5,Algeria,hospitalidad turística,38,Algeria,hospitalidad turística,Algeria
+Mexico,0,3,0,2.5,Cameroon,hospitalidad turística,38,Cameroon,hospitalidad turística,Cameroon
+Mexico,0,3,0,2.5,Comoros,hospitalidad turística,38,Comoros,hospitalidad turística,Comoros
+Mexico,0,3,0,2.5,Cote d'Ivoire,hospitalidad turística,38,Cote d'Ivoire,hospitalidad turística,Cote d'Ivoire
+Mexico,0,3,0,2.5,Cuba,hospitalidad turística,38,Cuba,hospitalidad turística,Cuba
+Mexico,0,3,0,2.5,Dominican Republic,hospitalidad turística,38,Dominican Republic,hospitalidad turística,Dominican Republic
+Mexico,0,3,0,2.5,Ecuador,hospitalidad turística,38,Ecuador,hospitalidad turística,Ecuador
+Mexico,0,3,0,2.5,El Salvador,hospitalidad turística,38,El Salvador,hospitalidad turística,El Salvador
+Brazil,0,3,0,2.5,Mexico,solidaridad y unidad,604,Mexico,solidaridad y unidad,Mexico
+Brazil,0,3,0,2.5,France,Jogo bonito,604,France,Jogo bonito,France
+Brazil,0,3,0,2.5,Uruguay,Jogo bonito,604,Uruguay,Jogo bonito,Uruguay
+Brazil,0,3,0,2.5,Venezuela,Amazônia,604,Venezuela,Amazônia,Venezuela
+Brazil,0,3,0,2.5,Ecuador,"carnaval, danza",604,Ecuador,"carnaval, danza",Ecuador
+Brazil,0,3,0,2.5,Argentina,Cultura do futebol,604,Argentina,Cultura do futebol,Argentina
+Brazil,0,3,0,2.5,Spain,Cultura do futebol,604,Spain,Cultura do futebol,Spain
+Brazil,0,3,0,2.5,China,personas individualistas,604,China,personas individualistas,China
+Brazil,0,3,0,2.5,Brazil,Boa carne vermelha,604,Brazil,Boa carne vermelha,Brazil
+Mexico,0,3,0,2.5,France,"Injusticia social, Capitalismo",38,France,"Injusticia social, Capitalismo",France
+Brazil,0,3,0,2.5,Brazil,Buena música,604,Brazil,Buena música,Brazil
+Brazil,0,3,0,2.5,Germany,Buena música,604,Germany,Buena música,Germany
+Brazil,0,3,0,2.5,Ireland,Buena música,604,Ireland,Buena música,Ireland
+Brazil,0,3,0,2.5,Japan,Buena música,604,Japan,Buena música,Japan
+Brazil,0,3,0,2.5,Iceland,Buena música,604,Iceland,Buena música,Iceland
+Brazil,0,3,0,2.5,South Korea,Buena música,604,South Korea,Buena música,South Korea
+Brazil,0,3,0,2.5,Australia,Buena música,604,Australia,Buena música,Australia
+Brazil,0,3,0,2.5,United Kingdom,Buena música,604,United Kingdom,Buena música,United Kingdom
+Brazil,0,3,0,2.5,United States,Buena música,604,United States,Buena música,United States
+Brazil,0,3,0,2.5,Argentina,Buena música,604,Argentina,Buena música,Argentina
+Brazil,0,3,0,2.5,Canada,Buena música,604,Canada,Buena música,Canada
+Brazil,0,3,0,2.5,Brazil,Boa carne vermelha,604,Brazil,Boa carne vermelha,Brazil
+Brazil,0,3,0,2.5,Austria,Alto patriotismo,604,Austria,Alto patriotismo,Austria
+Brazil,0,3,0,2.5,United States,Alto patriotismo,604,United States,Alto patriotismo,United States
+Brazil,0,3,0,2.5,Portugal,Diversidade,604,Portugal,Diversidade,Portugal
+Brazil,0,3,0,2.5,Angola,migracion,604,Angola,migracion,Angola
+Brazil,0,3,0,2.5,Bolivia,migracion,604,Bolivia,migracion,Bolivia
+Brazil,0,3,0,2.5,Brazil,migracion,604,Brazil,migracion,Brazil
+Brazil,0,3,0,2.5,Cuba,migracion,604,Cuba,migracion,Cuba
+Brazil,0,3,0,2.5,Mexico,migracion,604,Mexico,migracion,Mexico
+Brazil,0,3,0,2.5,Mozambique,migracion,604,Mozambique,migracion,Mozambique
+Brazil,0,3,0,2.5,Palestine,migracion,604,Palestine,migracion,Palestine
+Brazil,0,3,0,2.5,Somalia,migracion,604,Somalia,migracion,Somalia
+Brazil,0,3,0,2.5,Ukraine,migracion,604,Ukraine,migracion,Ukraine
+Brazil,0,3,0,2.5,Greece,Praia,604,Greece,Praia,Greece
+Brazil,0,3,0,2.5,Italy,Praia,604,Italy,Praia,Italy
+Brazil,0,3,0,2.5,Croatia,Praia,604,Croatia,Praia,Croatia
+Brazil,0,3,0,2.5,Afghanistan,Música,604,Afghanistan,Música,Afghanistan
+Brazil,0,3,0,2.5,Albania,Música,604,Albania,Música,Albania
+Brazil,0,3,0,2.5,Andorra,Música,604,Andorra,Música,Andorra
+Brazil,0,3,0,2.5,Angola,Música,604,Angola,Música,Angola
+Brazil,0,3,0,2.5,Argentina,Música,604,Argentina,Música,Argentina
+Brazil,0,3,0,2.5,Australia,Música,604,Australia,Música,Australia
+Brazil,0,3,0,2.5,Austria,Música,604,Austria,Música,Austria
+Brazil,0,3,0,2.5,Barbados,Música,604,Barbados,Música,Barbados
+Brazil,0,3,0,2.5,Belgium,Música,604,Belgium,Música,Belgium
+Brazil,0,3,0,2.5,Bolivia,Música,604,Bolivia,Música,Bolivia
+Brazil,0,3,0,2.5,Botswana,Música,604,Botswana,Música,Botswana
+Brazil,0,3,0,2.5,Cambodia,Música,604,Cambodia,Música,Cambodia
+Brazil,0,3,0,2.5,Central African Republic,Música,604,Central African Republic,Música,Central African Republic
+Brazil,0,3,0,2.5,Canada,Música,604,Canada,Música,Canada
+Brazil,0,3,0,2.5,China,Música,604,China,Música,China
+Brazil,0,3,0,2.5,Chile,Música,604,Chile,Música,Chile
+Brazil,0,3,0,2.5,Congo Republic,Música,604,Congo Republic,Música,Congo Republic
+Brazil,0,3,0,2.5,Cuba,Música,604,Cuba,Música,Cuba
+Brazil,0,3,0,2.5,DR Congo,Esmeraldas más puras,604,DR Congo,Esmeraldas más puras,DR Congo
+Mexico,0,3,0,2.5,Argentina,Hablan español,38,Argentina,Hablan español,Argentina
+Mexico,0,3,0,2.5,Colombia,Hablan español,38,Colombia,Hablan español,Colombia
+Mexico,0,3,0,2.5,Costa Rica,Hablan español,38,Costa Rica,Hablan español,Costa Rica
+Mexico,0,3,0,2.5,Cuba,Hablan español,38,Cuba,Hablan español,Cuba
+Mexico,0,3,0,2.5,Dominican Republic,Hablan español,38,Dominican Republic,Hablan español,Dominican Republic
+Mexico,0,3,0,2.5,Ecuador,Hablan español,38,Ecuador,Hablan español,Ecuador
+Mexico,0,3,0,2.5,Honduras,Hablan español,38,Honduras,Hablan español,Honduras
+Brazil,0,3,0,2.5,Argentina,Boa carne vermelha,604,Argentina,Boa carne vermelha,Argentina
+France,0,3,0,2.5,United States,judaismo,39,United States,judaismo,United States
+Brazil,0,3,0,2.5,Canada,comen pescado,604,Canada,comen pescado,Canada
+Brazil,0,3,0,2.5,Portugal,comen pescado,604,Portugal,comen pescado,Portugal
+Brazil,0,3,0,2.5,Brazil,Diversidade,604,Brazil,Diversidade,Brazil
+Brazil,0,3,0,2.5,Cabo Verde,Diversidade,604,Cabo Verde,Diversidade,Cabo Verde
+Brazil,0,3,0,2.5,Bolivia,solidaridad y unidad,604,Bolivia,solidaridad y unidad,Bolivia
+Brazil,0,3,0,2.5,Venezuela,solidaridad y unidad,604,Venezuela,solidaridad y unidad,Venezuela
+Brazil,0,3,0,2.5,Colombia,solidaridad y unidad,604,Colombia,solidaridad y unidad,Colombia
+Brazil,0,3,0,2.5,Mexico,solidaridad y unidad,604,Mexico,solidaridad y unidad,Mexico
+Brazil,0,3,0,2.5,Brazil,Carnaval,604,Brazil,Carnaval,Brazil
+France,0,3,0,2.5,Brazil,Jogo bonito,39,Brazil,Jogo bonito,Brazil
+France,0,3,0,2.5,Argentina,Jogo bonito,39,Argentina,Jogo bonito,Argentina
+France,0,3,0,2.5,Spain,Jogo bonito,39,Spain,Jogo bonito,Spain
+Brazil,0,3,0,2.5,Türkiye,"buena musica, malas novelas",604,Türkiye,"buena musica, malas novelas",Türkiye
+Brazil,0,3,0,2.5,Brazil,"buena musica, malas novelas",604,Brazil,"buena musica, malas novelas",Brazil
+Brazil,0,3,0,2.5,Venezuela,"buena musica, malas novelas",604,Venezuela,"buena musica, malas novelas",Venezuela
+France,0,3,0,2.5,Italy,buen pan,39,Italy,buen pan,Italy
+Mexico,0,3,0,2.5,Ecuador,fe y religiosidad,38,Ecuador,fe y religiosidad,Ecuador
+Mexico,0,3,0,2.5,Chile,fe y religiosidad,38,Chile,fe y religiosidad,Chile
+Mexico,0,3,0,2.5,Brazil,fe y religiosidad,38,Brazil,fe y religiosidad,Brazil
+Brazil,0,3,0,2.5,Germany,"hablan muy rapido, sienten superioridad ante otros paises de la region",604,Germany,"hablan muy rapido, sienten superioridad ante otros paises de la region",Germany
+Brazil,0,3,0,2.5,Brazil,Música,604,Brazil,Música,Brazil
+Brazil,0,3,0,2.5,Brazil,Diversidad musical,604,Brazil,Diversidad musical,Brazil
+Brazil,0,3,0,2.5,Paraguay,Crisis política; petroleo; Andrés Bello; biblioteca Ayacucho; Maduro,604,Paraguay,Crisis política; petroleo; Andrés Bello; biblioteca Ayacucho; Maduro,Paraguay
+Brazil,0,3,0,2.5,Ukraine,Crisis política; petroleo; Andrés Bello; biblioteca Ayacucho; Maduro,604,Ukraine,Crisis política; petroleo; Andrés Bello; biblioteca Ayacucho; Maduro,Ukraine
+Brazil,0,3,0,2.5,Jordan,Crisis política; petroleo; Andrés Bello; biblioteca Ayacucho; Maduro,604,Jordan,Crisis política; petroleo; Andrés Bello; biblioteca Ayacucho; Maduro,Jordan
+Brazil,0,3,0,2.5,Brazil,Mate,604,Brazil,Mate,Brazil
+Brazil,0,3,0,2.5,Uruguay,Mate,604,Uruguay,Mate,Uruguay
+Brazil,0,3,0,2.5,Nigeria,Comidas diversas,604,Nigeria,Comidas diversas,Nigeria
+Brazil,0,3,0,2.5,Peru,Comidas diversas,604,Peru,Comidas diversas,Peru
+Brazil,0,3,0,2.5,Brazil,Like to dance,604,Brazil,Like to dance,Brazil
+Brazil,0,3,0,2.5,Mexico,Like to dance,604,Mexico,Like to dance,Mexico
+Brazil,0,3,0,2.5,Brazil,Comida saudável,604,Brazil,Comida saudável,Brazil
+Brazil,0,3,0,2.5,Cuba,Praias,604,Cuba,Praias,Cuba
+Brazil,0,3,0,2.5,South Africa,Diversidad cultural,604,South Africa,Diversidad cultural,South Africa
+Brazil,0,3,0,2.5,Argentina,delicioso gelato,604,Argentina,delicioso gelato,Argentina
+Brazil,0,3,0,2.5,Italy,delicioso gelato,604,Italy,delicioso gelato,Italy
+Brazil,0,3,0,2.5,India,Diversidad musical,604,India,Diversidad musical,India
+Brazil,0,3,0,2.5,Indonesia,Diversidad musical,604,Indonesia,Diversidad musical,Indonesia
+Brazil,0,3,0,2.5,Iran,Diversidad musical,604,Iran,Diversidad musical,Iran
+Brazil,0,3,0,2.5,Italy,Diversidad musical,604,Italy,Diversidad musical,Italy
+Brazil,0,3,0,2.5,Jamaica,Diversidad musical,604,Jamaica,Diversidad musical,Jamaica
+Brazil,0,3,0,2.5,Japan,Diversidad musical,604,Japan,Diversidad musical,Japan
+Brazil,0,3,0,2.5,Madagascar,Diversidad musical,604,Madagascar,Diversidad musical,Madagascar
+Brazil,0,3,0,2.5,Mexico,Diversidad musical,604,Mexico,Diversidad musical,Mexico
+Brazil,0,3,0,2.5,Mongolia,Diversidad musical,604,Mongolia,Diversidad musical,Mongolia
+Brazil,0,3,0,2.5,Morocco,Diversidad musical,604,Morocco,Diversidad musical,Morocco
+Brazil,0,3,0,2.5,Mozambique,Diversidad musical,604,Mozambique,Diversidad musical,Mozambique
+Brazil,0,3,0,2.5,Netherlands,Diversidad musical,604,Netherlands,Diversidad musical,Netherlands
+Brazil,0,3,0,2.5,Nigeria,Diversidad musical,604,Nigeria,Diversidad musical,Nigeria
+Brazil,0,3,0,2.5,Norway,Diversidad musical,604,Norway,Diversidad musical,Norway
+Brazil,0,3,0,2.5,Palestine,Diversidad musical,604,Palestine,Diversidad musical,Palestine
+Brazil,0,3,0,2.5,Paraguay,Diversidad musical,604,Paraguay,Diversidad musical,Paraguay
+Brazil,0,3,0,2.5,Peru,Diversidad musical,604,Peru,Diversidad musical,Peru
+Brazil,0,3,0,2.5,Mexico,Praias,604,Mexico,Praias,Mexico
+Brazil,0,3,0,2.5,United States,Praias,604,United States,Praias,United States
+Brazil,0,3,0,2.5,Cuba,Feijoada,604,Cuba,Feijoada,Cuba
+Mexico,0,3,0,2.5,Colombia,Tamales,38,Colombia,Tamales,Colombia
+Mexico,0,3,0,2.5,Nicaragua,Tamales,38,Nicaragua,Tamales,Nicaragua
+Mexico,0,3,0,2.5,Honduras,Tamales,38,Honduras,Tamales,Honduras
+Brazil,0,3,0,2.5,Mexico,diversidad,604,Mexico,diversidad,Mexico
+Brazil,0,3,0,2.5,South Africa,diversidad,604,South Africa,diversidad,South Africa
+Brazil,0,3,0,2.5,Brazil,Comidas diversas,604,Brazil,Comidas diversas,Brazil
+Brazil,0,3,0,2.5,Brazil,Música,604,Brazil,Música,Brazil
+Brazil,0,3,0,2.5,France,Música,604,France,Música,France
+Brazil,0,3,0,2.5,South Africa,Música,604,South Africa,Música,South Africa
+Brazil,0,3,0,2.5,United States,Música,604,United States,Música,United States
+France,0,3,0,2.5,Brazil,Playita hermosa,39,Brazil,Playita hermosa,Brazil
+France,0,3,0,2.5,Dominican Republic,Playita hermosa,39,Dominican Republic,Playita hermosa,Dominican Republic
+France,0,3,0,2.5,Cabo Verde,Playita hermosa,39,Cabo Verde,Playita hermosa,Cabo Verde
+France,0,3,0,2.5,Italy,Playita hermosa,39,Italy,Playita hermosa,Italy
+France,0,3,0,2.5,Spain,Playita hermosa,39,Spain,Playita hermosa,Spain
+France,0,3,0,2.5,France,Playita hermosa,39,France,Playita hermosa,France
+France,0,3,0,2.5,Costa Rica,Playita hermosa,39,Costa Rica,Playita hermosa,Costa Rica
+Brazil,0,3,0,2.5,United Kingdom,Diversidade,604,United Kingdom,Diversidade,United Kingdom
+Brazil,0,3,0,2.5,United States,Diversidade,604,United States,Diversidade,United States
+Brazil,0,3,0,2.5,Brazil,Praia,604,Brazil,Praia,Brazil
+Brazil,0,3,0,2.5,Mexico,Praia,604,Mexico,Praia,Mexico
+Brazil,0,3,0,2.5,Guinea,África,604,Guinea,África,Guinea
+Brazil,0,3,0,2.5,Venezuela,solidarios y demostrativos afectivamente,604,Venezuela,solidarios y demostrativos afectivamente,Venezuela
+Brazil,0,3,0,2.5,Bolivia,Usar artesanato.,604,Bolivia,Usar artesanato.,Bolivia
+Brazil,0,3,0,2.5,Mexico,Usar artesanato.,604,Mexico,Usar artesanato.,Mexico
+Mexico,0,3,0,2.5,Iran,solidarios,38,Iran,solidarios,Iran
+Mexico,0,3,0,2.5,Mexico,solidarios,38,Mexico,solidarios,Mexico
+Mexico,0,3,0,2.5,Mozambique,solidarios,38,Mozambique,solidarios,Mozambique
+Brazil,0,3,0,2.5,Austria,baja tasa de crimen,604,Austria,baja tasa de crimen,Austria
+Brazil,0,3,0,2.5,Canada,baja tasa de crimen,604,Canada,baja tasa de crimen,Canada
+Brazil,0,3,0,2.5,Finland,baja tasa de crimen,604,Finland,baja tasa de crimen,Finland
+Brazil,0,3,0,2.5,Japan,baja tasa de crimen,604,Japan,baja tasa de crimen,Japan
+Brazil,0,3,0,2.5,New Zealand,baja tasa de crimen,604,New Zealand,baja tasa de crimen,New Zealand
+Brazil,0,3,0,2.5,Sweden,baja tasa de crimen,604,Sweden,baja tasa de crimen,Sweden
+Brazil,0,3,0,2.5,Uruguay,gente trabajadora,604,Uruguay,gente trabajadora,Uruguay
+Brazil,0,3,0,2.5,Brazil,Diversidad musical,604,Brazil,Diversidad musical,Brazil
+Brazil,0,3,0,2.5,Brazil,Fauna abundante,604,Brazil,Fauna abundante,Brazil
+Brazil,0,3,0,2.5,Venezuela,Usar artesanato.,604,Venezuela,Usar artesanato.,Venezuela
+Brazil,0,3,0,2.5,Brazil,Pizza,604,Brazil,Pizza,Brazil
+Brazil,0,3,0,2.5,Brazil,Rica em cultura,604,Brazil,Rica em cultura,Brazil
+Brazil,0,3,0,2.5,Argentina,Hablan español,604,Argentina,Hablan español,Argentina
+Brazil,0,3,0,2.5,Mexico,Calor,604,Mexico,Calor,Mexico
+Brazil,0,3,0,2.5,Egypt,Calor,604,Egypt,Calor,Egypt
+Brazil,0,3,0,2.5,Argentina,Diversidad cultural,604,Argentina,Diversidad cultural,Argentina
+Brazil,0,3,0,2.5,Bolivia,Diversidad cultural,604,Bolivia,Diversidad cultural,Bolivia
+Brazil,0,3,0,2.5,China,Diversidad cultural,604,China,Diversidad cultural,China
+Brazil,0,3,0,2.5,Costa Rica,Diversidad cultural,604,Costa Rica,Diversidad cultural,Costa Rica
+Brazil,0,3,0,2.5,Mexico,Diversidad cultural,604,Mexico,Diversidad cultural,Mexico
+Brazil,0,3,0,2.5,Morocco,Diversidad cultural,604,Morocco,Diversidad cultural,Morocco
+Brazil,0,3,0,2.5,Spain,Diversidad cultural,604,Spain,Diversidad cultural,Spain
+Brazil,0,3,0,2.5,Brazil,Fauna abundante,604,Brazil,Fauna abundante,Brazil
+France,0,3,0,2.5,Brazil,Música,39,Brazil,Música,Brazil
+France,0,3,0,2.5,Argentina,Música,39,Argentina,Música,Argentina
+France,0,3,0,2.5,Jamaica,Música,39,Jamaica,Música,Jamaica
+France,0,3,0,2.5,Colombia,Música,39,Colombia,Música,Colombia
+France,0,3,0,2.5,Spain,Música,39,Spain,Música,Spain
+France,0,3,0,2.5,Nigeria,Música,39,Nigeria,Música,Nigeria
+Brazil,0,3,0,2.5,Brazil,muy hermosas mujeres,604,Brazil,muy hermosas mujeres,Brazil
+Brazil,0,3,0,2.5,United Kingdom,"Todos los climas, turismo",604,United Kingdom,"Todos los climas, turismo",United Kingdom
+Brazil,0,3,0,2.5,Romania,"Cultura, pessoas boas",604,Romania,"Cultura, pessoas boas",Romania
+Brazil,0,3,0,2.5,Russia,"Cultura, pessoas boas",604,Russia,"Cultura, pessoas boas",Russia
+Brazil,0,3,0,2.5,Rwanda,"Cultura, pessoas boas",604,Rwanda,"Cultura, pessoas boas",Rwanda
+Brazil,0,3,0,2.5,Samoa,"Cultura, pessoas boas",604,Samoa,"Cultura, pessoas boas",Samoa
+Brazil,0,3,0,2.5,Saudi Arabia,"Cultura, pessoas boas",604,Saudi Arabia,"Cultura, pessoas boas",Saudi Arabia
+Brazil,0,3,0,2.5,Senegal,"Cultura, pessoas boas",604,Senegal,"Cultura, pessoas boas",Senegal
+Brazil,0,3,0,2.5,Singapore,"Cultura, pessoas boas",604,Singapore,"Cultura, pessoas boas",Singapore
+Brazil,0,3,0,2.5,Slovenia,"Cultura, pessoas boas",604,Slovenia,"Cultura, pessoas boas",Slovenia
+Brazil,0,3,0,2.5,Slovakia,"Cultura, pessoas boas",604,Slovakia,"Cultura, pessoas boas",Slovakia
+Brazil,0,3,0,2.5,South Africa,"Cultura, pessoas boas",604,South Africa,"Cultura, pessoas boas",South Africa
+Brazil,0,3,0,2.5,South Korea,"Cultura, pessoas boas",604,South Korea,"Cultura, pessoas boas",South Korea
+Brazil,0,3,0,2.5,South Sudan,"Cultura, pessoas boas",604,South Sudan,"Cultura, pessoas boas",South Sudan
+Brazil,0,3,0,2.5,Thailand,"Cultura, pessoas boas",604,Thailand,"Cultura, pessoas boas",Thailand
+Brazil,0,3,0,2.5,Timor-Leste,"Cultura, pessoas boas",604,Timor-Leste,"Cultura, pessoas boas",Timor-Leste
+Brazil,0,3,0,2.5,Trinidad and Tobago,"Cultura, pessoas boas",604,Trinidad and Tobago,"Cultura, pessoas boas",Trinidad and Tobago
+Brazil,0,3,0,2.5,Tunisia,"Cultura, pessoas boas",604,Tunisia,"Cultura, pessoas boas",Tunisia
+Brazil,0,3,0,2.5,Sudan,"Cultura, pessoas boas",604,Sudan,"Cultura, pessoas boas",Sudan
+Brazil,0,3,0,2.5,Türkiye,"Cultura, pessoas boas",604,Türkiye,"Cultura, pessoas boas",Türkiye
+Brazil,0,3,0,2.5,Uruguay,"Cultura, pessoas boas",604,Uruguay,"Cultura, pessoas boas",Uruguay
+Brazil,0,3,0,2.5,Brazil,Música,604,Brazil,Música,Brazil
+Brazil,0,3,0,2.5,United States,Música,604,United States,Música,United States
+Brazil,0,3,0,2.5,Mexico,Música,604,Mexico,Música,Mexico
+Brazil,0,3,0,2.5,Algeria,África,604,Algeria,África,Algeria
+Brazil,0,3,0,2.5,Angola,África,604,Angola,África,Angola
+Brazil,0,3,0,2.5,Antigua and Barbuda,África,604,Antigua and Barbuda,África,Antigua and Barbuda
+Brazil,0,3,0,2.5,Bahamas,África,604,Bahamas,África,Bahamas
+Brazil,0,3,0,2.5,Barbados,África,604,Barbados,África,Barbados
+Brazil,0,3,0,2.5,Burkina Faso,África,604,Burkina Faso,África,Burkina Faso
+Brazil,0,3,0,2.5,Cabo Verde,África,604,Cabo Verde,África,Cabo Verde
+Brazil,0,3,0,2.5,Cameroon,África,604,Cameroon,África,Cameroon
+Brazil,0,3,0,2.5,Central African Republic,África,604,Central African Republic,África,Central African Republic
+Brazil,0,3,0,2.5,Cote d'Ivoire,África,604,Cote d'Ivoire,África,Cote d'Ivoire
+Brazil,0,3,0,2.5,Congo Republic,África,604,Congo Republic,África,Congo Republic
+Brazil,0,3,0,2.5,DR Congo,África,604,DR Congo,África,DR Congo
+Brazil,0,3,0,2.5,Djibouti,África,604,Djibouti,África,Djibouti
+Brazil,0,3,0,2.5,Dominica,África,604,Dominica,África,Dominica
+Brazil,0,3,0,2.5,Dominican Republic,África,604,Dominican Republic,África,Dominican Republic
+Brazil,0,3,0,2.5,Ecuador,África,604,Ecuador,África,Ecuador
+Brazil,0,3,0,2.5,Egypt,África,604,Egypt,África,Egypt
+Brazil,0,3,0,2.5,Equatorial Guinea,África,604,Equatorial Guinea,África,Equatorial Guinea
+Brazil,0,3,0,2.5,Ethiopia,África,604,Ethiopia,África,Ethiopia
+Brazil,0,3,0,2.5,Gambia,África,604,Gambia,África,Gambia
+Brazil,0,3,0,2.5,Eswatini,África,604,Eswatini,África,Eswatini
+Brazil,0,3,0,2.5,Ghana,África,604,Ghana,África,Ghana
+Brazil,0,3,0,2.5,Guinea,África,604,Guinea,África,Guinea
+Brazil,0,3,0,2.5,Guinea-Bissau,África,604,Guinea-Bissau,África,Guinea-Bissau
+Brazil,0,3,0,2.5,Haiti,África,604,Haiti,África,Haiti
+Brazil,0,3,0,2.5,Jamaica,África,604,Jamaica,África,Jamaica
+Brazil,0,3,0,2.5,Kenya,África,604,Kenya,África,Kenya
+Brazil,0,3,0,2.5,Lesotho,África,604,Lesotho,África,Lesotho
+Brazil,0,3,0,2.5,Madagascar,África,604,Madagascar,África,Madagascar
+Brazil,0,3,0,2.5,Mali,África,604,Mali,África,Mali
+Brazil,0,3,0,2.5,Mauritania,África,604,Mauritania,África,Mauritania
+Brazil,0,3,0,2.5,Malta,África,604,Malta,África,Malta
+Brazil,0,3,0,2.5,Morocco,África,604,Morocco,África,Morocco
+Brazil,0,3,0,2.5,Mozambique,África,604,Mozambique,África,Mozambique
+Brazil,0,3,0,2.5,Namibia,África,604,Namibia,África,Namibia
+Brazil,0,3,0,2.5,Niger,África,604,Niger,África,Niger
+Brazil,0,3,0,2.5,Nigeria,África,604,Nigeria,África,Nigeria
+Brazil,0,3,0,2.5,Portugal,África,604,Portugal,África,Portugal
+Brazil,0,3,0,2.5,Sao Tome and Principe,África,604,Sao Tome and Principe,África,Sao Tome and Principe
+Brazil,0,3,0,2.5,Senegal,África,604,Senegal,África,Senegal
+Brazil,0,3,0,2.5,Sierra Leone,África,604,Sierra Leone,África,Sierra Leone
+Brazil,0,3,0,2.5,Sudan,África,604,Sudan,África,Sudan
+Brazil,0,3,0,2.5,St. Vincent and the Grenadines,África,604,St. Vincent and the Grenadines,África,St. Vincent and the Grenadines
+Brazil,0,3,0,2.5,St. Lucia,África,604,St. Lucia,África,St. Lucia
+Brazil,0,3,0,2.5,Timor-Leste,África,604,Timor-Leste,África,Timor-Leste
+Brazil,0,3,0,2.5,United States,Pewdiepie,604,United States,Pewdiepie,United States
+Mexico,0,3,0,2.5,France,carteles,38,France,carteles,France
+Mexico,0,3,0,2.5,Colombia,carteles,38,Colombia,carteles,Colombia
+Mexico,0,3,0,2.5,Afghanistan,carteles,38,Afghanistan,carteles,Afghanistan
+Brazil,0,3,0,2.5,Brazil,Calor,604,Brazil,Calor,Brazil
+Brazil,0,3,0,2.5,Argentina,Buena música,604,Argentina,Buena música,Argentina
+Brazil,0,3,0,2.5,Haiti,Bossa nova,604,Haiti,Bossa nova,Haiti
+Brazil,0,3,0,2.5,Jamaica,Bossa nova,604,Jamaica,Bossa nova,Jamaica
+Brazil,0,3,0,2.5,Brazil,solidaridad y unidad,604,Brazil,solidaridad y unidad,Brazil
+Brazil,0,3,0,2.5,Argentina,Mate,604,Argentina,Mate,Argentina
+Brazil,0,3,0,2.5,Uruguay,Mate,604,Uruguay,Mate,Uruguay
+Brazil,0,3,0,2.5,Argentina,Fauna abundante,604,Argentina,Fauna abundante,Argentina
+Brazil,0,3,0,2.5,Australia,Fauna abundante,604,Australia,Fauna abundante,Australia
+Brazil,0,3,0,2.5,Bolivia,Fauna abundante,604,Bolivia,Fauna abundante,Bolivia
+Brazil,0,3,0,2.5,Chile,Fauna abundante,604,Chile,Fauna abundante,Chile
+Brazil,0,3,0,2.5,Colombia,Fauna abundante,604,Colombia,Fauna abundante,Colombia
+Brazil,0,3,0,2.5,Costa Rica,Fauna abundante,604,Costa Rica,Fauna abundante,Costa Rica
+Brazil,0,3,0,2.5,Madagascar,Fauna abundante,604,Madagascar,Fauna abundante,Madagascar
+Brazil,0,3,0,2.5,Mexico,Fauna abundante,604,Mexico,Fauna abundante,Mexico
+Brazil,0,3,0,2.5,Argentina,Mate,604,Argentina,Mate,Argentina
+Brazil,0,3,0,2.5,Canada,Diversidade,604,Canada,Diversidade,Canada
+France,0,3,0,2.5,Venezuela,migracion,39,Venezuela,migracion,Venezuela
+France,0,3,0,2.5,Morocco,migracion,39,Morocco,migracion,Morocco
+France,0,3,0,2.5,Algeria,migracion,39,Algeria,migracion,Algeria
+France,0,3,0,2.5,DR Congo,migracion,39,DR Congo,migracion,DR Congo
+Brazil,0,3,0,2.5,Mozambique,África,604,Mozambique,África,Mozambique
+Brazil,0,3,0,2.5,Brazil,Durante los gobiernos de facto se violaros derechos humanos,604,Brazil,Durante los gobiernos de facto se violaros derechos humanos,Brazil
+Brazil,0,3,0,2.5,Germany,Durante los gobiernos de facto se violaros derechos humanos,604,Germany,Durante los gobiernos de facto se violaros derechos humanos,Germany
+Brazil,0,3,0,2.5,Türkiye,gostar de festas,604,Türkiye,gostar de festas,Türkiye
+Brazil,0,3,0,2.5,Spain,Bonitos castillos y arquitectura,604,Spain,Bonitos castillos y arquitectura,Spain
+Brazil,0,3,0,2.5,Portugal,mas seguridad en calles,604,Portugal,mas seguridad en calles,Portugal
+Brazil,0,3,0,2.5,Cuba,mas seguridad en calles,604,Cuba,mas seguridad en calles,Cuba
+Brazil,0,3,0,2.5,Finland,mas seguridad en calles,604,Finland,mas seguridad en calles,Finland
+Brazil,0,3,0,2.5,Canada,mas seguridad en calles,604,Canada,mas seguridad en calles,Canada
+Brazil,0,3,0,2.5,Sweden,mas seguridad en calles,604,Sweden,mas seguridad en calles,Sweden
+Brazil,0,3,0,2.5,Denmark,mas seguridad en calles,604,Denmark,mas seguridad en calles,Denmark
+Brazil,0,3,0,2.5,Costa Rica,Playa,604,Costa Rica,Playa,Costa Rica
+Brazil,0,3,0,2.5,Haiti,Playa,604,Haiti,Playa,Haiti
+Brazil,0,3,0,2.5,Jamaica,Playa,604,Jamaica,Playa,Jamaica
+Brazil,0,3,0,2.5,Mexico,Playa,604,Mexico,Playa,Mexico
+Brazil,0,3,0,2.5,Philippines,Playa,604,Philippines,Playa,Philippines
+Brazil,0,3,0,2.5,Thailand,Playa,604,Thailand,Playa,Thailand
+Brazil,0,3,0,2.5,Brazil,El país más biodiverso del mundo,604,Brazil,El país más biodiverso del mundo,Brazil
+France,0,3,0,2.5,France,"PAsta, acento ritmico, vespa, vino, queso, pasta",39,France,"PAsta, acento ritmico, vespa, vino, queso, pasta",France
+Brazil,0,3,0,2.5,Argentina,helados,604,Argentina,helados,Argentina
+Brazil,0,3,0,2.5,Italy,helados,604,Italy,helados,Italy
+Brazil,0,3,0,2.5,Saudi Arabia,Clima quente,604,Saudi Arabia,Clima quente,Saudi Arabia
+Brazil,0,3,0,2.5,Jamaica,Playa,604,Jamaica,Playa,Jamaica
+Brazil,0,3,0,2.5,Fiji,Playa,604,Fiji,Playa,Fiji
+Brazil,0,3,0,2.5,Australia,Playa,604,Australia,Playa,Australia
+Brazil,0,3,0,2.5,Maldives,Playa,604,Maldives,Playa,Maldives
+Brazil,0,3,0,2.5,Thailand,Playa,604,Thailand,Playa,Thailand
+Brazil,0,3,0,2.5,Canada,baja tasa de crimen,604,Canada,baja tasa de crimen,Canada
+Brazil,0,3,0,2.5,Finland,baja tasa de crimen,604,Finland,baja tasa de crimen,Finland
+Brazil,0,3,0,2.5,Australia,Fauna abundante,604,Australia,Fauna abundante,Australia
+Brazil,0,3,0,2.5,Indonesia,Fauna abundante,604,Indonesia,Fauna abundante,Indonesia
+Brazil,0,3,0,2.5,Madagascar,Fauna abundante,604,Madagascar,Fauna abundante,Madagascar
+Brazil,0,3,0,2.5,Peru,Fauna abundante,604,Peru,Fauna abundante,Peru
+Brazil,0,3,0,2.5,Poland,Fauna abundante,604,Poland,Fauna abundante,Poland
+Brazil,0,3,0,2.5,Brazil,buena carne,604,Brazil,buena carne,Brazil
+France,0,3,0,2.5,Italy,pan,39,Italy,pan,Italy
+Mexico,0,3,0,2.5,Mexico,Gastronomia,38,Mexico,Gastronomia,Mexico
+Mexico,0,3,0,2.5,Montenegro,Gastronomia,38,Montenegro,Gastronomia,Montenegro
+Brazil,0,3,0,2.5,Egypt,clima temperado e clima quente,604,Egypt,clima temperado e clima quente,Egypt
+Brazil,0,3,0,2.5,United States,vaguería,604,United States,vaguería,United States
+Brazil,0,3,0,2.5,Japan,mas seguridad en calles,604,Japan,mas seguridad en calles,Japan
+Brazil,0,3,0,2.5,Italy,mas seguridad en calles,604,Italy,mas seguridad en calles,Italy
+Brazil,0,3,0,2.5,Sweden,mas seguridad en calles,604,Sweden,mas seguridad en calles,Sweden
+Brazil,0,3,0,2.5,Switzerland,mas seguridad en calles,604,Switzerland,mas seguridad en calles,Switzerland
+Brazil,0,3,0,2.5,Iceland,mas seguridad en calles,604,Iceland,mas seguridad en calles,Iceland
+Brazil,0,3,0,2.5,Argentina,mas seguridad en calles,604,Argentina,mas seguridad en calles,Argentina
+Brazil,0,3,0,2.5,Canada,mas seguridad en calles,604,Canada,mas seguridad en calles,Canada
+Brazil,0,3,0,2.5,Italy,Pizza,604,Italy,Pizza,Italy
+Brazil,0,3,0,2.5,Argentina,Diversidad cultural,604,Argentina,Diversidad cultural,Argentina
+Brazil,0,3,0,2.5,Bolivia,Diversidad cultural,604,Bolivia,Diversidad cultural,Bolivia
+Brazil,0,3,0,2.5,Chile,Diversidad cultural,604,Chile,Diversidad cultural,Chile
+Brazil,0,3,0,2.5,Colombia,Diversidad cultural,604,Colombia,Diversidad cultural,Colombia
+Brazil,0,3,0,2.5,Costa Rica,Diversidad cultural,604,Costa Rica,Diversidad cultural,Costa Rica
+Brazil,0,3,0,2.5,Cuba,Diversidad cultural,604,Cuba,Diversidad cultural,Cuba
+Brazil,0,3,0,2.5,Ecuador,Diversidad cultural,604,Ecuador,Diversidad cultural,Ecuador
+Brazil,0,3,0,2.5,Guatemala,Diversidad cultural,604,Guatemala,Diversidad cultural,Guatemala
+Brazil,0,3,0,2.5,Guyana,Diversidad cultural,604,Guyana,Diversidad cultural,Guyana
+Brazil,0,3,0,2.5,Haiti,Diversidad cultural,604,Haiti,Diversidad cultural,Haiti
+Brazil,0,3,0,2.5,Honduras,Diversidad cultural,604,Honduras,Diversidad cultural,Honduras
+Brazil,0,3,0,2.5,Jamaica,Diversidad cultural,604,Jamaica,Diversidad cultural,Jamaica
+Brazil,0,3,0,2.5,Mexico,Diversidad cultural,604,Mexico,Diversidad cultural,Mexico
+Brazil,0,3,0,2.5,Nicaragua,Diversidad cultural,604,Nicaragua,Diversidad cultural,Nicaragua
+Brazil,0,3,0,2.5,Panama,Diversidad cultural,604,Panama,Diversidad cultural,Panama
+Brazil,0,3,0,2.5,Peru,Diversidad cultural,604,Peru,Diversidad cultural,Peru
+Brazil,0,3,0,2.5,Paraguay,Diversidad cultural,604,Paraguay,Diversidad cultural,Paraguay
+Brazil,0,3,0,2.5,Uruguay,Diversidad cultural,604,Uruguay,Diversidad cultural,Uruguay
+Brazil,0,3,0,2.5,Venezuela,Diversidad cultural,604,Venezuela,Diversidad cultural,Venezuela
+Brazil,0,3,0,2.5,Bolivia,Violencia urbana; polarización política; diversidad; imperialista; Amazonia; literatura; danza; naturaleza,604,Bolivia,Violencia urbana; polarización política; diversidad; imperialista; Amazonia; literatura; danza; naturaleza,Bolivia
+France,0,3,0,2.5,Italy,deliciosos postres,39,Italy,deliciosos postres,Italy
+Brazil,0,3,0,2.5,Ireland,pubs,604,Ireland,pubs,Ireland
+Brazil,0,3,0,2.5,Ukraine,"Resistencia, Olivas",604,Ukraine,"Resistencia, Olivas",Ukraine
+France,0,3,0,2.5,Peru,Tamales,39,Peru,Tamales,Peru
+France,0,3,0,2.5,Bolivia,Tamales,39,Bolivia,Tamales,Bolivia
+Brazil,0,3,0,2.5,Argentina,Durante los gobiernos de facto se violaros derechos humanos,604,Argentina,Durante los gobiernos de facto se violaros derechos humanos,Argentina
+Brazil,0,3,0,2.5,United States,Durante los gobiernos de facto se violaros derechos humanos,604,United States,Durante los gobiernos de facto se violaros derechos humanos,United States
+Brazil,0,3,0,2.5,Israel,Durante los gobiernos de facto se violaros derechos humanos,604,Israel,Durante los gobiernos de facto se violaros derechos humanos,Israel
+Brazil,0,3,0,2.5,Chile,Durante los gobiernos de facto se violaros derechos humanos,604,Chile,Durante los gobiernos de facto se violaros derechos humanos,Chile
+Brazil,0,3,0,2.5,Nepal,Durante los gobiernos de facto se violaros derechos humanos,604,Nepal,Durante los gobiernos de facto se violaros derechos humanos,Nepal
+Brazil,0,3,0,2.5,Bolivia,"Cultura, pessoas boas",604,Bolivia,"Cultura, pessoas boas",Bolivia
+Brazil,0,3,0,2.5,Colombia,"Cultura, pessoas boas",604,Colombia,"Cultura, pessoas boas",Colombia
+Brazil,0,3,0,2.5,Dominican Republic,"Cultura, pessoas boas",604,Dominican Republic,"Cultura, pessoas boas",Dominican Republic
+Brazil,0,3,0,2.5,Mexico,"Cultura, pessoas boas",604,Mexico,"Cultura, pessoas boas",Mexico
+Brazil,0,3,0,2.5,Chile,Usar artesanato.,604,Chile,Usar artesanato.,Chile
+Brazil,0,3,0,2.5,Mexico,Playita hermosa,604,Mexico,Playita hermosa,Mexico
+Brazil,0,3,0,2.5,Costa Rica,Playita hermosa,604,Costa Rica,Playita hermosa,Costa Rica
+Brazil,0,3,0,2.5,Spain,pessoas calorosas,604,Spain,pessoas calorosas,Spain
+Brazil,0,3,0,2.5,Argentina,"Futebol, messi, Mafalda, alfajor",604,Argentina,"Futebol, messi, Mafalda, alfajor",Argentina
+Brazil,0,3,0,2.5,Brazil,Democracia,604,Brazil,Democracia,Brazil
+Brazil,0,3,0,2.5,Brazil,Diversidade,604,Brazil,Diversidade,Brazil
+Brazil,0,3,0,2.5,Brazil,"Cultura, pessoas boas",604,Brazil,"Cultura, pessoas boas",Brazil
+Brazil,0,3,0,2.5,India,Violencia,604,India,Violencia,India
+Brazil,0,3,0,2.5,Brazil,diversidad cultural,604,Brazil,diversidad cultural,Brazil
+Brazil,0,3,0,2.5,DR Congo,diversidad cultural,604,DR Congo,diversidad cultural,DR Congo
+Brazil,0,3,0,2.5,India,diversidad cultural,604,India,diversidad cultural,India
+Brazil,0,3,0,2.5,Angola,migracion,604,Angola,migracion,Angola
+Brazil,0,3,0,2.5,Argentina,migracion,604,Argentina,migracion,Argentina
+Brazil,0,3,0,2.5,China,migracion,604,China,migracion,China
+Brazil,0,3,0,2.5,Congo Republic,migracion,604,Congo Republic,migracion,Congo Republic
+Brazil,0,3,0,2.5,Costa Rica,migracion,604,Costa Rica,migracion,Costa Rica
+Brazil,0,3,0,2.5,Egypt,migracion,604,Egypt,migracion,Egypt
+Brazil,0,3,0,2.5,France,migracion,604,France,migracion,France
+Brazil,0,3,0,2.5,Germany,migracion,604,Germany,migracion,Germany
+Brazil,0,3,0,2.5,Haiti,migracion,604,Haiti,migracion,Haiti
+Brazil,0,3,0,2.5,Mexico,comida picante,604,Mexico,comida picante,Mexico
+France,0,3,0,2.5,France,En Francia la gente huele mal,39,France,En Francia la gente huele mal,France
+Brazil,0,3,0,2.5,Bolivia,O brasil tem lugares lindos,604,Bolivia,O brasil tem lugares lindos,Bolivia
+Brazil,0,3,0,2.5,Chile,O brasil tem lugares lindos,604,Chile,O brasil tem lugares lindos,Chile
+Brazil,0,3,0,2.5,China,O brasil tem lugares lindos,604,China,O brasil tem lugares lindos,China
+Brazil,0,3,0,2.5,Colombia,O brasil tem lugares lindos,604,Colombia,O brasil tem lugares lindos,Colombia
+Brazil,0,3,0,2.5,Costa Rica,O brasil tem lugares lindos,604,Costa Rica,O brasil tem lugares lindos,Costa Rica
+Brazil,0,3,0,2.5,Denmark,O brasil tem lugares lindos,604,Denmark,O brasil tem lugares lindos,Denmark
+Brazil,0,3,0,2.5,Egypt,O brasil tem lugares lindos,604,Egypt,O brasil tem lugares lindos,Egypt
+Brazil,0,3,0,2.5,Cuba,Alegria,604,Cuba,Alegria,Cuba
+Brazil,0,3,0,2.5,Costa Rica,Alegria,604,Costa Rica,Alegria,Costa Rica
+Brazil,0,3,0,2.5,Mexico,Alegria,604,Mexico,Alegria,Mexico
+Brazil,0,3,0,2.5,Peru,Alegria,604,Peru,Alegria,Peru
+Brazil,0,3,0,2.5,Spain,Alegria,604,Spain,Alegria,Spain
+Brazil,0,3,0,2.5,Greece,Brasil lugares bonitos,604,Greece,Brasil lugares bonitos,Greece
+Brazil,0,3,0,2.5,Indonesia,Brasil lugares bonitos,604,Indonesia,Brasil lugares bonitos,Indonesia
+Brazil,0,3,0,2.5,Maldives,Brasil lugares bonitos,604,Maldives,Brasil lugares bonitos,Maldives
+Brazil,0,3,0,2.5,Angola,África,604,Angola,África,Angola
+Brazil,0,3,0,2.5,Benin,África,604,Benin,África,Benin
+Brazil,0,3,0,2.5,Bhutan,África,604,Bhutan,África,Bhutan
+Brazil,0,3,0,2.5,Botswana,África,604,Botswana,África,Botswana
+Brazil,0,3,0,2.5,Central African Republic,África,604,Central African Republic,África,Central African Republic
+Brazil,0,3,0,2.5,Cameroon,África,604,Cameroon,África,Cameroon
+Brazil,0,3,0,2.5,Cambodia,África,604,Cambodia,África,Cambodia
+Brazil,0,3,0,2.5,Comoros,África,604,Comoros,África,Comoros
+Brazil,0,3,0,2.5,Congo Republic,África,604,Congo Republic,África,Congo Republic
+Brazil,0,3,0,2.5,DR Congo,África,604,DR Congo,África,DR Congo
+Brazil,0,3,0,2.5,Egypt,África,604,Egypt,África,Egypt
+Brazil,0,3,0,2.5,Mexico,"buena musica, malas novelas",604,Mexico,"buena musica, malas novelas",Mexico
+Brazil,0,3,0,2.5,Uruguay,tienen costumbres muy parecidas a las de Argentina,604,Uruguay,tienen costumbres muy parecidas a las de Argentina,Uruguay
+Brazil,0,3,0,2.5,Paraguay,tienen costumbres muy parecidas a las de Argentina,604,Paraguay,tienen costumbres muy parecidas a las de Argentina,Paraguay
+Brazil,0,3,0,2.5,Brazil,hospitalidad turística,604,Brazil,hospitalidad turística,Brazil
+Brazil,0,3,0,2.5,Afghanistan,Racismo,604,Afghanistan,Racismo,Afghanistan
+Brazil,0,3,0,2.5,Andorra,Racismo,604,Andorra,Racismo,Andorra
+Brazil,0,3,0,2.5,Bosnia and Herzegovina,Racismo,604,Bosnia and Herzegovina,Racismo,Bosnia and Herzegovina
+Brazil,0,3,0,2.5,France,Racismo,604,France,Racismo,France
+Brazil,0,3,0,2.5,Germany,Racismo,604,Germany,Racismo,Germany
+Brazil,0,3,0,2.5,Iran,Racismo,604,Iran,Racismo,Iran
+Brazil,0,3,0,2.5,Ireland,Racismo,604,Ireland,Racismo,Ireland
+Brazil,0,3,0,2.5,Japan,Racismo,604,Japan,Racismo,Japan
+Brazil,0,3,0,2.5,Kuwait,Racismo,604,Kuwait,Racismo,Kuwait
+Brazil,0,3,0,2.5,Liechtenstein,Racismo,604,Liechtenstein,Racismo,Liechtenstein
+Brazil,0,3,0,2.5,Finland,Racismo,604,Finland,Racismo,Finland
+Brazil,0,3,0,2.5,Portugal,Racismo,604,Portugal,Racismo,Portugal
+Brazil,0,3,0,2.5,Sweden,Racismo,604,Sweden,Racismo,Sweden
+Brazil,0,3,0,2.5,United States,Racismo,604,United States,Racismo,United States
+Brazil,0,3,0,2.5,United Kingdom,Racismo,604,United Kingdom,Racismo,United Kingdom
+Brazil,0,3,0,2.5,Argentina,Brasil é um lugar de muitas personalidades,604,Argentina,Brasil é um lugar de muitas personalidades,Argentina
+Brazil,0,3,0,2.5,Australia,Brasil é um lugar de muitas personalidades,604,Australia,Brasil é um lugar de muitas personalidades,Australia
+Brazil,0,3,0,2.5,Colombia,Brasil é um lugar de muitas personalidades,604,Colombia,Brasil é um lugar de muitas personalidades,Colombia
+Brazil,0,3,0,2.5,Italy,Brasil é um lugar de muitas personalidades,604,Italy,Brasil é um lugar de muitas personalidades,Italy
+Brazil,0,3,0,2.5,Mexico,Brasil é um lugar de muitas personalidades,604,Mexico,Brasil é um lugar de muitas personalidades,Mexico
+Brazil,0,3,0,2.5,Brazil,Boas novelas,604,Brazil,Boas novelas,Brazil
+Brazil,0,3,0,2.5,Angola,África,604,Angola,África,Angola
+Brazil,0,3,0,2.5,Benin,África,604,Benin,África,Benin
+Brazil,0,3,0,2.5,Cabo Verde,África,604,Cabo Verde,África,Cabo Verde
+Brazil,0,3,0,2.5,Congo Republic,África,604,Congo Republic,África,Congo Republic
+Brazil,0,3,0,2.5,DR Congo,África,604,DR Congo,África,DR Congo
+Brazil,0,3,0,2.5,Egypt,África,604,Egypt,África,Egypt
+Brazil,0,3,0,2.5,Panama,buena rumbita,604,Panama,buena rumbita,Panama
+Brazil,0,3,0,2.5,Kazakhstan,fe y religiosidad,604,Kazakhstan,fe y religiosidad,Kazakhstan
+Brazil,0,3,0,2.5,United Arab Emirates,fe y religiosidad,604,United Arab Emirates,fe y religiosidad,United Arab Emirates
+Brazil,0,3,0,2.5,Italy,fe y religiosidad,604,Italy,fe y religiosidad,Italy
+Brazil,0,3,0,2.5,Saudi Arabia,fe y religiosidad,604,Saudi Arabia,fe y religiosidad,Saudi Arabia
+Brazil,0,3,0,2.5,Argentina,buena carne,604,Argentina,buena carne,Argentina
+Brazil,0,3,0,2.5,Venezuela,migracion,604,Venezuela,migracion,Venezuela
+Brazil,0,3,0,2.5,Colombia,muy hermosas mujeres,604,Colombia,muy hermosas mujeres,Colombia
+Brazil,0,3,0,2.5,Argentina,Ditadura,604,Argentina,Ditadura,Argentina
+Brazil,0,3,0,2.5,Colombia,Violencia urbana; danza; colores,604,Colombia,Violencia urbana; danza; colores,Colombia
+Brazil,0,3,0,2.5,Mexico,Violencia urbana; danza; colores,604,Mexico,Violencia urbana; danza; colores,Mexico
+Brazil,0,3,0,2.5,Mexico,Salsas picantes,604,Mexico,Salsas picantes,Mexico
+Brazil,0,3,0,2.5,Ecuador,"Correa, delincuente",604,Ecuador,"Correa, delincuente",Ecuador

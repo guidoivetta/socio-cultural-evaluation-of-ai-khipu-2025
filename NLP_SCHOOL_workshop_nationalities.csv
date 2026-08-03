@@ -1,3 +1,1293 @@
 source_country,non_stereotype,stereotype,unsure,mean_offensive_score,identity,attribute,row_count,translated_identity,translated_attribute_list,identity_country_name
-Argentina,0,3,0,2.5,United States,engreídos,12829,United States,engreídos,United States
-Argentina,0,3,0,2.5,Peru,Costumbres,12829,Peru,Costumbres,Peru
+Argentina,0,3,0,2.5,Switzerland,Las mujeres de Cuba tienen el mismo color de piel que las de Brasil.,1030,Switzerland,Las mujeres de Cuba tienen el mismo color de piel que las de Brasil.,Switzerland
+Argentina,0,3,0,2.5,Argentina,Fiesteros,1030,Argentina,Fiesteros,Argentina
+Argentina,0,3,0,2.5,Mexico,Felicidad,1030,Mexico,Felicidad,Mexico
+Peru,0,3,0,2.5,Peru,Economía,20,Peru,Economía,Peru
+Argentina,0,3,0,2.5,Germany,severidad,1030,Germany,severidad,Germany
+Argentina,0,3,0,2.5,Germany,autoritarismo,1030,Germany,autoritarismo,Germany
+Argentina,0,3,0,2.5,Argentina,Chantas,1030,Argentina,Chantas,Argentina
+Argentina,0,3,0,2.5,Argentina,Mate,1030,Argentina,Mate,Argentina
+Argentina,0,3,0,2.5,Argentina,asado,1030,Argentina,asado,Argentina
+Argentina,0,3,0,2.5,Argentina,empanadas,1030,Argentina,empanadas,Argentina
+Argentina,0,3,0,2.5,Argentina,folklore,1030,Argentina,folklore,Argentina
+Argentina,0,3,0,2.5,Argentina,tango,1030,Argentina,tango,Argentina
+Argentina,0,3,0,2.5,Argentina,cumbia,1030,Argentina,cumbia,Argentina
+Argentina,0,3,0,2.5,Italy,Cocina,1030,Italy,Cocina,Italy
+Argentina,0,3,0,2.5,Italy,pastas,1030,Italy,pastas,Italy
+Argentina,0,3,0,2.5,China,Comen perros,1030,China,Comen perros,China
+Argentina,0,3,0,2.5,Argentina,tranquilidad,1030,Argentina,tranquilidad,Argentina
+Argentina,0,3,0,2.5,Paraguay,Hace mucho calor,1030,Paraguay,Hace mucho calor,Paraguay
+Argentina,0,3,0,2.5,Mexico,Festivo,1030,Mexico,Festivo,Mexico
+Argentina,0,3,0,2.5,Germany,Rígidos,1030,Germany,Rígidos,Germany
+Argentina,0,3,0,2.5,Australia,deporte,1030,Australia,deporte,Australia
+Argentina,0,3,0,2.5,Monaco,Frío,1030,Monaco,Frío,Monaco
+Argentina,0,3,0,2.5,Argentina,alegres,1030,Argentina,alegres,Argentina
+Peru,0,3,0,2.5,Peru,Riqueza,20,Peru,Riqueza,Peru
+Argentina,0,3,0,2.5,Russia,Alcoholismo,1030,Russia,Alcoholismo,Russia
+Argentina,0,3,0,2.5,Uruguay,mentirosos,1030,Uruguay,mentirosos,Uruguay
+Argentina,0,3,0,2.5,India,Inteligentes,1030,India,Inteligentes,India
+Argentina,0,3,0,2.5,Argentina,Egolatra,1030,Argentina,Egolatra,Argentina
+Argentina,0,3,0,2.5,Argentina,presumido,1030,Argentina,presumido,Argentina
+Uruguay,0,3,0,2.5,Uruguay,Humilde,160,Uruguay,Humilde,Uruguay
+Argentina,0,3,0,2.5,Iraq,fundamentalistas,1030,Iraq,fundamentalistas,Iraq
+Argentina,0,3,0,2.5,Iraq,asesinos,1030,Iraq,asesinos,Iraq
+Argentina,0,3,0,2.5,Argentina,fútbol,1030,Argentina,fútbol,Argentina
+Argentina,0,3,0,2.5,Argentina,gloria,1030,Argentina,gloria,Argentina
+Argentina,0,3,0,2.5,Switzerland,Sionismo,1030,Switzerland,Sionismo,Switzerland
+Argentina,0,3,0,2.5,Colombia,Fiesteros,1030,Colombia,Fiesteros,Colombia
+Argentina,0,3,0,2.5,Colombia,alegres,1030,Colombia,alegres,Colombia
+Peru,0,3,0,2.5,Brazil,Fútbol,20,Brazil,Fútbol,Brazil
+Argentina,0,3,0,2.5,Croatia,fríos,1030,Croatia,fríos,Croatia
+Argentina,0,3,0,2.5,South Korea,Anime,1030,South Korea,Anime,South Korea
+Argentina,0,3,0,2.5,South Korea,videojuegos,1030,South Korea,videojuegos,South Korea
+Argentina,0,3,0,2.5,South Korea,respeto,1030,South Korea,respeto,South Korea
+Argentina,0,3,0,2.5,Bolivia,trabajador,1030,Bolivia,trabajador,Bolivia
+Argentina,0,3,0,2.5,Bolivia,verdulero,1030,Bolivia,verdulero,Bolivia
+Argentina,0,3,0,2.5,Chile,orden,1030,Chile,orden,Chile
+Uruguay,0,3,0,2.5,Central African Republic,pobreza,160,Central African Republic,pobreza,Central African Republic
+Uruguay,0,3,0,2.5,Central African Republic,falta de agua,160,Central African Republic,falta de agua,Central African Republic
+Uruguay,0,3,0,2.5,Central African Republic,sequía,160,Central African Republic,sequía,Central African Republic
+Uruguay,0,3,0,2.5,Central African Republic,piel negra,160,Central African Republic,piel negra,Central African Republic
+Uruguay,0,3,0,2.5,Central African Republic,mucho Sol,160,Central African Republic,mucho Sol,Central African Republic
+Uruguay,0,3,0,2.5,Central African Republic,safari,160,Central African Republic,safari,Central African Republic
+Chile,0,3,0,2.5,Brazil,fiesta,44,Brazil,fiesta,Brazil
+Argentina,0,3,0,2.5,Argentina,quilombero,1030,Argentina,quilombero,Argentina
+Argentina,0,3,0,2.5,Argentina,solidarios,1030,Argentina,solidarios,Argentina
+Argentina,0,3,0,2.5,Argentina,talentosos,1030,Argentina,talentosos,Argentina
+Argentina,0,3,0,2.5,Argentina,audaces,1030,Argentina,audaces,Argentina
+Argentina,0,3,0,2.5,Argentina,simpáticos,1030,Argentina,simpáticos,Argentina
+Argentina,0,3,0,2.5,Argentina,orgullosos,1030,Argentina,orgullosos,Argentina
+Argentina,0,3,0,2.5,Argentina,creídos,1030,Argentina,creídos,Argentina
+Argentina,0,3,0,2.5,Italy,La buena comida,1030,Italy,La buena comida,Italy
+Uruguay,0,3,0,2.5,Brazil,Pobreza,160,Brazil,Pobreza,Brazil
+Argentina,0,3,0,2.5,Argentina,fernet,1030,Argentina,fernet,Argentina
+Argentina,0,3,0,2.5,Uruguay,Humildad,1030,Uruguay,Humildad,Uruguay
+Argentina,0,3,0,2.5,Egypt,Antiguo,1030,Egypt,Antiguo,Egypt
+Argentina,0,3,0,2.5,Cuba,Pobreza,1030,Cuba,Pobreza,Cuba
+Chile,0,3,0,2.5,Chile,Creativos,44,Chile,Creativos,Chile
+Argentina,0,3,0,2.5,Brazil,Alegres,1030,Brazil,Alegres,Brazil
+France,0,3,0,2.5,Switzerland,racista,22,Switzerland,racista,Switzerland
+France,0,3,0,2.5,Switzerland,chocolate,22,Switzerland,chocolate,Switzerland
+France,0,3,0,2.5,Switzerland,reloj,22,Switzerland,reloj,Switzerland
+France,0,3,0,2.5,Switzerland,ricos (con plata),22,Switzerland,ricos (con plata),Switzerland
+Argentina,0,3,0,2.5,Peru,Musica,1030,Peru,Musica,Peru
+Argentina,0,3,0,2.5,Peru,cultura,1030,Peru,cultura,Peru
+Argentina,0,3,0,2.5,Peru,baile,1030,Peru,baile,Peru
+Argentina,0,3,0,2.5,Argentina,Futbol,1030,Argentina,Futbol,Argentina
+Argentina,0,3,0,2.5,Qatar,Religión,1030,Qatar,Religión,Qatar
+Argentina,0,3,0,2.5,Uruguay,Depresión,1030,Uruguay,Depresión,Uruguay
+Argentina,0,3,0,2.5,Uruguay,Suicidio,1030,Uruguay,Suicidio,Uruguay
+Argentina,0,3,0,2.5,Uruguay,Tranquilidad,1030,Uruguay,Tranquilidad,Uruguay
+Argentina,0,3,0,2.5,Uruguay,Lentitud,1030,Uruguay,Lentitud,Uruguay
+Argentina,0,3,0,2.5,Austria,salchichas,1030,Austria,salchichas,Austria
+Argentina,0,3,0,2.5,Austria,cerveza,1030,Austria,cerveza,Austria
+Argentina,0,3,0,2.5,Argentina,Intensos,1030,Argentina,Intensos,Argentina
+Argentina,0,3,0,2.5,Argentina,confianzudos,1030,Argentina,confianzudos,Argentina
+Argentina,0,3,0,2.5,Bolivia,Tranquilidad,1030,Bolivia,Tranquilidad,Bolivia
+Argentina,0,3,0,2.5,Bolivia,Pobreza,1030,Bolivia,Pobreza,Bolivia
+Argentina,0,3,0,2.5,Bolivia,Empleo  doméstico,1030,Bolivia,Empleo  doméstico,Bolivia
+Argentina,0,3,0,2.5,Bolivia,Indígena,1030,Bolivia,Indígena,Bolivia
+Argentina,0,3,0,2.5,Bolivia,Suciedad,1030,Bolivia,Suciedad,Bolivia
+Argentina,0,3,0,2.5,Bolivia,Timidez,1030,Bolivia,Timidez,Bolivia
+Argentina,0,3,0,2.5,Bolivia,Borrachos,1030,Bolivia,Borrachos,Bolivia
+Uruguay,0,3,0,2.5,Chile,Dialecto,160,Chile,Dialecto,Chile
+Argentina,0,3,0,2.5,Argentina,solidaridad,1030,Argentina,solidaridad,Argentina
+Chile,0,3,0,2.5,Brazil,Celebraciones,44,Brazil,Celebraciones,Brazil
+Argentina,0,3,0,2.5,Argentina,inclusivo,1030,Argentina,inclusivo,Argentina
+Argentina,0,3,0,2.5,Argentina,futbolero,1030,Argentina,futbolero,Argentina
+Argentina,0,3,0,2.5,Uruguay,Mate,1030,Uruguay,Mate,Uruguay
+Argentina,0,3,0,2.5,Uruguay,Calidos,1030,Uruguay,Calidos,Uruguay
+Argentina,0,3,0,2.5,Spain,pocas luces,1030,Spain,pocas luces,Spain
+Argentina,0,3,0,2.5,Switzerland,reloj,1030,Switzerland,reloj,Switzerland
+Argentina,0,3,0,2.5,Uruguay,tranquilidad,1030,Uruguay,tranquilidad,Uruguay
+Argentina,0,3,0,2.5,Argentina,Vida rápida,1030,Argentina,Vida rápida,Argentina
+Uruguay,0,3,0,2.5,Uruguay,Mate,160,Uruguay,Mate,Uruguay
+Argentina,0,3,0,2.5,Dominican Republic,Música,1030,Dominican Republic,Música,Dominican Republic
+Argentina,0,3,0,2.5,Chile,literatura,1030,Chile,literatura,Chile
+Argentina,0,3,0,2.5,Haiti,Pobreza,1030,Haiti,Pobreza,Haiti
+Argentina,0,3,0,2.5,Switzerland,Ricos,1030,Switzerland,Ricos,Switzerland
+Argentina,0,3,0,2.5,Mali,Pobreza,1030,Mali,Pobreza,Mali
+Argentina,0,3,0,2.5,Argentina,Calidez,1030,Argentina,Calidez,Argentina
+Argentina,0,3,0,2.5,Argentina,Ron,1030,Argentina,Ron,Argentina
+Argentina,0,3,0,2.5,Greece,aceitunas,1030,Greece,aceitunas,Greece
+Argentina,0,3,0,2.5,Switzerland,Rico,1030,Switzerland,Rico,Switzerland
+Argentina,0,3,0,2.5,Argentina,Inclusivo,1030,Argentina,Inclusivo,Argentina
+Argentina,0,3,0,2.5,Argentina,nacionalismo,1030,Argentina,nacionalismo,Argentina
+Argentina,0,3,0,2.5,Argentina,Capos,1030,Argentina,Capos,Argentina
+Argentina,0,3,0,2.5,Argentina,agrandados,1030,Argentina,agrandados,Argentina
+Uruguay,0,3,0,2.5,Uruguay,Tranquilo,160,Uruguay,Tranquilo,Uruguay
+Chile,0,3,0,2.5,Chile,Buenos para las bromas,44,Chile,Buenos para las bromas,Chile
+Argentina,0,3,0,2.5,United Kingdom,serios,1030,United Kingdom,serios,United Kingdom
+Argentina,0,3,0,2.5,United Kingdom,fríos,1030,United Kingdom,fríos,United Kingdom
+Argentina,0,3,0,2.5,United Kingdom,antipáticos,1030,United Kingdom,antipáticos,United Kingdom
+Argentina,0,3,0,2.5,Argentina,futbol,1030,Argentina,futbol,Argentina
+Argentina,0,3,0,2.5,Argentina,corrupcion,1030,Argentina,corrupcion,Argentina
+Argentina,0,3,0,2.5,Chile,Resentidos,1030,Chile,Resentidos,Chile
+Argentina,0,3,0,2.5,Chile,frio,1030,Chile,frio,Chile
+Argentina,0,3,0,2.5,Chile,montaña,1030,Chile,montaña,Chile
+Argentina,0,3,0,2.5,China,Sobrepoblación,1030,China,Sobrepoblación,China
+Argentina,0,3,0,2.5,China,1 solo hijo,1030,China,1 solo hijo,China
+Argentina,0,3,0,2.5,China,arroz,1030,China,arroz,China
+Argentina,0,3,0,2.5,China,soja,1030,China,soja,China
+Argentina,0,3,0,2.5,China,grande,1030,China,grande,China
+Argentina,0,3,0,2.5,China,ojos achinados,1030,China,ojos achinados,China
+Argentina,0,3,0,2.5,China,comen perros y bichos,1030,China,comen perros y bichos,China
+Argentina,0,3,0,2.5,China,cultura mileranria,1030,China,cultura mileranria,China
+Argentina,0,3,0,2.5,China,tecnologia,1030,China,tecnologia,China
+Argentina,0,3,0,2.5,Argentina,Creido,1030,Argentina,Creido,Argentina
+Argentina,0,3,0,2.5,Argentina,Narigon,1030,Argentina,Narigon,Argentina
+Argentina,0,3,0,2.5,Argentina,Charlatanes,1030,Argentina,Charlatanes,Argentina
+Argentina,0,3,0,2.5,Argentina,rosario central,1030,Argentina,rosario central,Argentina
+Argentina,0,3,0,2.5,Mexico,Petisos,1030,Mexico,Petisos,Mexico
+Argentina,0,3,0,2.5,Indonesia,Subdesarrollo,1030,Indonesia,Subdesarrollo,Indonesia
+Argentina,0,3,0,2.5,Paraguay,terere de verano,1030,Paraguay,terere de verano,Paraguay
+Chile,0,3,0,2.5,Chile,flojos,44,Chile,flojos,Chile
+Argentina,0,3,0,2.5,Ecuador,Futbol,1030,Ecuador,Futbol,Ecuador
+Argentina,0,3,0,2.5,Ecuador,amar la musica,1030,Ecuador,amar la musica,Ecuador
+Argentina,0,3,0,2.5,Italy,pizza,1030,Italy,pizza,Italy
+Argentina,0,3,0,2.5,Argentina,afectuosos,1030,Argentina,afectuosos,Argentina
+Argentina,0,3,0,2.5,Argentina,Solidaridad,1030,Argentina,Solidaridad,Argentina
+Argentina,0,3,0,2.5,Argentina,amistad,1030,Argentina,amistad,Argentina
+Argentina,0,3,0,2.5,Argentina,cultura,1030,Argentina,cultura,Argentina
+Uruguay,0,3,0,2.5,Switzerland,Pudientes,160,Switzerland,Pudientes,Switzerland
+Argentina,0,3,0,2.5,Argentina,marchas,1030,Argentina,marchas,Argentina
+Argentina,0,3,0,2.5,Argentina,Narigones,1030,Argentina,Narigones,Argentina
+Uruguay,0,3,0,2.5,Uruguay,Confiado,160,Uruguay,Confiado,Uruguay
+Argentina,0,3,0,2.5,Argentina,Solidaridad,1030,Argentina,Solidaridad,Argentina
+Argentina,0,3,0,2.5,Argentina,divertido,1030,Argentina,divertido,Argentina
+Peru,0,3,0,2.5,Peru,Comida,20,Peru,Comida,Peru
+Argentina,0,3,0,2.5,Brazil,Bailarines,1030,Brazil,Bailarines,Brazil
+Argentina,0,3,0,2.5,Argentina,Altaneros,1030,Argentina,Altaneros,Argentina
+Argentina,0,3,0,2.5,Canada,inteligencia artificial,1030,Canada,inteligencia artificial,Canada
+Argentina,0,3,0,2.5,Portugal,turismo,1030,Portugal,turismo,Portugal
+Argentina,0,3,0,2.5,Brazil,alegre,1030,Brazil,alegre,Brazil
+Argentina,0,3,0,2.5,Brazil,habilidoso,1030,Brazil,habilidoso,Brazil
+Argentina,0,3,0,2.5,Brazil,atlético,1030,Brazil,atlético,Brazil
+Argentina,0,3,0,2.5,Brazil,relajado,1030,Brazil,relajado,Brazil
+Argentina,0,3,0,2.5,Japan,prolijidad,1030,Japan,prolijidad,Japan
+Argentina,0,3,0,2.5,Uruguay,tranquilos,1030,Uruguay,tranquilos,Uruguay
+Argentina,0,3,0,2.5,Uruguay,aburridos,1030,Uruguay,aburridos,Uruguay
+Argentina,0,3,0,2.5,Jamaica,reggae,1030,Jamaica,reggae,Jamaica
+Argentina,0,3,0,2.5,Argentina,simpatía,1030,Argentina,simpatía,Argentina
+Argentina,0,3,0,2.5,Argentina,calidez,1030,Argentina,calidez,Argentina
+Argentina,0,3,0,2.5,Argentina,agrandados,1030,Argentina,agrandados,Argentina
+Argentina,0,3,0,2.5,Israel,Judios,1030,Israel,Judios,Israel
+Uruguay,0,3,0,2.5,Uruguay,Depresión,160,Uruguay,Depresión,Uruguay
+Argentina,0,3,0,2.5,Brazil,Extrovertido,1030,Brazil,Extrovertido,Brazil
+Argentina,0,3,0,2.5,Peru,Chantas,1030,Peru,Chantas,Peru
+Argentina,0,3,0,2.5,Cuba,Internacionales,1030,Cuba,Internacionales,Cuba
+Uruguay,0,3,0,2.5,Spain,Tradicionalistas,160,Spain,Tradicionalistas,Spain
+Argentina,0,3,0,2.5,Mexico,Baja estatura,1030,Mexico,Baja estatura,Mexico
+Argentina,0,3,0,2.5,Mexico,Malos futbolistas,1030,Mexico,Malos futbolistas,Mexico
+Argentina,0,3,0,2.5,Argentina,el vocabulario floreado,1030,Argentina,el vocabulario floreado,Argentina
+Uruguay,0,3,0,2.5,Japan,Inteligentes,160,Japan,Inteligentes,Japan
+Argentina,0,3,0,2.5,Argentina,racismo,1030,Argentina,racismo,Argentina
+Argentina,0,3,0,2.5,Argentina,guerra,1030,Argentina,guerra,Argentina
+Argentina,0,3,0,2.5,Argentina,discriminación,1030,Argentina,discriminación,Argentina
+Argentina,0,3,0,2.5,Argentina,mala educación,1030,Argentina,mala educación,Argentina
+Argentina,0,3,0,2.5,Argentina,egoísmo,1030,Argentina,egoísmo,Argentina
+Argentina,0,3,0,2.5,Argentina,béisbol,1030,Argentina,béisbol,Argentina
+Argentina,0,3,0,2.5,Argentina,fútbol americano,1030,Argentina,fútbol americano,Argentina
+Argentina,0,3,0,2.5,Argentina,basket,1030,Argentina,basket,Argentina
+Argentina,0,3,0,2.5,Argentina,películas,1030,Argentina,películas,Argentina
+Argentina,0,3,0,2.5,Colombia,Mesetas,1030,Colombia,Mesetas,Colombia
+Argentina,0,3,0,2.5,Colombia,crimen,1030,Colombia,crimen,Colombia
+Argentina,0,3,0,2.5,Costa Rica,comen arroz,1030,Costa Rica,comen arroz,Costa Rica
+France,0,3,0,2.5,United States,tontos,22,United States,tontos,United States
+France,0,3,0,2.5,United States,ignorantes,22,United States,ignorantes,United States
+France,0,3,0,2.5,United States,sin cultura,22,United States,sin cultura,United States
+Argentina,0,3,0,2.5,India,Sucio,1030,India,Sucio,India
+Argentina,0,3,0,2.5,United States,consumismo,1030,United States,consumismo,United States
+Argentina,0,3,0,2.5,Argentina,asado,1030,Argentina,asado,Argentina
+Argentina,0,3,0,2.5,Argentina,Ladrones,1030,Argentina,Ladrones,Argentina
+Peru,0,3,0,2.5,Italy,Pasta,20,Italy,Pasta,Italy
+Argentina,0,3,0,2.5,DR Congo,violencia,1030,DR Congo,violencia,DR Congo
+Argentina,0,3,0,2.5,Italy,Pasta,1030,Italy,Pasta,Italy
+Argentina,0,3,0,2.5,Italy,Futbol,1030,Italy,Futbol,Italy
+Argentina,0,3,0,2.5,Italy,Mafia,1030,Italy,Mafia,Italy
+Argentina,0,3,0,2.5,Argentina,engreidos,1030,Argentina,engreidos,Argentina
+Chile,0,3,0,2.5,Colombia,almuerzos grandes,44,Colombia,almuerzos grandes,Colombia
+Argentina,0,3,0,2.5,Argentina,pasión,1030,Argentina,pasión,Argentina
+Argentina,0,3,0,2.5,Argentina,Directo,1030,Argentina,Directo,Argentina
+Argentina,0,3,0,2.5,Argentina,sincero,1030,Argentina,sincero,Argentina
+Argentina,0,3,0,2.5,Argentina,agrandados,1030,Argentina,agrandados,Argentina
+Argentina,0,3,0,2.5,Argentina,mate,1030,Argentina,mate,Argentina
+Argentina,0,3,0,2.5,Switzerland,puntualidad,1030,Switzerland,puntualidad,Switzerland
+Uruguay,0,3,0,2.5,Guinea-Bissau,sequía,160,Guinea-Bissau,sequía,Guinea-Bissau
+Uruguay,0,3,0,2.5,Guinea-Bissau,calor,160,Guinea-Bissau,calor,Guinea-Bissau
+Uruguay,0,3,0,2.5,Guinea-Bissau,falta de agua,160,Guinea-Bissau,falta de agua,Guinea-Bissau
+Uruguay,0,3,0,2.5,Guinea-Bissau,baja expectativa de vida,160,Guinea-Bissau,baja expectativa de vida,Guinea-Bissau
+Uruguay,0,3,0,2.5,Guinea-Bissau,color de piel,160,Guinea-Bissau,color de piel,Guinea-Bissau
+Uruguay,0,3,0,2.5,Guinea-Bissau,tez negra,160,Guinea-Bissau,tez negra,Guinea-Bissau
+Uruguay,0,3,0,2.5,Guinea-Bissau,desnutrición,160,Guinea-Bissau,desnutrición,Guinea-Bissau
+Argentina,0,3,0,2.5,Argentina,crisis economica,1030,Argentina,crisis economica,Argentina
+Argentina,0,3,0,2.5,Germany,reglas,1030,Germany,reglas,Germany
+Argentina,0,3,0,2.5,Germany,autoritarismo,1030,Germany,autoritarismo,Germany
+Argentina,0,3,0,2.5,Germany,frialdad,1030,Germany,frialdad,Germany
+Argentina,0,3,0,2.5,Dominica,queso,1030,Dominica,queso,Dominica
+Argentina,0,3,0,2.5,Dominica,chocolate,1030,Dominica,chocolate,Dominica
+Argentina,0,3,0,2.5,Dominica,banco,1030,Dominica,banco,Dominica
+Argentina,0,3,0,2.5,Dominica,neutralidad,1030,Dominica,neutralidad,Dominica
+Argentina,0,3,0,2.5,Dominica,democracia,1030,Dominica,democracia,Dominica
+Argentina,0,3,0,2.5,Dominica,estado de bienestar,1030,Dominica,estado de bienestar,Dominica
+Argentina,0,3,0,2.5,Dominica,buena calidad de vida,1030,Dominica,buena calidad de vida,Dominica
+Argentina,0,3,0,2.5,Argentina,buen público,1030,Argentina,buen público,Argentina
+Argentina,0,3,0,2.5,Germany,discriminación,1030,Germany,discriminación,Germany
+Argentina,0,3,0,2.5,Argentina,Amistoso,1030,Argentina,Amistoso,Argentina
+Argentina,0,3,0,2.5,Argentina,pobre,1030,Argentina,pobre,Argentina
+Argentina,0,3,0,2.5,Brazil,comida tradicional,1030,Brazil,comida tradicional,Brazil
+Argentina,0,3,0,2.5,Argentina,Ventajistas,1030,Argentina,Ventajistas,Argentina
+Argentina,0,3,0,2.5,Argentina,Narigon,1030,Argentina,Narigon,Argentina
+Argentina,0,3,0,2.5,Argentina,universidad,1030,Argentina,universidad,Argentina
+Uruguay,0,3,0,2.5,Uruguay,Tranquilos,160,Uruguay,Tranquilos,Uruguay
+Argentina,0,3,0,2.5,Germany,racistas,1030,Germany,racistas,Germany
+Argentina,0,3,0,2.5,Germany,xonófobos,1030,Germany,xonófobos,Germany
+Argentina,0,3,0,2.5,Germany,tímidos,1030,Germany,tímidos,Germany
+Argentina,0,3,0,2.5,Brazil,futbol,1030,Brazil,futbol,Brazil
+Argentina,0,3,0,2.5,Brazil,caipiriña,1030,Brazil,caipiriña,Brazil
+Argentina,0,3,0,2.5,Brazil,playas,1030,Brazil,playas,Brazil
+Argentina,0,3,0,2.5,Brazil,sungas,1030,Brazil,sungas,Brazil
+Argentina,0,3,0,2.5,Brazil,danza,1030,Brazil,danza,Brazil
+Argentina,0,3,0,2.5,Brazil,capoeira,1030,Brazil,capoeira,Brazil
+Argentina,0,3,0,2.5,Mexico,comida picante,1030,Mexico,comida picante,Mexico
+Argentina,0,3,0,2.5,Bolivia,Pobreza,1030,Bolivia,Pobreza,Bolivia
+Chile,0,3,0,2.5,Chile,desigualdad,44,Chile,desigualdad,Chile
+Argentina,0,3,0,2.5,Mexico,historia,1030,Mexico,historia,Mexico
+Argentina,0,3,0,2.5,Mexico,picante,1030,Mexico,picante,Mexico
+Peru,0,3,0,2.5,Bolivia,Altura,20,Bolivia,Altura,Bolivia
+Argentina,0,3,0,2.5,Argentina,trabajo todo el tiempo,1030,Argentina,trabajo todo el tiempo,Argentina
+Chile,0,3,0,2.5,Australia,surf,44,Australia,surf,Australia
+Chile,0,3,0,2.5,Australia,sandalias,44,Australia,sandalias,Australia
+Uruguay,0,3,0,2.5,Uruguay,Depresivos,160,Uruguay,Depresivos,Uruguay
+Argentina,0,3,0,2.5,India,Sucios,1030,India,Sucios,India
+Argentina,0,3,0,2.5,Argentina,Solidaridad,1030,Argentina,Solidaridad,Argentina
+Argentina,0,3,0,2.5,Argentina,amistad,1030,Argentina,amistad,Argentina
+Argentina,0,3,0,2.5,Argentina,gloria,1030,Argentina,gloria,Argentina
+Argentina,0,3,0,2.5,Brazil,victimismo,1030,Brazil,victimismo,Brazil
+Uruguay,0,3,0,2.5,Norway,salmón,160,Norway,salmón,Norway
+Uruguay,0,3,0,2.5,Norway,pesca,160,Norway,pesca,Norway
+Argentina,0,3,0,2.5,Japan,tecnología,1030,Japan,tecnología,Japan
+Argentina,0,3,0,2.5,Chile,individualismo,1030,Chile,individualismo,Chile
+Uruguay,0,3,0,2.5,Italy,Violentos,160,Italy,Violentos,Italy
+Argentina,0,3,0,2.5,Colombia,cafe,1030,Colombia,cafe,Colombia
+Argentina,0,3,0,2.5,Peru,Comida,1030,Peru,Comida,Peru
+Argentina,0,3,0,2.5,Brazil,Chistosos,1030,Brazil,Chistosos,Brazil
+Argentina,0,3,0,2.5,Argentina,mate,1030,Argentina,mate,Argentina
+Argentina,0,3,0,2.5,Argentina,futbol,1030,Argentina,futbol,Argentina
+Chile,0,3,0,2.5,Chile,amables,44,Chile,amables,Chile
+Argentina,0,3,0,2.5,Argentina,toman mate,1030,Argentina,toman mate,Argentina
+Argentina,0,3,0,2.5,Argentina,Humor,1030,Argentina,Humor,Argentina
+Argentina,0,3,0,2.5,Israel,violentos,1030,Israel,violentos,Israel
+Argentina,0,3,0,2.5,Israel,fundamentalistas,1030,Israel,fundamentalistas,Israel
+Argentina,0,3,0,2.5,Afghanistan,censura,1030,Afghanistan,censura,Afghanistan
+Argentina,0,3,0,2.5,Switzerland,Chocolate,1030,Switzerland,Chocolate,Switzerland
+Argentina,0,3,0,2.5,Brazil,joda,1030,Brazil,joda,Brazil
+Argentina,0,3,0,2.5,Norway,Frio,1030,Norway,Frio,Norway
+Argentina,0,3,0,2.5,Italy,comida rica,1030,Italy,comida rica,Italy
+Argentina,0,3,0,2.5,Italy,moralidad dudosa,1030,Italy,moralidad dudosa,Italy
+Argentina,0,3,0,2.5,Bolivia,hojoa de Coca,1030,Bolivia,hojoa de Coca,Bolivia
+Argentina,0,3,0,2.5,Italy,pizza,1030,Italy,pizza,Italy
+Argentina,0,3,0,2.5,United Kingdom,Correctos,1030,United Kingdom,Correctos,United Kingdom
+Argentina,0,3,0,2.5,Germany,poco humor,1030,Germany,poco humor,Germany
+Argentina,0,3,0,2.5,Germany,severidad,1030,Germany,severidad,Germany
+Argentina,0,3,0,2.5,Germany,autoritarismo,1030,Germany,autoritarismo,Germany
+Argentina,0,3,0,2.5,Germany,prolijidad,1030,Germany,prolijidad,Germany
+Argentina,0,3,0,2.5,United States,Obesidad,1030,United States,Obesidad,United States
+Argentina,0,3,0,2.5,United States,Psicopatía,1030,United States,Psicopatía,United States
+Argentina,0,3,0,2.5,United States,Soberbia,1030,United States,Soberbia,United States
+Argentina,0,3,0,2.5,United States,Armas,1030,United States,Armas,United States
+Argentina,0,3,0,2.5,United States,Comida chatarra,1030,United States,Comida chatarra,United States
+Argentina,0,3,0,2.5,United States,Capitalismo,1030,United States,Capitalismo,United States
+Chile,0,3,0,2.5,Belgium,buenos para la cerveza,44,Belgium,buenos para la cerveza,Belgium
+Argentina,0,3,0,2.5,Argentina,orgullosos,1030,Argentina,orgullosos,Argentina
+Argentina,0,3,0,2.5,Brazil,festejo,1030,Brazil,festejo,Brazil
+Argentina,0,3,0,2.5,Argentina,muchas crisis economicas,1030,Argentina,muchas crisis economicas,Argentina
+Argentina,0,3,0,2.5,Afghanistan,Autoritario,1030,Afghanistan,Autoritario,Afghanistan
+Argentina,0,3,0,2.5,Argentina,mate,1030,Argentina,mate,Argentina
+Argentina,0,3,0,2.5,Oman,Diplomaticos,1030,Oman,Diplomaticos,Oman
+Argentina,0,3,0,2.5,Oman,musulmanes,1030,Oman,musulmanes,Oman
+Argentina,0,3,0,2.5,Colombia,Café,1030,Colombia,Café,Colombia
+Argentina,0,3,0,2.5,Argentina,inclusivo,1030,Argentina,inclusivo,Argentina
+Argentina,0,3,0,2.5,Argentina,chads,1030,Argentina,chads,Argentina
+Argentina,0,3,0,2.5,Mexico,Asquerosos,1030,Mexico,Asquerosos,Mexico
+Argentina,0,3,0,2.5,Mexico,envidiosos,1030,Mexico,envidiosos,Mexico
+Argentina,0,3,0,2.5,Mexico,maleducados,1030,Mexico,maleducados,Mexico
+Argentina,0,3,0,2.5,Mexico,creativos,1030,Mexico,creativos,Mexico
+Uruguay,0,3,0,2.5,Colombia,Cafeteros,160,Colombia,Cafeteros,Colombia
+Argentina,0,3,0,2.5,Egypt,historia antigua,1030,Egypt,historia antigua,Egypt
+Argentina,0,3,0,2.5,Chile,creidos,1030,Chile,creidos,Chile
+Argentina,0,3,0,2.5,Argentina,dulce de leche,1030,Argentina,dulce de leche,Argentina
+Argentina,0,3,0,2.5,Japan,sushi,1030,Japan,sushi,Japan
+Argentina,0,3,0,2.5,Argentina,calido,1030,Argentina,calido,Argentina
+Uruguay,0,3,0,2.5,Egypt,musulmán,160,Egypt,musulmán,Egypt
+Uruguay,0,3,0,2.5,Egypt,religión,160,Egypt,religión,Egypt
+Uruguay,0,3,0,2.5,Egypt,extremismo,160,Egypt,extremismo,Egypt
+Chile,0,3,0,2.5,Chile,buenos para reirse en grupo,44,Chile,buenos para reirse en grupo,Chile
+Argentina,0,3,0,2.5,Ukraine,Guerra,1030,Ukraine,Guerra,Ukraine
+Argentina,0,3,0,2.5,Argentina,divertidos,1030,Argentina,divertidos,Argentina
+Argentina,0,3,0,2.5,Argentina,Buena onda,1030,Argentina,Buena onda,Argentina
+Argentina,0,3,0,2.5,Argentina,simpáticos,1030,Argentina,simpáticos,Argentina
+Argentina,0,3,0,2.5,Argentina,familieros,1030,Argentina,familieros,Argentina
+Argentina,0,3,0,2.5,Italy,Pastas,1030,Italy,Pastas,Italy
+Argentina,0,3,0,2.5,Italy,carisma,1030,Italy,carisma,Italy
+Argentina,0,3,0,2.5,Italy,corrupción,1030,Italy,corrupción,Italy
+Argentina,0,3,0,2.5,Italy,expresividad,1030,Italy,expresividad,Italy
+Argentina,0,3,0,2.5,Italy,efusividad,1030,Italy,efusividad,Italy
+Argentina,0,3,0,2.5,Venezuela,dia de los muertos,1030,Venezuela,dia de los muertos,Venezuela
+Argentina,0,3,0,2.5,Spain,corrida de toros,1030,Spain,corrida de toros,Spain
+Argentina,0,3,0,2.5,Spain,turismo,1030,Spain,turismo,Spain
+Argentina,0,3,0,2.5,United States,tiroteos escolares,1030,United States,tiroteos escolares,United States
+Argentina,0,3,0,2.5,Afghanistan,censura,1030,Afghanistan,censura,Afghanistan
+Argentina,0,3,0,2.5,Argentina,mate,1030,Argentina,mate,Argentina
+Argentina,0,3,0,2.5,Argentina,futbol,1030,Argentina,futbol,Argentina
+Argentina,0,3,0,2.5,Argentina,arrogante,1030,Argentina,arrogante,Argentina
+Argentina,0,3,0,2.5,Argentina,amante de messi,1030,Argentina,amante de messi,Argentina
+Argentina,0,3,0,2.5,Argentina,charlatan,1030,Argentina,charlatan,Argentina
+Argentina,0,3,0,2.5,DR Congo,opresión,1030,DR Congo,opresión,DR Congo
+Argentina,0,3,0,2.5,France,creido,1030,France,creido,France
+Argentina,0,3,0,2.5,Peru,Traicioneros,1030,Peru,Traicioneros,Peru
+Uruguay,0,3,0,2.5,Uruguay,vacas,160,Uruguay,vacas,Uruguay
+Uruguay,0,3,0,2.5,Uruguay,campo,160,Uruguay,campo,Uruguay
+Argentina,0,3,0,2.5,Brazil,Música,1030,Brazil,Música,Brazil
+Argentina,0,3,0,2.5,Brazil,baile,1030,Brazil,baile,Brazil
+Argentina,0,3,0,2.5,Brazil,calor,1030,Brazil,calor,Brazil
+Argentina,0,3,0,2.5,Argentina,compañerismo,1030,Argentina,compañerismo,Argentina
+Argentina,0,3,0,2.5,Argentina,generosos,1030,Argentina,generosos,Argentina
+Argentina,0,3,0,2.5,Argentina,vanidosos,1030,Argentina,vanidosos,Argentina
+Argentina,0,3,0,2.5,Argentina,agrandados,1030,Argentina,agrandados,Argentina
+Argentina,0,3,0,2.5,Argentina,el mejor pais del mundo,1030,Argentina,el mejor pais del mundo,Argentina
+Argentina,0,3,0,2.5,Argentina,corrupcion,1030,Argentina,corrupcion,Argentina
+Argentina,0,3,0,2.5,Argentina,futbol,1030,Argentina,futbol,Argentina
+Argentina,0,3,0,2.5,Egypt,historico,1030,Egypt,historico,Egypt
+Chile,0,3,0,2.5,Japan,ordenado,44,Japan,ordenado,Japan
+Argentina,0,3,0,2.5,Argentina,Tango,1030,Argentina,Tango,Argentina
+Argentina,0,3,0,2.5,Denmark,gran calidad de vida,1030,Denmark,gran calidad de vida,Denmark
+Argentina,0,3,0,2.5,Venezuela,migrantes,1030,Venezuela,migrantes,Venezuela
+Argentina,0,3,0,2.5,Argentina,Cracks,1030,Argentina,Cracks,Argentina
+Argentina,0,3,0,2.5,Germany,nucleares,1030,Germany,nucleares,Germany
+Argentina,0,3,0,2.5,Argentina,Pasional,1030,Argentina,Pasional,Argentina
+Argentina,0,3,0,2.5,Italy,buena comida,1030,Italy,buena comida,Italy
+Argentina,0,3,0,2.5,Argentina,malvinas,1030,Argentina,malvinas,Argentina
+Argentina,0,3,0,2.5,Argentina,ciencia de calidad,1030,Argentina,ciencia de calidad,Argentina
+Argentina,0,3,0,2.5,Argentina,Pasión por los deportes,1030,Argentina,Pasión por los deportes,Argentina
+Argentina,0,3,0,2.5,Argentina,campeones,1030,Argentina,campeones,Argentina
+Argentina,0,3,0,2.5,Japan,Serios,1030,Japan,Serios,Japan
+Argentina,0,3,0,2.5,Japan,Mala ondas,1030,Japan,Mala ondas,Japan
+Argentina,0,3,0,2.5,Japan,Otakus,1030,Japan,Otakus,Japan
+Argentina,0,3,0,2.5,Argentina,mate,1030,Argentina,mate,Argentina
+Argentina,0,3,0,2.5,Argentina,egocéntrico,1030,Argentina,egocéntrico,Argentina
+Argentina,0,3,0,2.5,Argentina,soberbio,1030,Argentina,soberbio,Argentina
+Argentina,0,3,0,2.5,Poland,knishes,1030,Poland,knishes,Poland
+Argentina,0,3,0,2.5,Argentina,Solidaridad,1030,Argentina,Solidaridad,Argentina
+Argentina,0,3,0,2.5,Argentina,gloria,1030,Argentina,gloria,Argentina
+Argentina,0,3,0,2.5,Germany,Ingenio,1030,Germany,Ingenio,Germany
+Argentina,0,3,0,2.5,Argentina,justicia social,1030,Argentina,justicia social,Argentina
+Uruguay,0,3,0,2.5,Uruguay,Viveza,160,Uruguay,Viveza,Uruguay
+Argentina,0,3,0,2.5,Argentina,Valores,1030,Argentina,Valores,Argentina
+Argentina,0,3,0,2.5,Argentina,asado,1030,Argentina,asado,Argentina
+Argentina,0,3,0,2.5,Paraguay,Verdulero,1030,Paraguay,Verdulero,Paraguay
+Argentina,0,3,0,2.5,Paraguay,imitaciones,1030,Paraguay,imitaciones,Paraguay
+Argentina,0,3,0,2.5,Chile,Hablar mal,1030,Chile,Hablar mal,Chile
+Chile,0,3,0,2.5,France,pesados,44,France,pesados,France
+Argentina,0,3,0,2.5,Japan,suicidas,1030,Japan,suicidas,Japan
+Argentina,0,3,0,2.5,Mexico,narcos,1030,Mexico,narcos,Mexico
+Argentina,0,3,0,2.5,Argentina,clase media educada,1030,Argentina,clase media educada,Argentina
+Argentina,0,3,0,2.5,Argentina,Soberanía,1030,Argentina,Soberanía,Argentina
+Argentina,0,3,0,2.5,Australia,Valientes,1030,Australia,Valientes,Australia
+Argentina,0,3,0,2.5,Argentina,Locura,1030,Argentina,Locura,Argentina
+Argentina,0,3,0,2.5,Argentina,compartir,1030,Argentina,compartir,Argentina
+Argentina,0,3,0,2.5,Argentina,diversidad,1030,Argentina,diversidad,Argentina
+Argentina,0,3,0,2.5,China,Fábrica,1030,China,Fábrica,China
+Argentina,0,3,0,2.5,Bangladesh,messi,1030,Bangladesh,messi,Bangladesh
+Argentina,0,3,0,2.5,Austria,fríos,1030,Austria,fríos,Austria
+Argentina,0,3,0,2.5,Austria,antipáticos,1030,Austria,antipáticos,Austria
+Uruguay,0,3,0,2.5,Switzerland,Secreto bancario,160,Switzerland,Secreto bancario,Switzerland
+Argentina,0,3,0,2.5,United Kingdom,la reina,1030,United Kingdom,la reina,United Kingdom
+Argentina,0,3,0,2.5,United Kingdom,cordialidad,1030,United Kingdom,cordialidad,United Kingdom
+Chile,0,3,0,2.5,United Kingdom,futbol,44,United Kingdom,futbol,United Kingdom
+Argentina,0,3,0,2.5,Brazil,Jogo bonito,1030,Brazil,Jogo bonito,Brazil
+Argentina,0,3,0,2.5,Argentina,fútbol,1030,Argentina,fútbol,Argentina
+Argentina,0,3,0,2.5,Argentina,asado,1030,Argentina,asado,Argentina
+Argentina,0,3,0,2.5,Argentina,racistas,1030,Argentina,racistas,Argentina
+Argentina,0,3,0,2.5,Argentina,humor,1030,Argentina,humor,Argentina
+Argentina,0,3,0,2.5,Malta,costo de vida alto,1030,Malta,costo de vida alto,Malta
+Argentina,0,3,0,2.5,Cuba,playas,1030,Cuba,playas,Cuba
+Argentina,0,3,0,2.5,Cuba,musica y baile,1030,Cuba,musica y baile,Cuba
+Argentina,0,3,0,2.5,Cuba,turismo,1030,Cuba,turismo,Cuba
+Argentina,0,3,0,2.5,Cuba,miami,1030,Cuba,miami,Cuba
+Argentina,0,3,0,2.5,Cuba,inmigrantes ilegales,1030,Cuba,inmigrantes ilegales,Cuba
+Argentina,0,3,0,2.5,Germany,Serios,1030,Germany,Serios,Germany
+Argentina,0,3,0,2.5,Mexico,Machismo,1030,Mexico,Machismo,Mexico
+Argentina,0,3,0,2.5,Argentina,Mate,1030,Argentina,Mate,Argentina
+Argentina,0,3,0,2.5,Bolivia,altura,1030,Bolivia,altura,Bolivia
+Uruguay,0,3,0,2.5,Switzerland,Estabilidad económica,160,Switzerland,Estabilidad económica,Switzerland
+Uruguay,0,3,0,2.5,Israel,Conservadores,160,Israel,Conservadores,Israel
+Argentina,0,3,0,2.5,Cambodia,forzudos,1030,Cambodia,forzudos,Cambodia
+Argentina,0,3,0,2.5,Bolivia,Cordiales,1030,Bolivia,Cordiales,Bolivia
+Argentina,0,3,0,2.5,Costa Rica,playa,1030,Costa Rica,playa,Costa Rica
+Argentina,0,3,0,2.5,Brazil,Gritones,1030,Brazil,Gritones,Brazil
+Argentina,0,3,0,2.5,Chad,pobreza toral,1030,Chad,pobreza toral,Chad
+Argentina,0,3,0,2.5,Argentina,Sociable,1030,Argentina,Sociable,Argentina
+Argentina,0,3,0,2.5,Uruguay,Caro,1030,Uruguay,Caro,Uruguay
+Argentina,0,3,0,2.5,Uruguay,mucha plata,1030,Uruguay,mucha plata,Uruguay
+Argentina,0,3,0,2.5,Chile,cipayismo,1030,Chile,cipayismo,Chile
+Argentina,0,3,0,2.5,Argentina,personas muy sociables,1030,Argentina,personas muy sociables,Argentina
+Argentina,0,3,0,2.5,China,inteligencia,1030,China,inteligencia,China
+Argentina,0,3,0,2.5,Colombia,café,1030,Colombia,café,Colombia
+Argentina,0,3,0,2.5,Colombia,arepa,1030,Colombia,arepa,Colombia
+Argentina,0,3,0,2.5,Finland,poco sociables,1030,Finland,poco sociables,Finland
+Argentina,0,3,0,2.5,Germany,malos,1030,Germany,malos,Germany
+Argentina,0,3,0,2.5,Brazil,futbol,1030,Brazil,futbol,Brazil
+Argentina,0,3,0,2.5,Brazil,capoeira,1030,Brazil,capoeira,Brazil
+Argentina,0,3,0,2.5,Brazil,playa,1030,Brazil,playa,Brazil
+Argentina,0,3,0,2.5,Brazil,musica,1030,Brazil,musica,Brazil
+Argentina,0,3,0,2.5,Brazil,alegria,1030,Brazil,alegria,Brazil
+Argentina,0,3,0,2.5,Antigua and Barbuda,playa,1030,Antigua and Barbuda,playa,Antigua and Barbuda
+Argentina,0,3,0,2.5,Qatar,Petrolero,1030,Qatar,Petrolero,Qatar
+Chile,0,3,0,2.5,Cuba,bailarines,44,Cuba,bailarines,Cuba
+Argentina,0,3,0,2.5,Germany,puntualidad,1030,Germany,puntualidad,Germany
+Argentina,0,3,0,2.5,Germany,severidad,1030,Germany,severidad,Germany
+Argentina,0,3,0,2.5,Germany,autoritarismo,1030,Germany,autoritarismo,Germany
+Argentina,0,3,0,2.5,Germany,inflexibilidad,1030,Germany,inflexibilidad,Germany
+Argentina,0,3,0,2.5,Germany,rigidez,1030,Germany,rigidez,Germany
+Uruguay,0,3,0,2.5,Mexico,Gringos Wannabe,160,Mexico,Gringos Wannabe,Mexico
+Peru,0,3,0,2.5,Peru,Turismo,20,Peru,Turismo,Peru
+Argentina,0,3,0,2.5,France,perfume,1030,France,perfume,France
+Argentina,0,3,0,2.5,Colombia,Narcotrafico,1030,Colombia,Narcotrafico,Colombia
+Argentina,0,3,0,2.5,Colombia,operaciones,1030,Colombia,operaciones,Colombia
+Argentina,0,3,0,2.5,Colombia,merengue,1030,Colombia,merengue,Colombia
+Argentina,0,3,0,2.5,China,campesinos,1030,China,campesinos,China
+Argentina,0,3,0,2.5,Argentina,movilizacion social,1030,Argentina,movilizacion social,Argentina
+Chile,0,3,0,2.5,Brazil,desorden,44,Brazil,desorden,Brazil
+Argentina,0,3,0,2.5,Brazil,calor,1030,Brazil,calor,Brazil
+Uruguay,0,3,0,2.5,Uruguay,torta frita,160,Uruguay,torta frita,Uruguay
+Argentina,0,3,0,2.5,Mexico,carnaval,1030,Mexico,carnaval,Mexico
+Argentina,0,3,0,2.5,Mexico,fiesta,1030,Mexico,fiesta,Mexico
+Argentina,0,3,0,2.5,Mexico,dia de los muertos,1030,Mexico,dia de los muertos,Mexico
+Chile,0,3,0,2.5,United States,tiroteos,44,United States,tiroteos,United States
+Argentina,0,3,0,2.5,Argentina,futbol,1030,Argentina,futbol,Argentina
+Argentina,0,3,0,2.5,Argentina,inflacion,1030,Argentina,inflacion,Argentina
+Argentina,0,3,0,2.5,Argentina,mal humor,1030,Argentina,mal humor,Argentina
+Uruguay,0,3,0,2.5,Venezuela,baile,160,Venezuela,baile,Venezuela
+Argentina,0,3,0,2.5,Switzerland,Aburrido,1030,Switzerland,Aburrido,Switzerland
+Argentina,0,3,0,2.5,Germany,Nasheeee,1030,Germany,Nasheeee,Germany
+Argentina,0,3,0,2.5,Argentina,amables,1030,Argentina,amables,Argentina
+Argentina,0,3,0,2.5,Argentina,amistosos,1030,Argentina,amistosos,Argentina
+Argentina,0,3,0,2.5,Argentina,agrandados,1030,Argentina,agrandados,Argentina
+Argentina,0,3,0,2.5,Argentina,soberbios,1030,Argentina,soberbios,Argentina
+Argentina,0,3,0,2.5,Argentina,cafe,1030,Argentina,cafe,Argentina
+Peru,0,3,0,2.5,Mexico,Comida,20,Mexico,Comida,Mexico
+Argentina,0,3,0,2.5,Iraq,milenario,1030,Iraq,milenario,Iraq
+Argentina,0,3,0,2.5,Japan,Anime,1030,Japan,Anime,Japan
+Argentina,0,3,0,2.5,Japan,vestimenta,1030,Japan,vestimenta,Japan
+Argentina,0,3,0,2.5,Japan,cultura,1030,Japan,cultura,Japan
+Argentina,0,3,0,2.5,Japan,gatos,1030,Japan,gatos,Japan
+Argentina,0,3,0,2.5,Italy,historia,1030,Italy,historia,Italy
+Argentina,0,3,0,2.5,Uruguay,país caro,1030,Uruguay,país caro,Uruguay
+Argentina,0,3,0,2.5,Peru,machu-pichu,1030,Peru,machu-pichu,Peru
+Argentina,0,3,0,2.5,Peru,ceviche,1030,Peru,ceviche,Peru
+Argentina,0,3,0,2.5,Peru,bolitas,1030,Peru,bolitas,Peru
+Argentina,0,3,0,2.5,Peru,trabajadoras,1030,Peru,trabajadoras,Peru
+Argentina,0,3,0,2.5,Argentina,astutos,1030,Argentina,astutos,Argentina
+Argentina,0,3,0,2.5,Argentina,habilidosos,1030,Argentina,habilidosos,Argentina
+Argentina,0,3,0,2.5,Argentina,Capos,1030,Argentina,Capos,Argentina
+Argentina,0,3,0,2.5,Peru,Ceviche,1030,Peru,Ceviche,Peru
+Argentina,0,3,0,2.5,Peru,comida,1030,Peru,comida,Peru
+Argentina,0,3,0,2.5,Peru,delito,1030,Peru,delito,Peru
+Argentina,0,3,0,2.5,Peru,drogas,1030,Peru,drogas,Peru
+Argentina,0,3,0,2.5,Switzerland,Puntuales,1030,Switzerland,Puntuales,Switzerland
+Argentina,0,3,0,2.5,Argentina,cabuleros,1030,Argentina,cabuleros,Argentina
+Argentina,0,3,0,2.5,Spain,xenofobia,1030,Spain,xenofobia,Spain
+Argentina,0,3,0,2.5,Bolivia,inmigración,1030,Bolivia,inmigración,Bolivia
+Argentina,0,3,0,2.5,Argentina,Futbol,1030,Argentina,Futbol,Argentina
+Argentina,0,3,0,2.5,Argentina,mate,1030,Argentina,mate,Argentina
+Argentina,0,3,0,2.5,Argentina,tango,1030,Argentina,tango,Argentina
+Argentina,0,3,0,2.5,Argentina,vanidad,1030,Argentina,vanidad,Argentina
+Argentina,0,3,0,2.5,Argentina,inmigración europea,1030,Argentina,inmigración europea,Argentina
+Argentina,0,3,0,2.5,Argentina,lunfardo,1030,Argentina,lunfardo,Argentina
+Argentina,0,3,0,2.5,Argentina,corrupción,1030,Argentina,corrupción,Argentina
+Argentina,0,3,0,2.5,Argentina,racismo,1030,Argentina,racismo,Argentina
+Chile,0,3,0,2.5,Peru,Trabajador,44,Peru,Trabajador,Peru
+Uruguay,0,3,0,2.5,Germany,Serios,160,Germany,Serios,Germany
+Argentina,0,3,0,2.5,Dominican Republic,Comida rica,1030,Dominican Republic,Comida rica,Dominican Republic
+Argentina,0,3,0,2.5,Norway,vikingos,1030,Norway,vikingos,Norway
+Argentina,0,3,0,2.5,Russia,Religión,1030,Russia,Religión,Russia
+Chile,0,3,0,2.5,Chile,leales,44,Chile,leales,Chile
+Argentina,0,3,0,2.5,United Kingdom,Elite,1030,United Kingdom,Elite,United Kingdom
+Argentina,0,3,0,2.5,Sweden,estrictos,1030,Sweden,estrictos,Sweden
+Argentina,0,3,0,2.5,United States,comida chatarra,1030,United States,comida chatarra,United States
+Uruguay,0,3,0,2.5,Uruguay,Soja,160,Uruguay,Soja,Uruguay
+Argentina,0,3,0,2.5,United States,Ladron,1030,United States,Ladron,United States
+Argentina,0,3,0,2.5,United States,buchon,1030,United States,buchon,United States
+Argentina,0,3,0,2.5,United States,invasor,1030,United States,invasor,United States
+Argentina,0,3,0,2.5,Argentina,los mejores del mundo,1030,Argentina,los mejores del mundo,Argentina
+Chile,0,3,0,2.5,Chile,calidos,44,Chile,calidos,Chile
+Argentina,0,3,0,2.5,Argentina,desigualdad,1030,Argentina,desigualdad,Argentina
+Argentina,0,3,0,2.5,Denmark,droga,1030,Denmark,droga,Denmark
+Argentina,0,3,0,2.5,Switzerland,montañas,1030,Switzerland,montañas,Switzerland
+Uruguay,0,3,0,2.5,India,Comida callejera,160,India,Comida callejera,India
+Argentina,0,3,0,2.5,Brazil,fulbo,1030,Brazil,fulbo,Brazil
+Uruguay,0,3,0,2.5,Haiti,pobreza,160,Haiti,pobreza,Haiti
+Chile,0,3,0,2.5,Venezuela,argentina,44,Venezuela,argentina,Venezuela
+Argentina,0,3,0,2.5,Colombia,Drogas,1030,Colombia,Drogas,Colombia
+Argentina,0,3,0,2.5,Switzerland,Orden,1030,Switzerland,Orden,Switzerland
+Argentina,0,3,0,2.5,Switzerland,puntualidad,1030,Switzerland,puntualidad,Switzerland
+Argentina,0,3,0,2.5,Switzerland,Relojes,1030,Switzerland,Relojes,Switzerland
+Argentina,0,3,0,2.5,Argentina,Gauchos,1030,Argentina,Gauchos,Argentina
+Argentina,0,3,0,2.5,Austria,Guerra,1030,Austria,Guerra,Austria
+Uruguay,0,3,0,2.5,Brazil,Religión,160,Brazil,Religión,Brazil
+Argentina,0,3,0,2.5,United Kingdom,Piratas,1030,United Kingdom,Piratas,United Kingdom
+Argentina,0,3,0,2.5,United Kingdom,Ladrones,1030,United Kingdom,Ladrones,United Kingdom
+Argentina,0,3,0,2.5,Chile,-Futbol,1030,Chile,-Futbol,Chile
+Argentina,0,3,0,2.5,Sweden,distantes,1030,Sweden,distantes,Sweden
+Argentina,0,3,0,2.5,Argentina,brasil,1030,Argentina,brasil,Argentina
+Argentina,0,3,0,2.5,United States,Ladron,1030,United States,Ladron,United States
+Argentina,0,3,0,2.5,United States,ignorante,1030,United States,ignorante,United States
+Argentina,0,3,0,2.5,France,amor por la comida,1030,France,amor por la comida,France
+Argentina,0,3,0,2.5,France,queso,1030,France,queso,France
+Argentina,0,3,0,2.5,France,pato,1030,France,pato,France
+Argentina,0,3,0,2.5,France,gourmet,1030,France,gourmet,France
+Argentina,0,3,0,2.5,Mexico,picante,1030,Mexico,picante,Mexico
+Argentina,0,3,0,2.5,Argentina,Cabuleros,1030,Argentina,Cabuleros,Argentina
+Argentina,0,3,0,2.5,Brazil,Deportivos,1030,Brazil,Deportivos,Brazil
+Chile,0,3,0,2.5,Chile,rico,44,Chile,rico,Chile
+Argentina,0,3,0,2.5,China,Negociadores,1030,China,Negociadores,China
+Argentina,0,3,0,2.5,China,trabajadores,1030,China,trabajadores,China
+Argentina,0,3,0,2.5,China,estudiosos,1030,China,estudiosos,China
+Argentina,0,3,0,2.5,Angola,Juegan en francia,1030,Angola,Juegan en francia,Angola
+Argentina,0,3,0,2.5,Argentina,Festejos,1030,Argentina,Festejos,Argentina
+Argentina,0,3,0,2.5,Switzerland,paraiso fiscal,1030,Switzerland,paraiso fiscal,Switzerland
+Argentina,0,3,0,2.5,Mexico,sociedad machista,1030,Mexico,sociedad machista,Mexico
+Argentina,0,3,0,2.5,Syria,Guerra,1030,Syria,Guerra,Syria
+Argentina,0,3,0,2.5,Monaco,riqueza,1030,Monaco,riqueza,Monaco
+Argentina,0,3,0,2.5,Monaco,derroche,1030,Monaco,derroche,Monaco
+Argentina,0,3,0,2.5,Monaco,celebridades,1030,Monaco,celebridades,Monaco
+Argentina,0,3,0,2.5,Monaco,nobleza,1030,Monaco,nobleza,Monaco
+Argentina,0,3,0,2.5,Monaco,clase alta,1030,Monaco,clase alta,Monaco
+Argentina,0,3,0,2.5,Monaco,exclusividad,1030,Monaco,exclusividad,Monaco
+Peru,0,3,0,2.5,Peru,Turismo,20,Peru,Turismo,Peru
+Argentina,0,3,0,2.5,Japan,respeto,1030,Japan,respeto,Japan
+Argentina,0,3,0,2.5,Japan,animé,1030,Japan,animé,Japan
+Argentina,0,3,0,2.5,Japan,meditación,1030,Japan,meditación,Japan
+Argentina,0,3,0,2.5,Japan,calma,1030,Japan,calma,Japan
+Argentina,0,3,0,2.5,Japan,trabajo,1030,Japan,trabajo,Japan
+Argentina,0,3,0,2.5,Paraguay,futbol papa,1030,Paraguay,futbol papa,Paraguay
+Argentina,0,3,0,2.5,Argentina,Creídos,1030,Argentina,Creídos,Argentina
+Argentina,0,3,0,2.5,Uruguay,agrandados,1030,Uruguay,agrandados,Uruguay
+Argentina,0,3,0,2.5,Argentina,Justicia social,1030,Argentina,Justicia social,Argentina
+Argentina,0,3,0,2.5,Argentina,Amistoso,1030,Argentina,Amistoso,Argentina
+Argentina,0,3,0,2.5,Argentina,engreídos,1030,Argentina,engreídos,Argentina
+Argentina,0,3,0,2.5,Canada,cordialidad,1030,Canada,cordialidad,Canada
+Argentina,0,3,0,2.5,Switzerland,chocolate,1030,Switzerland,chocolate,Switzerland
+Argentina,0,3,0,2.5,Spain,ingenuidad,1030,Spain,ingenuidad,Spain
+Argentina,0,3,0,2.5,France,uh la la,1030,France,uh la la,France
+Uruguay,0,3,0,2.5,Norway,Papeleras,160,Norway,Papeleras,Norway
+Uruguay,0,3,0,2.5,Norway,Celulosa,160,Norway,Celulosa,Norway
+Argentina,0,3,0,2.5,Chile,Amargos,1030,Chile,Amargos,Chile
+Uruguay,0,3,0,2.5,Uruguay,Caro,160,Uruguay,Caro,Uruguay
+France,0,3,0,2.5,France,chauvinismo,22,France,chauvinismo,France
+France,0,3,0,2.5,France,buena comida,22,France,buena comida,France
+France,0,3,0,2.5,France,vino,22,France,vino,France
+France,0,3,0,2.5,France,queso,22,France,queso,France
+Argentina,0,3,0,2.5,Brazil,Macaco,1030,Brazil,Macaco,Brazil
+Argentina,0,3,0,2.5,Russia,Vodka,1030,Russia,Vodka,Russia
+Argentina,0,3,0,2.5,Russia,osos,1030,Russia,osos,Russia
+Argentina,0,3,0,2.5,Russia,mujeres bellas,1030,Russia,mujeres bellas,Russia
+Argentina,0,3,0,2.5,Germany,nazis,1030,Germany,nazis,Germany
+Argentina,0,3,0,2.5,Germany,eficiencia,1030,Germany,eficiencia,Germany
+Argentina,0,3,0,2.5,Argentina,Cracks,1030,Argentina,Cracks,Argentina
+Chile,0,3,0,2.5,China,ricos,44,China,ricos,China
+Argentina,0,3,0,2.5,Japan,tecnologia del futuro,1030,Japan,tecnologia del futuro,Japan
+Argentina,0,3,0,2.5,Argentina,Justicia  CERO,1030,Argentina,Justicia  CERO,Argentina
+Argentina,0,3,0,2.5,Bahrain,Lujo,1030,Bahrain,Lujo,Bahrain
+Argentina,0,3,0,2.5,Brazil,alegria,1030,Brazil,alegria,Brazil
+Argentina,0,3,0,2.5,Argentina,Soberbios,1030,Argentina,Soberbios,Argentina
+Uruguay,0,3,0,2.5,Uruguay,Diplomacia,160,Uruguay,Diplomacia,Uruguay
+Argentina,0,3,0,2.5,Germany,apego a las reglas,1030,Germany,apego a las reglas,Germany
+Argentina,0,3,0,2.5,Mexico,comida picante,1030,Mexico,comida picante,Mexico
+Argentina,0,3,0,2.5,Mexico,mariachi,1030,Mexico,mariachi,Mexico
+Argentina,0,3,0,2.5,Mexico,sombreros,1030,Mexico,sombreros,Mexico
+Argentina,0,3,0,2.5,Mexico,refugiados,1030,Mexico,refugiados,Mexico
+Argentina,0,3,0,2.5,Mexico,cartel de drogas,1030,Mexico,cartel de drogas,Mexico
+Argentina,0,3,0,2.5,Afghanistan,desierto,1030,Afghanistan,desierto,Afghanistan
+Peru,0,3,0,2.5,Norway,Educación,20,Norway,Educación,Norway
+Argentina,0,3,0,2.5,Italy,cultura,1030,Italy,cultura,Italy
+Argentina,0,3,0,2.5,Argentina,Creídos,1030,Argentina,Creídos,Argentina
+Argentina,0,3,0,2.5,Japan,Tímidos,1030,Japan,Tímidos,Japan
+Argentina,0,3,0,2.5,Norway,haaland,1030,Norway,haaland,Norway
+Uruguay,0,3,0,2.5,Paraguay,Falsificaciones,160,Paraguay,Falsificaciones,Paraguay
+Argentina,0,3,0,2.5,Argentina,correctos,1030,Argentina,correctos,Argentina
+Argentina,0,3,0,2.5,Argentina,Aburridos,1030,Argentina,Aburridos,Argentina
+Argentina,0,3,0,2.5,Brazil,deporte,1030,Brazil,deporte,Brazil
+Peru,0,3,0,2.5,France,Comida,20,France,Comida,France
+Argentina,0,3,0,2.5,Japan,orden puntualidad,1030,Japan,orden puntualidad,Japan
+Argentina,0,3,0,2.5,Mexico,contaminación,1030,Mexico,contaminación,Mexico
+Argentina,0,3,0,2.5,Spain,carnívoro,1030,Spain,carnívoro,Spain
+Argentina,0,3,0,2.5,Germany,"gritones, temperamentales",1030,Germany,"gritones, temperamentales",Germany
+Argentina,0,3,0,2.5,Japan,detallista,1030,Japan,detallista,Japan
+Argentina,0,3,0,2.5,India,contaminación,1030,India,contaminación,India
+Argentina,0,3,0,2.5,Switzerland,Aburridos,1030,Switzerland,Aburridos,Switzerland
+Argentina,0,3,0,2.5,Argentina,mate,1030,Argentina,mate,Argentina
+Argentina,0,3,0,2.5,Argentina,nivel economico bajo,1030,Argentina,nivel economico bajo,Argentina
+Argentina,0,3,0,2.5,Switzerland,Tranquilos,1030,Switzerland,Tranquilos,Switzerland
+Argentina,0,3,0,2.5,Switzerland,Orden,1030,Switzerland,Orden,Switzerland
+Argentina,0,3,0,2.5,Germany,Orden,1030,Germany,Orden,Germany
+Argentina,0,3,0,2.5,Iceland,Nieve,1030,Iceland,Nieve,Iceland
+Argentina,0,3,0,2.5,Brazil,carnívoro,1030,Brazil,carnívoro,Brazil
+Peru,0,3,0,2.5,Canada,respetuoso,20,Canada,respetuoso,Canada
+Argentina,0,3,0,2.5,Argentina,Nacionalismoa,1030,Argentina,Nacionalismoa,Argentina
+Argentina,0,3,0,2.5,Germany,Nacionalismoa,1030,Germany,Nacionalismoa,Germany
+Argentina,0,3,0,2.5,United States,Nacionalismoa,1030,United States,Nacionalismoa,United States
+Argentina,0,3,0,2.5,Japan,"Tecnología, orden, futurista",1030,Japan,"Tecnología, orden, futurista",Japan
+Argentina,0,3,0,2.5,United States,carnívoro,1030,United States,carnívoro,United States
+Argentina,0,3,0,2.5,France,frios,1030,France,frios,France
+Argentina,0,3,0,2.5,Argentina,Tango - Asado - Futbol,1030,Argentina,Tango - Asado - Futbol,Argentina
+Argentina,0,3,0,2.5,China,Numerosos,1030,China,Numerosos,China
+Argentina,0,3,0,2.5,United States,consumismo,1030,United States,consumismo,United States
+Argentina,0,3,0,2.5,Brazil,Amigueros,1030,Brazil,Amigueros,Brazil
+Uruguay,0,3,0,2.5,Argentina,"Fútbol, amistad",160,Argentina,"Fútbol, amistad",Argentina
+Argentina,0,3,0,2.5,Palestine,VIOLENTOS,1030,Palestine,VIOLENTOS,Palestine
+Argentina,0,3,0,2.5,United States,contaminación,1030,United States,contaminación,United States
+Argentina,0,3,0,2.5,United States,Nacionalismoa,1030,United States,Nacionalismoa,United States
+Argentina,0,3,0,2.5,Israel,Judaismo,1030,Israel,Judaismo,Israel
+Argentina,0,3,0,2.5,Japan,sabios,1030,Japan,sabios,Japan
+Argentina,0,3,0,2.5,South Korea,sabios,1030,South Korea,sabios,South Korea
+Peru,0,3,0,2.5,Portugal,hablan portuguez,20,Portugal,hablan portuguez,Portugal
+Argentina,0,3,0,2.5,Brazil,carnaval,1030,Brazil,carnaval,Brazil
+Argentina,0,3,0,2.5,France,"cultura, arte, vestimentas",1030,France,"cultura, arte, vestimentas",France
+Argentina,0,3,0,2.5,Argentina,"cultura, arte, vestimentas",1030,Argentina,"cultura, arte, vestimentas",Argentina
+Argentina,0,3,0,2.5,Italy,"cultura, arte, vestimentas",1030,Italy,"cultura, arte, vestimentas",Italy
+Argentina,0,3,0,2.5,Paraguay,inmigrantes,1030,Paraguay,inmigrantes,Paraguay
+Argentina,0,3,0,2.5,Peru,inmigrantes,1030,Peru,inmigrantes,Peru
+Argentina,0,3,0,2.5,Mexico,inmigrantes,1030,Mexico,inmigrantes,Mexico
+Argentina,0,3,0,2.5,Türkiye,inmigrantes,1030,Türkiye,inmigrantes,Türkiye
+Argentina,0,3,0,2.5,Venezuela,inmigrantes,1030,Venezuela,inmigrantes,Venezuela
+Argentina,0,3,0,2.5,Japan,Mariscos,1030,Japan,Mariscos,Japan
+Uruguay,0,3,0,2.5,Congo Republic,miseria,160,Congo Republic,miseria,Congo Republic
+Uruguay,0,3,0,2.5,DR Congo,miseria,160,DR Congo,miseria,DR Congo
+Uruguay,0,3,0,2.5,Somalia,miseria,160,Somalia,miseria,Somalia
+Uruguay,0,3,0,2.5,Cote d'Ivoire,miseria,160,Cote d'Ivoire,miseria,Cote d'Ivoire
+Uruguay,0,3,0,2.5,Angola,miseria,160,Angola,miseria,Angola
+Chile,0,3,0,2.5,Venezuela,ruidoso,44,Venezuela,ruidoso,Venezuela
+Chile,0,3,0,2.5,Colombia,ruidoso,44,Colombia,ruidoso,Colombia
+Argentina,0,3,0,2.5,Peru,Cultura incaica,1030,Peru,Cultura incaica,Peru
+Argentina,0,3,0,2.5,Spain,"Mate, asado, empanadas, folklore, tango, cumbia",1030,Spain,"Mate, asado, empanadas, folklore, tango, cumbia",Spain
+Argentina,0,3,0,2.5,United States,Nacionalismoa,1030,United States,Nacionalismoa,United States
+Argentina,0,3,0,2.5,United States,consumismo,1030,United States,consumismo,United States
+Argentina,0,3,0,2.5,Argentina,Les gusta bailar,1030,Argentina,Les gusta bailar,Argentina
+Argentina,0,3,0,2.5,Cuba,Les gusta bailar,1030,Cuba,Les gusta bailar,Cuba
+Argentina,0,3,0,2.5,Spain,Les gusta bailar,1030,Spain,Les gusta bailar,Spain
+Uruguay,0,3,0,2.5,Argentina,Territorio extenso,160,Argentina,Territorio extenso,Argentina
+Uruguay,0,3,0,2.5,United States,Territorio extenso,160,United States,Territorio extenso,United States
+Uruguay,0,3,0,2.5,Russia,Territorio extenso,160,Russia,Territorio extenso,Russia
+Uruguay,0,3,0,2.5,Canada,Territorio extenso,160,Canada,Territorio extenso,Canada
+Argentina,0,3,0,2.5,Argentina,"Fútbol, amistad",1030,Argentina,"Fútbol, amistad",Argentina
+Argentina,0,3,0,2.5,Venezuela,Intensos,1030,Venezuela,Intensos,Venezuela
+Argentina,0,3,0,2.5,France,Amor,1030,France,Amor,France
+Argentina,0,3,0,2.5,Bolivia,"sometidos,calaldos",1030,Bolivia,"sometidos,calaldos",Bolivia
+Chile,0,3,0,2.5,Argentina,DEPORTE,44,Argentina,DEPORTE,Argentina
+Argentina,0,3,0,2.5,Ethiopia,Riquezas solo naturales,1030,Ethiopia,Riquezas solo naturales,Ethiopia
+France,0,3,0,2.5,Austria,montañas,22,Austria,montañas,Austria
+France,0,3,0,2.5,Norway,montañas,22,Norway,montañas,Norway
+Argentina,0,3,0,2.5,Argentina,trabajadores,1030,Argentina,trabajadores,Argentina
+Argentina,0,3,0,2.5,France,Egolatra,1030,France,Egolatra,France
+Argentina,0,3,0,2.5,United Arab Emirates,"Economia ligada al petroleo y finanzas , rascacielos modernos , formula !",1030,United Arab Emirates,"Economia ligada al petroleo y finanzas , rascacielos modernos , formula !",United Arab Emirates
+Argentina,0,3,0,2.5,Brazil,Alegre,1030,Brazil,Alegre,Brazil
+Argentina,0,3,0,2.5,Argentina,"Bailes, Mona Giménez, Fernet, ciudad de la Docta, Rodrigo, cultura de Barrio",1030,Argentina,"Bailes, Mona Giménez, Fernet, ciudad de la Docta, Rodrigo, cultura de Barrio",Argentina
+Argentina,0,3,0,2.5,United Kingdom,Aburridos,1030,United Kingdom,Aburridos,United Kingdom
+Argentina,0,3,0,2.5,Peru,gastronomía tradición,1030,Peru,gastronomía tradición,Peru
+Argentina,0,3,0,2.5,Venezuela,gastronomía tradición,1030,Venezuela,gastronomía tradición,Venezuela
+Argentina,0,3,0,2.5,Brazil,gastronomía tradición,1030,Brazil,gastronomía tradición,Brazil
+Uruguay,0,3,0,2.5,Greece,Mar,160,Greece,Mar,Greece
+Uruguay,0,3,0,2.5,Norway,Mar,160,Norway,Mar,Norway
+Uruguay,0,3,0,2.5,Sweden,Mar,160,Sweden,Mar,Sweden
+Argentina,0,3,0,2.5,Germany,arrogantes,1030,Germany,arrogantes,Germany
+Chile,0,3,0,2.5,Chile,Arquitectura colonial,44,Chile,Arquitectura colonial,Chile
+Chile,0,3,0,2.5,Argentina,Arquitectura colonial,44,Argentina,Arquitectura colonial,Argentina
+Chile,0,3,0,2.5,Panama,Arquitectura colonial,44,Panama,Arquitectura colonial,Panama
+Argentina,0,3,0,2.5,Mexico,"COMIDAS DELICIOSAS, CULTURA, COLOR, HISTORIA",1030,Mexico,"COMIDAS DELICIOSAS, CULTURA, COLOR, HISTORIA",Mexico
+Argentina,0,3,0,2.5,Peru,"COMIDAS DELICIOSAS, CULTURA, COLOR, HISTORIA",1030,Peru,"COMIDAS DELICIOSAS, CULTURA, COLOR, HISTORIA",Peru
+Argentina,0,3,0,2.5,Spain,presumido,1030,Spain,presumido,Spain
+Argentina,0,3,0,2.5,France,presumido,1030,France,presumido,France
+Argentina,0,3,0,2.5,Brazil,presumido,1030,Brazil,presumido,Brazil
+Argentina,0,3,0,2.5,United Kingdom,Egolatra,1030,United Kingdom,Egolatra,United Kingdom
+Argentina,0,3,0,2.5,United States,"patriotico, tradiciones",1030,United States,"patriotico, tradiciones",United States
+Argentina,0,3,0,2.5,Argentina,fabuleros,1030,Argentina,fabuleros,Argentina
+Argentina,0,3,0,2.5,Switzerland,Puntualidad,1030,Switzerland,Puntualidad,Switzerland
+Argentina,0,3,0,2.5,Argentina,Carnavales,1030,Argentina,Carnavales,Argentina
+Argentina,0,3,0,2.5,United States,presumido,1030,United States,presumido,United States
+Chile,0,3,0,2.5,France,TURISMO,44,France,TURISMO,France
+Chile,0,3,0,2.5,Greece,TURISMO,44,Greece,TURISMO,Greece
+Uruguay,0,3,0,2.5,Switzerland,alto nivel de vida,160,Switzerland,alto nivel de vida,Switzerland
+Uruguay,0,3,0,2.5,Austria,alto nivel de vida,160,Austria,alto nivel de vida,Austria
+Argentina,0,3,0,2.5,Brazil,Alegrìa,1030,Brazil,Alegrìa,Brazil
+Argentina,0,3,0,2.5,Peru,Hospitalidad. Patrimonio cultural,1030,Peru,Hospitalidad. Patrimonio cultural,Peru
+Argentina,0,3,0,2.5,Japan,"serios, aburridos, puntuales",1030,Japan,"serios, aburridos, puntuales",Japan
+Argentina,0,3,0,2.5,Liechtenstein,"serios, aburridos, puntuales",1030,Liechtenstein,"serios, aburridos, puntuales",Liechtenstein
+Argentina,0,3,0,2.5,Thailand,Desértico,1030,Thailand,Desértico,Thailand
+Argentina,0,3,0,2.5,Cuba,Les gusta bailar,1030,Cuba,Les gusta bailar,Cuba
+Argentina,0,3,0,2.5,United Kingdom,portuario,1030,United Kingdom,portuario,United Kingdom
+Argentina,0,3,0,2.5,Denmark,responsable s- trabajadores,1030,Denmark,responsable s- trabajadores,Denmark
+Argentina,0,3,0,2.5,Germany,responsable s- trabajadores,1030,Germany,responsable s- trabajadores,Germany
+Argentina,0,3,0,2.5,Japan,responsable s- trabajadores,1030,Japan,responsable s- trabajadores,Japan
+Argentina,0,3,0,2.5,United States,presumido,1030,United States,presumido,United States
+Argentina,0,3,0,2.5,Brazil,fabuleros,1030,Brazil,fabuleros,Brazil
+Uruguay,0,3,0,2.5,Argentina,"Futbol, recreación, actores.",160,Argentina,"Futbol, recreación, actores.",Argentina
+Argentina,0,3,0,2.5,United States,desigualdad social,1030,United States,desigualdad social,United States
+Argentina,0,3,0,2.5,Chad,pobreza,1030,Chad,pobreza,Chad
+Argentina,0,3,0,2.5,Dominican Republic,pobreza,1030,Dominican Republic,pobreza,Dominican Republic
+Argentina,0,3,0,2.5,DR Congo,pobreza,1030,DR Congo,pobreza,DR Congo
+Argentina,0,3,0,2.5,Cote d'Ivoire,pobreza,1030,Cote d'Ivoire,pobreza,Cote d'Ivoire
+Argentina,0,3,0,2.5,Costa Rica,pobreza,1030,Costa Rica,pobreza,Costa Rica
+Argentina,0,3,0,2.5,Congo Republic,pobreza,1030,Congo Republic,pobreza,Congo Republic
+Argentina,0,3,0,2.5,Cuba,pobreza,1030,Cuba,pobreza,Cuba
+Argentina,0,3,0,2.5,El Salvador,pobreza,1030,El Salvador,pobreza,El Salvador
+Argentina,0,3,0,2.5,Equatorial Guinea,pobreza,1030,Equatorial Guinea,pobreza,Equatorial Guinea
+Argentina,0,3,0,2.5,Brazil,"Fútbol, amistad",1030,Brazil,"Fútbol, amistad",Brazil
+Argentina,0,3,0,2.5,Uruguay,"Fútbol, amistad",1030,Uruguay,"Fútbol, amistad",Uruguay
+Argentina,0,3,0,2.5,Mexico,Egolatra,1030,Mexico,Egolatra,Mexico
+Argentina,0,3,0,2.5,Italy,fernet,1030,Italy,fernet,Italy
+Argentina,0,3,0,2.5,United States,spicy food,1030,United States,spicy food,United States
+Argentina,0,3,0,2.5,Germany,estabilidad económica,1030,Germany,estabilidad económica,Germany
+Argentina,0,3,0,2.5,Argentina,Amistad,1030,Argentina,Amistad,Argentina
+Chile,0,3,0,2.5,Brazil,"naturaleza, grandeza, emocion",44,Brazil,"naturaleza, grandeza, emocion",Brazil
+Argentina,0,3,0,2.5,Brazil,CALOR,1030,Brazil,CALOR,Brazil
+Argentina,0,3,0,2.5,Argentina,tarantella,1030,Argentina,tarantella,Argentina
+Argentina,0,3,0,2.5,United States,Vida rápida,1030,United States,Vida rápida,United States
+Argentina,0,3,0,2.5,United States,gloria,1030,United States,gloria,United States
+Uruguay,0,3,0,2.5,United States,"individualistas, cerrados",160,United States,"individualistas, cerrados",United States
+Argentina,0,3,0,2.5,Bolivia,"cultura, arte, vestimentas",1030,Bolivia,"cultura, arte, vestimentas",Bolivia
+Argentina,0,3,0,2.5,Peru,"cultura, arte, vestimentas",1030,Peru,"cultura, arte, vestimentas",Peru
+Argentina,0,3,0,2.5,Brazil,gloria,1030,Brazil,gloria,Brazil
+Uruguay,0,3,0,2.5,Argentina,"Al mal tiempo, un buen mate.",160,Argentina,"Al mal tiempo, un buen mate.",Argentina
+Peru,0,3,0,2.5,Argentina,Solidarios y trabajadores,20,Argentina,Solidarios y trabajadores,Argentina
+Argentina,0,3,0,2.5,United States,Nacionalistas,1030,United States,Nacionalistas,United States
+Argentina,0,3,0,2.5,Italy,fernet,1030,Italy,fernet,Italy
+Argentina,0,3,0,2.5,Switzerland,Limpieza,1030,Switzerland,Limpieza,Switzerland
+Argentina,0,3,0,2.5,Senegal,Vulnerabilidad,1030,Senegal,Vulnerabilidad,Senegal
+Argentina,0,3,0,2.5,Venezuela,Vulnerabilidad,1030,Venezuela,Vulnerabilidad,Venezuela
+Argentina,0,3,0,2.5,Spain,Conquista,1030,Spain,Conquista,Spain
+Argentina,0,3,0,2.5,France,Conquista,1030,France,Conquista,France
+Argentina,0,3,0,2.5,Papua New Guinea,MAGIA,1030,Papua New Guinea,MAGIA,Papua New Guinea
+Argentina,0,3,0,2.5,Brazil,felicidad,1030,Brazil,felicidad,Brazil
+Argentina,0,3,0,2.5,Germany,Reservados,1030,Germany,Reservados,Germany
+Uruguay,0,3,0,2.5,Spain,alto nivel de vida,160,Spain,alto nivel de vida,Spain
+Uruguay,0,3,0,2.5,Monaco,alto nivel de vida,160,Monaco,alto nivel de vida,Monaco
+Uruguay,0,3,0,2.5,Japan,alto nivel de vida,160,Japan,alto nivel de vida,Japan
+Uruguay,0,3,0,2.5,Germany,alto nivel de vida,160,Germany,alto nivel de vida,Germany
+Argentina,0,3,0,2.5,Cuba,ALEGRIA,1030,Cuba,ALEGRIA,Cuba
+Argentina,0,3,0,2.5,Mexico,Hospitalidad. Patrimonio cultural,1030,Mexico,Hospitalidad. Patrimonio cultural,Mexico
+Argentina,0,3,0,2.5,Argentina,empaticos,1030,Argentina,empaticos,Argentina
+Uruguay,0,3,0,2.5,Argentina,engreídos,160,Argentina,engreídos,Argentina
+Uruguay,0,3,0,2.5,United States,engreídos,160,United States,engreídos,United States
+Uruguay,0,3,0,2.5,France,engreídos,160,France,engreídos,France
+Uruguay,0,3,0,2.5,Brazil,engreídos,160,Brazil,engreídos,Brazil
+Argentina,0,3,0,2.5,Switzerland,AMABILIDAD,1030,Switzerland,AMABILIDAD,Switzerland
+Argentina,0,3,0,2.5,Argentina,baile,1030,Argentina,baile,Argentina
+Argentina,0,3,0,2.5,Spain,baile,1030,Spain,baile,Spain
+Argentina,0,3,0,2.5,Brazil,baile,1030,Brazil,baile,Brazil
+Argentina,0,3,0,2.5,Brazil,Arquitectura colonial,1030,Brazil,Arquitectura colonial,Brazil
+Uruguay,0,3,0,2.5,North Korea,diciplinados,160,North Korea,diciplinados,North Korea
+Uruguay,0,3,0,2.5,South Korea,diciplinados,160,South Korea,diciplinados,South Korea
+Argentina,0,3,0,2.5,Bolivia,nivel economico bajo,1030,Bolivia,nivel economico bajo,Bolivia
+Argentina,0,3,0,2.5,Cuba,nivel economico bajo,1030,Cuba,nivel economico bajo,Cuba
+Argentina,0,3,0,2.5,Guatemala,nivel economico bajo,1030,Guatemala,nivel economico bajo,Guatemala
+Argentina,0,3,0,2.5,Ghana,nivel economico bajo,1030,Ghana,nivel economico bajo,Ghana
+Argentina,0,3,0,2.5,Haiti,nivel economico bajo,1030,Haiti,nivel economico bajo,Haiti
+Argentina,0,3,0,2.5,Honduras,nivel economico bajo,1030,Honduras,nivel economico bajo,Honduras
+Argentina,0,3,0,2.5,El Salvador,nivel economico bajo,1030,El Salvador,nivel economico bajo,El Salvador
+Argentina,0,3,0,2.5,India,nivel economico bajo,1030,India,nivel economico bajo,India
+Argentina,0,3,0,2.5,Kenya,nivel economico bajo,1030,Kenya,nivel economico bajo,Kenya
+Argentina,0,3,0,2.5,Venezuela,nivel economico bajo,1030,Venezuela,nivel economico bajo,Venezuela
+Argentina,0,3,0,2.5,Zambia,nivel economico bajo,1030,Zambia,nivel economico bajo,Zambia
+Argentina,0,3,0,2.5,Yemen,nivel economico bajo,1030,Yemen,nivel economico bajo,Yemen
+Argentina,0,3,0,2.5,Syria,nivel economico bajo,1030,Syria,nivel economico bajo,Syria
+Argentina,0,3,0,2.5,Somalia,nivel economico bajo,1030,Somalia,nivel economico bajo,Somalia
+Argentina,0,3,0,2.5,United States,contaminación,1030,United States,contaminación,United States
+Argentina,0,3,0,2.5,Argentina,"diversion, placer",1030,Argentina,"diversion, placer",Argentina
+Argentina,0,3,0,2.5,Brazil,"diversion, placer",1030,Brazil,"diversion, placer",Brazil
+Argentina,0,3,0,2.5,China,Deporte,1030,China,Deporte,China
+Chile,0,3,0,2.5,Brazil,alegres,44,Brazil,alegres,Brazil
+France,0,3,0,2.5,Austria,Nacionalismoa,22,Austria,Nacionalismoa,Austria
+France,0,3,0,2.5,Switzerland,Nacionalismoa,22,Switzerland,Nacionalismoa,Switzerland
+France,0,3,0,2.5,Argentina,Nacionalismoa,22,Argentina,Nacionalismoa,Argentina
+France,0,3,0,2.5,Italy,Nacionalismoa,22,Italy,Nacionalismoa,Italy
+France,0,3,0,2.5,France,Nacionalismoa,22,France,Nacionalismoa,France
+Argentina,0,3,0,2.5,Brazil,Pasión por el futbol,1030,Brazil,Pasión por el futbol,Brazil
+Argentina,0,3,0,2.5,Argentina,Pasión por el futbol,1030,Argentina,Pasión por el futbol,Argentina
+Argentina,0,3,0,2.5,Panama,narco,1030,Panama,narco,Panama
+Argentina,0,3,0,2.5,France,marchas,1030,France,marchas,France
+Argentina,0,3,0,2.5,Costa Rica,"Solidaridad, amistad, cultura",1030,Costa Rica,"Solidaridad, amistad, cultura",Costa Rica
+Peru,0,3,0,2.5,United Kingdom,moda,20,United Kingdom,moda,United Kingdom
+Argentina,0,3,0,2.5,Chad,pobreza,1030,Chad,pobreza,Chad
+Argentina,0,3,0,2.5,Sweden,Rubia,1030,Sweden,Rubia,Sweden
+Argentina,0,3,0,2.5,Spain,"cultura, arte, vestimentas",1030,Spain,"cultura, arte, vestimentas",Spain
+Chile,0,3,0,2.5,Brazil,Grande,44,Brazil,Grande,Brazil
+Argentina,0,3,0,2.5,Brazil,"futbol, corrupcion",1030,Brazil,"futbol, corrupcion",Brazil
+Argentina,0,3,0,2.5,Mexico,"futbol, corrupcion",1030,Mexico,"futbol, corrupcion",Mexico
+Argentina,0,3,0,2.5,Colombia,"futbol, corrupcion",1030,Colombia,"futbol, corrupcion",Colombia
+Argentina,0,3,0,2.5,Spain,"Futbol, recreación, actores.",1030,Spain,"Futbol, recreación, actores.",Spain
+Argentina,0,3,0,2.5,Brazil,"Futbol, recreación, actores.",1030,Brazil,"Futbol, recreación, actores.",Brazil
+Argentina,0,3,0,2.5,Italy,"Futbol, recreación, actores.",1030,Italy,"Futbol, recreación, actores.",Italy
+Argentina,0,3,0,2.5,Spain,"Futbol, recreación, actores.",1030,Spain,"Futbol, recreación, actores.",Spain
+Argentina,0,3,0,2.5,United Arab Emirates,Petróleo,1030,United Arab Emirates,Petróleo,United Arab Emirates
+Uruguay,0,3,0,2.5,Bolivia,Pobreza,160,Bolivia,Pobreza,Bolivia
+Uruguay,0,3,0,2.5,Angola,Pobreza,160,Angola,Pobreza,Angola
+Uruguay,0,3,0,2.5,South Sudan,Pobreza,160,South Sudan,Pobreza,South Sudan
+Uruguay,0,3,0,2.5,Sudan,Pobreza,160,Sudan,Pobreza,Sudan
+Uruguay,0,3,0,2.5,Congo Republic,Pobreza,160,Congo Republic,Pobreza,Congo Republic
+Uruguay,0,3,0,2.5,DR Congo,Pobreza,160,DR Congo,Pobreza,DR Congo
+Uruguay,0,3,0,2.5,Malawi,Pobreza,160,Malawi,Pobreza,Malawi
+Uruguay,0,3,0,2.5,Morocco,Pobreza,160,Morocco,Pobreza,Morocco
+Uruguay,0,3,0,2.5,Botswana,Pobreza,160,Botswana,Pobreza,Botswana
+Argentina,0,3,0,2.5,Uruguay,"Inclusivo, nacionalismo",1030,Uruguay,"Inclusivo, nacionalismo",Uruguay
+Argentina,0,3,0,2.5,Japan,Prolijidad,1030,Japan,Prolijidad,Japan
+Argentina,0,3,0,2.5,Switzerland,puntualidad,1030,Switzerland,puntualidad,Switzerland
+Argentina,0,3,0,2.5,Spain,Arquitectura colonial,1030,Spain,Arquitectura colonial,Spain
+Argentina,0,3,0,2.5,Norway,NACIONALIDAD  ALEMANA----puntualidad disciplina organización,1030,Norway,NACIONALIDAD  ALEMANA----puntualidad disciplina organización,Norway
+Argentina,0,3,0,2.5,France,"Creido,Narigon",1030,France,"Creido,Narigon",France
+Argentina,0,3,0,2.5,Canada,inclusivo,1030,Canada,inclusivo,Canada
+Argentina,0,3,0,2.5,Netherlands,inclusivo,1030,Netherlands,inclusivo,Netherlands
+Argentina,0,3,0,2.5,Germany,inclusivo,1030,Germany,inclusivo,Germany
+Argentina,0,3,0,2.5,Argentina,Fultbolero,1030,Argentina,Fultbolero,Argentina
+Argentina,0,3,0,2.5,Paraguay,Fultbolero,1030,Paraguay,Fultbolero,Paraguay
+Argentina,0,3,0,2.5,Spain,Fultbolero,1030,Spain,Fultbolero,Spain
+Argentina,0,3,0,2.5,Brazil,"cultura, arte, vestimentas",1030,Brazil,"cultura, arte, vestimentas",Brazil
+Argentina,0,3,0,2.5,Italy,"Creido,Narigon",1030,Italy,"Creido,Narigon",Italy
+Uruguay,0,3,0,2.5,South Africa,Necesidad,160,South Africa,Necesidad,South Africa
+Uruguay,0,3,0,2.5,Argentina,"tango, mate, asado, futbol",160,Argentina,"tango, mate, asado, futbol",Argentina
+Argentina,0,3,0,2.5,Argentina,"Bailes, Mona Giménez, Fernet, ciudad de la Docta, Rodrigo, cultura de Barrio",1030,Argentina,"Bailes, Mona Giménez, Fernet, ciudad de la Docta, Rodrigo, cultura de Barrio",Argentina
+Argentina,0,3,0,2.5,Czechia,Antipáticos,1030,Czechia,Antipáticos,Czechia
+Argentina,0,3,0,2.5,Russia,Antipáticos,1030,Russia,Antipáticos,Russia
+Argentina,0,3,0,2.5,Argentina,relajados,1030,Argentina,relajados,Argentina
+Argentina,0,3,0,2.5,Colombia,relajados,1030,Colombia,relajados,Colombia
+Argentina,0,3,0,2.5,Malawi,relajados,1030,Malawi,relajados,Malawi
+Argentina,0,3,0,2.5,Fiji,relajados,1030,Fiji,relajados,Fiji
+Argentina,0,3,0,2.5,Australia,surf,1030,Australia,surf,Australia
+Argentina,0,3,0,2.5,United States,racismo,1030,United States,racismo,United States
+Argentina,0,3,0,2.5,Argentina,Solidaridad,1030,Argentina,Solidaridad,Argentina
+Peru,0,3,0,2.5,Dominican Republic,bailarines,20,Dominican Republic,bailarines,Dominican Republic
+Argentina,0,3,0,2.5,Brazil,"diversion, placer",1030,Brazil,"diversion, placer",Brazil
+Uruguay,0,3,0,2.5,Argentina,materos,160,Argentina,materos,Argentina
+Uruguay,0,3,0,2.5,Paraguay,materos,160,Paraguay,materos,Paraguay
+Argentina,0,3,0,2.5,Bangladesh,exclavitud,1030,Bangladesh,exclavitud,Bangladesh
+Argentina,0,3,0,2.5,Mexico,Ventajistas,1030,Mexico,Ventajistas,Mexico
+Argentina,0,3,0,2.5,United States,Ladrones,1030,United States,Ladrones,United States
+Argentina,0,3,0,2.5,Israel,Ladrones,1030,Israel,Ladrones,Israel
+Argentina,0,3,0,2.5,United Kingdom,Ladrones,1030,United Kingdom,Ladrones,United Kingdom
+Argentina,0,3,0,2.5,Italy,Creatividad. Solidadridad,1030,Italy,Creatividad. Solidadridad,Italy
+Uruguay,0,3,0,2.5,Chile,Mar,160,Chile,Mar,Chile
+Argentina,0,3,0,2.5,North Korea,otakus,1030,North Korea,otakus,North Korea
+Argentina,0,3,0,2.5,South Korea,otakus,1030,South Korea,otakus,South Korea
+Argentina,0,3,0,2.5,Argentina,charlas,1030,Argentina,charlas,Argentina
+Uruguay,0,3,0,2.5,Greece,Esculturas,160,Greece,Esculturas,Greece
+Argentina,0,3,0,2.5,Mexico,narcotraficanes,1030,Mexico,narcotraficanes,Mexico
+Argentina,0,3,0,2.5,China,Talento,1030,China,Talento,China
+Argentina,0,3,0,2.5,Japan,Talento,1030,Japan,Talento,Japan
+Argentina,0,3,0,2.5,United States,consumistas,1030,United States,consumistas,United States
+Argentina,0,3,0,2.5,Japan,consumistas,1030,Japan,consumistas,Japan
+Argentina,0,3,0,2.5,Italy,"Creido,Narigon",1030,Italy,"Creido,Narigon",Italy
+Chile,0,3,0,2.5,Mexico,Pluriculturalidad,44,Mexico,Pluriculturalidad,Mexico
+Argentina,0,3,0,2.5,Finland,calidad de vida,1030,Finland,calidad de vida,Finland
+Argentina,0,3,0,2.5,Uruguay,relajados,1030,Uruguay,relajados,Uruguay
+Argentina,0,3,0,2.5,Argentina,"Bailes, Mona Giménez, Fernet, ciudad de la Docta, Rodrigo, cultura de Barrio",1030,Argentina,"Bailes, Mona Giménez, Fernet, ciudad de la Docta, Rodrigo, cultura de Barrio",Argentina
+Argentina,0,3,0,2.5,Palestine,peligro,1030,Palestine,peligro,Palestine
+Argentina,0,3,0,2.5,Egypt,machismo,1030,Egypt,machismo,Egypt
+Argentina,0,3,0,2.5,Mexico,machismo,1030,Mexico,machismo,Mexico
+Argentina,0,3,0,2.5,Japan,machismo,1030,Japan,machismo,Japan
+Argentina,0,3,0,2.5,Germany,trabajadores y puntuales,1030,Germany,trabajadores y puntuales,Germany
+Argentina,0,3,0,2.5,Dominican Republic,Playas de aguas templadas,1030,Dominican Republic,Playas de aguas templadas,Dominican Republic
+Argentina,0,3,0,2.5,Russia,pocos amorosos,1030,Russia,pocos amorosos,Russia
+Argentina,0,3,0,2.5,Italy,creatividad,1030,Italy,creatividad,Italy
+Argentina,0,3,0,2.5,France,Manifestaciones,1030,France,Manifestaciones,France
+Argentina,0,3,0,2.5,Argentina,Manifestaciones,1030,Argentina,Manifestaciones,Argentina
+Argentina,0,3,0,2.5,France,engreídos,1030,France,engreídos,France
+Argentina,0,3,0,2.5,France,SIGLO XV,1030,France,SIGLO XV,France
+Argentina,0,3,0,2.5,Spain,SIGLO XV,1030,Spain,SIGLO XV,Spain
+Argentina,0,3,0,2.5,United Kingdom,SIGLO XV,1030,United Kingdom,SIGLO XV,United Kingdom
+Argentina,0,3,0,2.5,China,contaminación,1030,China,contaminación,China
+Argentina,0,3,0,2.5,India,contaminación,1030,India,contaminación,India
+Argentina,0,3,0,2.5,Russia,contaminación,1030,Russia,contaminación,Russia
+Chile,0,3,0,2.5,India,"amistosos, hospitalarios,serviciales",44,India,"amistosos, hospitalarios,serviciales",India
+Argentina,0,3,0,2.5,Cuba,Resiliencia,1030,Cuba,Resiliencia,Cuba
+Argentina,0,3,0,2.5,Iran,tradicionales,1030,Iran,tradicionales,Iran
+Argentina,0,3,0,2.5,Italy,trabajo todo el tiempo,1030,Italy,trabajo todo el tiempo,Italy
+Argentina,0,3,0,2.5,Egypt,anaconda,1030,Egypt,anaconda,Egypt
+Argentina,0,3,0,2.5,Brazil,relajados,1030,Brazil,relajados,Brazil
+Argentina,0,3,0,2.5,Japan,modernización,1030,Japan,modernización,Japan
+Argentina,0,3,0,2.5,France,modernización,1030,France,modernización,France
+Argentina,0,3,0,2.5,Luxembourg,modernización,1030,Luxembourg,modernización,Luxembourg
+Argentina,0,3,0,2.5,Germany,modernización,1030,Germany,modernización,Germany
+Argentina,0,3,0,2.5,Switzerland,modernización,1030,Switzerland,modernización,Switzerland
+Argentina,0,3,0,2.5,Uruguay,"sonrientes, respetuosos",1030,Uruguay,"sonrientes, respetuosos",Uruguay
+Argentina,0,3,0,2.5,United States,"racismo, guerra, discriminación, mala educación, egoísmo, béisbol, fútbol americano, basket, películas",1030,United States,"racismo, guerra, discriminación, mala educación, egoísmo, béisbol, fútbol americano, basket, películas",United States
+Argentina,0,3,0,2.5,Cuba,"Calidez, Ron",1030,Cuba,"Calidez, Ron",Cuba
+Argentina,0,3,0,2.5,Colombia,Manifestaciones,1030,Colombia,Manifestaciones,Colombia
+Argentina,0,3,0,2.5,Venezuela,Manifestaciones,1030,Venezuela,Manifestaciones,Venezuela
+Argentina,0,3,0,2.5,Colombia,Arepas,1030,Colombia,Arepas,Colombia
+Argentina,0,3,0,2.5,Argentina,narcotráfico,1030,Argentina,narcotráfico,Argentina
+Argentina,0,3,0,2.5,Colombia,narcotráfico,1030,Colombia,narcotráfico,Colombia
+Uruguay,0,3,0,2.5,Brazil,"solidarios, tranquilos",160,Brazil,"solidarios, tranquilos",Brazil
+Argentina,0,3,0,2.5,Uruguay,toman mate,1030,Uruguay,toman mate,Uruguay
+Argentina,0,3,0,2.5,Paraguay,toman mate,1030,Paraguay,toman mate,Paraguay
+Argentina,0,3,0,2.5,Brazil,toman mate,1030,Brazil,toman mate,Brazil
+Uruguay,0,3,0,2.5,Belarus,poco comunicativos,160,Belarus,poco comunicativos,Belarus
+Uruguay,0,3,0,2.5,Japan,poco comunicativos,160,Japan,poco comunicativos,Japan
+Uruguay,0,3,0,2.5,Russia,poco comunicativos,160,Russia,poco comunicativos,Russia
+Uruguay,0,3,0,2.5,Uruguay,Pasion por el futbol,160,Uruguay,Pasion por el futbol,Uruguay
+Uruguay,0,3,0,2.5,Argentina,Pasion por el futbol,160,Argentina,Pasion por el futbol,Argentina
+Uruguay,0,3,0,2.5,Brazil,Pasion por el futbol,160,Brazil,Pasion por el futbol,Brazil
+Uruguay,0,3,0,2.5,Spain,Pasion por el futbol,160,Spain,Pasion por el futbol,Spain
+Uruguay,0,3,0,2.5,France,Pasion por el futbol,160,France,Pasion por el futbol,France
+Uruguay,0,3,0,2.5,Germany,Pasion por el futbol,160,Germany,Pasion por el futbol,Germany
+Uruguay,0,3,0,2.5,Mexico,Pasion por el futbol,160,Mexico,Pasion por el futbol,Mexico
+Uruguay,0,3,0,2.5,Italy,Pasion por el futbol,160,Italy,Pasion por el futbol,Italy
+Argentina,0,3,0,2.5,Mexico,celebraciones,1030,Mexico,celebraciones,Mexico
+Argentina,0,3,0,2.5,Canada,Respeto,1030,Canada,Respeto,Canada
+Argentina,0,3,0,2.5,Colombia,quilombero,1030,Colombia,quilombero,Colombia
+Argentina,0,3,0,2.5,China,Talento,1030,China,Talento,China
+Argentina,0,3,0,2.5,Bolivia,trabajo todo el tiempo,1030,Bolivia,trabajo todo el tiempo,Bolivia
+Uruguay,0,3,0,2.5,Iraq,"pobreza, corrupción, guerra",160,Iraq,"pobreza, corrupción, guerra",Iraq
+Uruguay,0,3,0,2.5,Iran,"pobreza, corrupción, guerra",160,Iran,"pobreza, corrupción, guerra",Iran
+Uruguay,0,3,0,2.5,Palestine,"pobreza, corrupción, guerra",160,Palestine,"pobreza, corrupción, guerra",Palestine
+Uruguay,0,3,0,2.5,Syria,"pobreza, corrupción, guerra",160,Syria,"pobreza, corrupción, guerra",Syria
+Chile,0,3,0,2.5,Argentina,jodones,44,Argentina,jodones,Argentina
+Argentina,0,3,0,2.5,Spain,desempleo,1030,Spain,desempleo,Spain
+Argentina,0,3,0,2.5,Argentina,desempleo,1030,Argentina,desempleo,Argentina
+Argentina,0,3,0,2.5,Morocco,quilombero,1030,Morocco,quilombero,Morocco
+Argentina,0,3,0,2.5,Argentina,"Familia,trabajo",1030,Argentina,"Familia,trabajo",Argentina
+Argentina,0,3,0,2.5,Mexico,ritual religioso costumbre,1030,Mexico,ritual religioso costumbre,Mexico
+Argentina,0,3,0,2.5,Mexico,machismo,1030,Mexico,machismo,Mexico
+Argentina,0,3,0,2.5,Iran,religión,1030,Iran,religión,Iran
+Argentina,0,3,0,2.5,Colombia,cafe,1030,Colombia,cafe,Colombia
+Argentina,0,3,0,2.5,Brazil,cafe,1030,Brazil,cafe,Brazil
+Argentina,0,3,0,2.5,Venezuela,cafe,1030,Venezuela,cafe,Venezuela
+Argentina,0,3,0,2.5,Kenya,cafe,1030,Kenya,cafe,Kenya
+Argentina,0,3,0,2.5,Uruguay,el vocabulario floreado,1030,Uruguay,el vocabulario floreado,Uruguay
+Argentina,0,3,0,2.5,Brazil,gente alegre,1030,Brazil,gente alegre,Brazil
+Argentina,0,3,0,2.5,Brazil,quilombero,1030,Brazil,quilombero,Brazil
+Argentina,0,3,0,2.5,United Kingdom,SIGLO XV,1030,United Kingdom,SIGLO XV,United Kingdom
+Argentina,0,3,0,2.5,Spain,SIGLO XV,1030,Spain,SIGLO XV,Spain
+Argentina,0,3,0,2.5,France,Buen comer,1030,France,Buen comer,France
+Uruguay,0,3,0,2.5,Argentina,Pasion por el futbol,160,Argentina,Pasion por el futbol,Argentina
+Uruguay,0,3,0,2.5,Brazil,Pasion por el futbol,160,Brazil,Pasion por el futbol,Brazil
+Argentina,0,3,0,2.5,Argentina,Fulbol,1030,Argentina,Fulbol,Argentina
+Argentina,0,3,0,2.5,Uruguay,Fulbol,1030,Uruguay,Fulbol,Uruguay
+Argentina,0,3,0,2.5,Paraguay,Ladrones,1030,Paraguay,Ladrones,Paraguay
+Argentina,0,3,0,2.5,Bolivia,Ladrones,1030,Bolivia,Ladrones,Bolivia
+Argentina,0,3,0,2.5,Uruguay,Ladrones,1030,Uruguay,Ladrones,Uruguay
+Argentina,0,3,0,2.5,Chile,Ladrones,1030,Chile,Ladrones,Chile
+Argentina,0,3,0,2.5,Brazil,Ladrones,1030,Brazil,Ladrones,Brazil
+Argentina,0,3,0,2.5,Uruguay,materos,1030,Uruguay,materos,Uruguay
+Argentina,0,3,0,2.5,Thailand,lindos paisajes - turismo,1030,Thailand,lindos paisajes - turismo,Thailand
+Chile,0,3,0,2.5,China,Deporte,44,China,Deporte,China
+Argentina,0,3,0,2.5,Uruguay,"mate, futbol",1030,Uruguay,"mate, futbol",Uruguay
+Argentina,0,3,0,2.5,Switzerland,serios,1030,Switzerland,serios,Switzerland
+Argentina,0,3,0,2.5,Brazil,Vulnerabilidad,1030,Brazil,Vulnerabilidad,Brazil
+Argentina,0,3,0,2.5,Paraguay,Amistoso,1030,Paraguay,Amistoso,Paraguay
+Argentina,0,3,0,2.5,Italy,Narigon,1030,Italy,Narigon,Italy
+Argentina,0,3,0,2.5,Poland,estructurados,1030,Poland,estructurados,Poland
+Argentina,0,3,0,2.5,Italy,Narigon,1030,Italy,Narigon,Italy
+Argentina,0,3,0,2.5,Algeria,Narigon,1030,Algeria,Narigon,Algeria
+Argentina,0,3,0,2.5,Egypt,Narigon,1030,Egypt,Narigon,Egypt
+Argentina,0,3,0,2.5,Iran,Narigon,1030,Iran,Narigon,Iran
+Argentina,0,3,0,2.5,Mexico,pedantes,1030,Mexico,pedantes,Mexico
+Argentina,0,3,0,2.5,United Kingdom,pedantes,1030,United Kingdom,pedantes,United Kingdom
+Uruguay,0,3,0,2.5,Argentina,envidiosos,160,Argentina,envidiosos,Argentina
+Argentina,0,3,0,2.5,Brazil,Pasion por el futbol,1030,Brazil,Pasion por el futbol,Brazil
+Argentina,0,3,0,2.5,Spain,Pasion por el futbol,1030,Spain,Pasion por el futbol,Spain
+Argentina,0,3,0,2.5,South Korea,diciplina,1030,South Korea,diciplina,South Korea
+Argentina,0,3,0,2.5,Brazil,quilombero,1030,Brazil,quilombero,Brazil
+Argentina,0,3,0,2.5,Sweden,RUBIOS,1030,Sweden,RUBIOS,Sweden
+Argentina,0,3,0,2.5,Colombia,narcotráfico,1030,Colombia,narcotráfico,Colombia
+Argentina,0,3,0,2.5,Venezuela,narcotráfico,1030,Venezuela,narcotráfico,Venezuela
+Argentina,0,3,0,2.5,United States,narcotráfico,1030,United States,narcotráfico,United States
+Argentina,0,3,0,2.5,Colombia,narcotráfico,1030,Colombia,narcotráfico,Colombia
+Argentina,0,3,0,2.5,Peru,"religion, comidas tipicas, danzas, cultura",1030,Peru,"religion, comidas tipicas, danzas, cultura",Peru
+Argentina,0,3,0,2.5,Mexico,"religion, comidas tipicas, danzas, cultura",1030,Mexico,"religion, comidas tipicas, danzas, cultura",Mexico
+Argentina,0,3,0,2.5,Bolivia,muchas crisis economicas,1030,Bolivia,muchas crisis economicas,Bolivia
+Argentina,0,3,0,2.5,Venezuela,muchas crisis economicas,1030,Venezuela,muchas crisis economicas,Venezuela
+Argentina,0,3,0,2.5,Greece,muchas crisis economicas,1030,Greece,muchas crisis economicas,Greece
+Uruguay,0,3,0,2.5,Colombia,tranquilidad,160,Colombia,tranquilidad,Colombia
+Argentina,0,3,0,2.5,Venezuela,"corrupcion, futbol",1030,Venezuela,"corrupcion, futbol",Venezuela
+Argentina,0,3,0,2.5,Spain,"Familia,trabajo",1030,Spain,"Familia,trabajo",Spain
+Argentina,0,3,0,2.5,Bolivia,Cosmovisión andina,1030,Bolivia,Cosmovisión andina,Bolivia
+Argentina,0,3,0,2.5,Chile,Cosmovisión andina,1030,Chile,Cosmovisión andina,Chile
+Argentina,0,3,0,2.5,Peru,Cosmovisión andina,1030,Peru,Cosmovisión andina,Peru
+Argentina,0,3,0,2.5,Uruguay,Ladrones,1030,Uruguay,Ladrones,Uruguay
+Chile,0,3,0,2.5,Chile,borrachos,44,Chile,borrachos,Chile
+Argentina,0,3,0,2.5,United States,desarrollado,1030,United States,desarrollado,United States
+Argentina,0,3,0,2.5,Argentina,"Bailes, folclore.",1030,Argentina,"Bailes, folclore.",Argentina
+Argentina,0,3,0,2.5,Congo Republic,muchas crisis economicas,1030,Congo Republic,muchas crisis economicas,Congo Republic
+Argentina,0,3,0,2.5,Argentina,Limpios,1030,Argentina,Limpios,Argentina
+Argentina,0,3,0,2.5,France,"Creido,Narigon",1030,France,"Creido,Narigon",France
+Argentina,0,3,0,2.5,Uruguay,"mate, futbol",1030,Uruguay,"mate, futbol",Uruguay
+Argentina,0,3,0,2.5,Germany,Fútbol,1030,Germany,Fútbol,Germany
+Argentina,0,3,0,2.5,Italy,Fútbol,1030,Italy,Fútbol,Italy
+Argentina,0,3,0,2.5,Argentina,Fútbol,1030,Argentina,Fútbol,Argentina
+Argentina,0,3,0,2.5,Uruguay,Fútbol,1030,Uruguay,Fútbol,Uruguay
+Argentina,0,3,0,2.5,Morocco,Fútbol,1030,Morocco,Fútbol,Morocco
+Argentina,0,3,0,2.5,Japan,Talento,1030,Japan,Talento,Japan
+Argentina,0,3,0,2.5,Brazil,Pasional,1030,Brazil,Pasional,Brazil
+Argentina,0,3,0,2.5,Argentina,"amistosos, generosos,",1030,Argentina,"amistosos, generosos,",Argentina
+Argentina,0,3,0,2.5,Germany,Individualidad,1030,Germany,Individualidad,Germany
+Argentina,0,3,0,2.5,United States,Individualidad,1030,United States,Individualidad,United States
+Argentina,0,3,0,2.5,Brazil,"Pasión por los deportes, campeones",1030,Brazil,"Pasión por los deportes, campeones",Brazil
+Uruguay,0,3,0,2.5,Japan,"Educados, respetuosos",160,Japan,"Educados, respetuosos",Japan
+Uruguay,0,3,0,2.5,Sweden,"Educados, respetuosos",160,Sweden,"Educados, respetuosos",Sweden
+Argentina,0,3,0,2.5,Argentina,chimentos,1030,Argentina,chimentos,Argentina
+Chile,0,3,0,2.5,Germany,"Educación, progreso, puntualidad",44,Germany,"Educación, progreso, puntualidad",Germany
+Argentina,0,3,0,2.5,Norway,elegantes robustos inelectuales,1030,Norway,elegantes robustos inelectuales,Norway
+Argentina,0,3,0,2.5,Colombia,calido,1030,Colombia,calido,Colombia
+Argentina,0,3,0,2.5,Ecuador,calido,1030,Ecuador,calido,Ecuador
+Argentina,0,3,0,2.5,Peru,calido,1030,Peru,calido,Peru
+Argentina,0,3,0,2.5,Paraguay,calido,1030,Paraguay,calido,Paraguay
+Argentina,0,3,0,2.5,Brazil,"compañerismo, generosos, vanidosos, agrandados, el mejor pais del mundo",1030,Brazil,"compañerismo, generosos, vanidosos, agrandados, el mejor pais del mundo",Brazil
+Argentina,0,3,0,2.5,Italy,"corrupcion, futbol",1030,Italy,"corrupcion, futbol",Italy
+Argentina,0,3,0,2.5,Argentina,elegante,1030,Argentina,elegante,Argentina
+Argentina,0,3,0,2.5,Argentina,"HOSPITALIDAD, SOLIDARIOS, PASION, RESILENCIA",1030,Argentina,"HOSPITALIDAD, SOLIDARIOS, PASION, RESILENCIA",Argentina
+Argentina,0,3,0,2.5,Uruguay,"HOSPITALIDAD, SOLIDARIOS, PASION, RESILENCIA",1030,Uruguay,"HOSPITALIDAD, SOLIDARIOS, PASION, RESILENCIA",Uruguay
+Argentina,0,3,0,2.5,United States,impuestos bajos,1030,United States,impuestos bajos,United States
+Argentina,0,3,0,2.5,Argentina,pedantes,1030,Argentina,pedantes,Argentina
+Argentina,0,3,0,2.5,Argentina,Córdoba La Docta,1030,Argentina,Córdoba La Docta,Argentina
+Uruguay,0,3,0,2.5,North Korea,higiene,160,North Korea,higiene,North Korea
+Uruguay,0,3,0,2.5,South Korea,higiene,160,South Korea,higiene,South Korea
+Uruguay,0,3,0,2.5,Uruguay,Vacas,160,Uruguay,Vacas,Uruguay
+Argentina,0,3,0,2.5,Germany,borrachos,1030,Germany,borrachos,Germany
+Argentina,0,3,0,2.5,Angola,Pobreza,1030,Angola,Pobreza,Angola
+Argentina,0,3,0,2.5,Cabo Verde,Pobreza,1030,Cabo Verde,Pobreza,Cabo Verde
+Argentina,0,3,0,2.5,India,Pobreza,1030,India,Pobreza,India
+Argentina,0,3,0,2.5,Brazil,"Afición, pasión, identidad, deportes",1030,Brazil,"Afición, pasión, identidad, deportes",Brazil
+Argentina,0,3,0,2.5,Cuba,pobreza,1030,Cuba,pobreza,Cuba
+Argentina,0,3,0,2.5,Nicaragua,pobreza,1030,Nicaragua,pobreza,Nicaragua
+Argentina,0,3,0,2.5,Argentina,CULINARIO,1030,Argentina,CULINARIO,Argentina
+Argentina,0,3,0,2.5,Argentina,pobreza,1030,Argentina,pobreza,Argentina
+Argentina,0,3,0,2.5,Mexico,"Familia,trabajo",1030,Mexico,"Familia,trabajo",Mexico
+Argentina,0,3,0,2.5,Peru,"Familia,trabajo",1030,Peru,"Familia,trabajo",Peru
+Argentina,0,3,0,2.5,India,insalubre,1030,India,insalubre,India
+Argentina,0,3,0,2.5,Uruguay,calido,1030,Uruguay,calido,Uruguay
+Argentina,0,3,0,2.5,Mexico,Historia - cultura milenaria - turismo,1030,Mexico,Historia - cultura milenaria - turismo,Mexico
+Argentina,0,3,0,2.5,Argentina,Mate,1030,Argentina,Mate,Argentina
+Argentina,0,3,0,2.5,Brazil,Falta de educación,1030,Brazil,Falta de educación,Brazil
+Argentina,0,3,0,2.5,Bahamas,gloria,1030,Bahamas,gloria,Bahamas
+Argentina,0,3,0,2.5,Argentina,asado,1030,Argentina,asado,Argentina
+Argentina,0,3,0,2.5,Argentina,"batucada, festejos de año nuevo",1030,Argentina,"batucada, festejos de año nuevo",Argentina
+Argentina,0,3,0,2.5,Uruguay,"batucada, festejos de año nuevo",1030,Uruguay,"batucada, festejos de año nuevo",Uruguay
+Argentina,0,3,0,2.5,Chile,Frios,1030,Chile,Frios,Chile
+Argentina,0,3,0,2.5,Mozambique,porbreza,1030,Mozambique,porbreza,Mozambique
+Argentina,0,3,0,2.5,Venezuela,porbreza,1030,Venezuela,porbreza,Venezuela
+Argentina,0,3,0,2.5,Brazil,Mar turquesa,1030,Brazil,Mar turquesa,Brazil
+Argentina,0,3,0,2.5,Italy,Mar turquesa,1030,Italy,Mar turquesa,Italy
+Uruguay,0,3,0,2.5,Finland,amable,160,Finland,amable,Finland
+Uruguay,0,3,0,2.5,Singapore,amable,160,Singapore,amable,Singapore
+Argentina,0,3,0,2.5,United Arab Emirates,adinerados,1030,United Arab Emirates,adinerados,United Arab Emirates
+Argentina,0,3,0,2.5,Sweden,Seguridad,1030,Sweden,Seguridad,Sweden
+Argentina,0,3,0,2.5,Norway,Seguridad,1030,Norway,Seguridad,Norway
+Argentina,0,3,0,2.5,Finland,Seguridad,1030,Finland,Seguridad,Finland
+Argentina,0,3,0,2.5,Netherlands,Seguridad,1030,Netherlands,Seguridad,Netherlands
+Argentina,0,3,0,2.5,Switzerland,Seguridad,1030,Switzerland,Seguridad,Switzerland
+Uruguay,0,3,0,2.5,Switzerland,GENTE CON ALTO PODER ADQUISITIVO,160,Switzerland,GENTE CON ALTO PODER ADQUISITIVO,Switzerland
+Uruguay,0,3,0,2.5,Germany,GENTE CON ALTO PODER ADQUISITIVO,160,Germany,GENTE CON ALTO PODER ADQUISITIVO,Germany
+Uruguay,0,3,0,2.5,Japan,GENTE CON ALTO PODER ADQUISITIVO,160,Japan,GENTE CON ALTO PODER ADQUISITIVO,Japan
+Uruguay,0,3,0,2.5,Luxembourg,GENTE CON ALTO PODER ADQUISITIVO,160,Luxembourg,GENTE CON ALTO PODER ADQUISITIVO,Luxembourg
+Uruguay,0,3,0,2.5,Brazil,Celebración,160,Brazil,Celebración,Brazil
+Peru,0,3,0,2.5,Italy,Comidas típicas,20,Italy,Comidas típicas,Italy
+Argentina,0,3,0,2.5,Germany,limpieza,1030,Germany,limpieza,Germany
+Argentina,0,3,0,2.5,Austria,limpieza,1030,Austria,limpieza,Austria
+Argentina,0,3,0,2.5,Netherlands,limpieza,1030,Netherlands,limpieza,Netherlands
+Argentina,0,3,0,2.5,Argentina,Mate,1030,Argentina,Mate,Argentina
+Argentina,0,3,0,2.5,Japan,desarrollo tecnologico,1030,Japan,desarrollo tecnologico,Japan
+Argentina,0,3,0,2.5,Germany,desarrollo tecnologico,1030,Germany,desarrollo tecnologico,Germany
+Argentina,0,3,0,2.5,Germany,ciencia de calidad,1030,Germany,ciencia de calidad,Germany
+Argentina,0,3,0,2.5,France,ciencia de calidad,1030,France,ciencia de calidad,France
+Argentina,0,3,0,2.5,Brazil,ciencia de calidad,1030,Brazil,ciencia de calidad,Brazil
+Argentina,0,3,0,2.5,Peru,Gastronomía destacada,1030,Peru,Gastronomía destacada,Peru
+Argentina,0,3,0,2.5,Mexico,Gastronomía destacada,1030,Mexico,Gastronomía destacada,Mexico
+Uruguay,0,3,0,2.5,Argentina,Fulbol,160,Argentina,Fulbol,Argentina
+Uruguay,0,3,0,2.5,Brazil,Fulbol,160,Brazil,Fulbol,Brazil
+Argentina,0,3,0,2.5,Italy,Pastas,1030,Italy,Pastas,Italy
+Uruguay,0,3,0,2.5,Argentina,Vecinos,160,Argentina,Vecinos,Argentina
+Argentina,0,3,0,2.5,Brazil,personas muy sociables,1030,Brazil,personas muy sociables,Brazil
+Uruguay,0,3,0,2.5,Brazil,ALEGRES,160,Brazil,ALEGRES,Brazil
+Uruguay,0,3,0,2.5,Colombia,ALEGRES,160,Colombia,ALEGRES,Colombia
+Uruguay,0,3,0,2.5,Cuba,ALEGRES,160,Cuba,ALEGRES,Cuba
+Argentina,0,3,0,2.5,China,Progreso,1030,China,Progreso,China
+Argentina,0,3,0,2.5,France,idividualistas,1030,France,idividualistas,France
+Argentina,0,3,0,2.5,Germany,Frios/distantes,1030,Germany,Frios/distantes,Germany
+Argentina,0,3,0,2.5,Colombia,Amistoso,1030,Colombia,Amistoso,Colombia
+Peru,0,3,0,2.5,China,deportistas,20,China,deportistas,China
+Argentina,0,3,0,2.5,Argentina,"HOSPITALIDAD, SOLIDARIOS, PASION, RESILENCIA",1030,Argentina,"HOSPITALIDAD, SOLIDARIOS, PASION, RESILENCIA",Argentina
+Argentina,0,3,0,2.5,United States,belicosidad,1030,United States,belicosidad,United States
+Argentina,0,3,0,2.5,Israel,belicosidad,1030,Israel,belicosidad,Israel
+Argentina,0,3,0,2.5,Russia,belicosidad,1030,Russia,belicosidad,Russia
+Argentina,0,3,0,2.5,China,Tecnologia,1030,China,Tecnologia,China
+Argentina,0,3,0,2.5,Japan,trabajo todo el tiempo,1030,Japan,trabajo todo el tiempo,Japan
+Argentina,0,3,0,2.5,Brazil,optimistas,1030,Brazil,optimistas,Brazil
+Argentina,0,3,0,2.5,Bolivia,De contextura chica,1030,Bolivia,De contextura chica,Bolivia
+Argentina,0,3,0,2.5,Uruguay,Cracks,1030,Uruguay,Cracks,Uruguay
+Argentina,0,3,0,2.5,Brazil,Cracks,1030,Brazil,Cracks,Brazil
+Argentina,0,3,0,2.5,Chile,ciencia de calidad,1030,Chile,ciencia de calidad,Chile
+Argentina,0,3,0,2.5,Brazil,"playas, palmeras, felicidad, descanso",1030,Brazil,"playas, palmeras, felicidad, descanso",Brazil
+Argentina,0,3,0,2.5,Sweden,Rubia,1030,Sweden,Rubia,Sweden
+Argentina,0,3,0,2.5,Argentina,mal humorados,1030,Argentina,mal humorados,Argentina
+Argentina,0,3,0,2.5,Germany,esfuerzo,1030,Germany,esfuerzo,Germany
+Argentina,0,3,0,2.5,Japan,esfuerzo,1030,Japan,esfuerzo,Japan
+Argentina,0,3,0,2.5,Russia,esfuerzo,1030,Russia,esfuerzo,Russia
+Argentina,0,3,0,2.5,Italy,calido,1030,Italy,calido,Italy
+Argentina,0,3,0,2.5,Colombia,calido,1030,Colombia,calido,Colombia
+Argentina,0,3,0,2.5,Venezuela,calido,1030,Venezuela,calido,Venezuela
+Argentina,0,3,0,2.5,Paraguay,calido,1030,Paraguay,calido,Paraguay
+Argentina,0,3,0,2.5,Brazil,calido,1030,Brazil,calido,Brazil
+Uruguay,0,3,0,2.5,Switzerland,órden,160,Switzerland,órden,Switzerland
+Uruguay,0,3,0,2.5,France,órden,160,France,órden,France
+Argentina,0,3,0,2.5,Angola,bailarines,1030,Angola,bailarines,Angola
+Argentina,0,3,0,2.5,Russia,Frio,1030,Russia,Frio,Russia
+Argentina,0,3,0,2.5,France,arquitectura,1030,France,arquitectura,France
+Argentina,0,3,0,2.5,Spain,arquitectura,1030,Spain,arquitectura,Spain
+Argentina,0,3,0,2.5,Italy,arquitectura,1030,Italy,arquitectura,Italy
+Argentina,0,3,0,2.5,Greece,arquitectura,1030,Greece,arquitectura,Greece
+Argentina,0,3,0,2.5,Uruguay,Vecinos,1030,Uruguay,Vecinos,Uruguay
+Chile,0,3,0,2.5,Argentina,Traidores,44,Argentina,Traidores,Argentina
+Argentina,0,3,0,2.5,Haiti,abandono,1030,Haiti,abandono,Haiti
+Argentina,0,3,0,2.5,Germany,limpios,1030,Germany,limpios,Germany
+Argentina,0,3,0,2.5,Argentina,les gustA la diversion,1030,Argentina,les gustA la diversion,Argentina
+Uruguay,0,3,0,2.5,Argentina,toman mate,160,Argentina,toman mate,Argentina
+Uruguay,0,3,0,2.5,Paraguay,toman mate,160,Paraguay,toman mate,Paraguay
+Argentina,0,3,0,2.5,Argentina,amigos,1030,Argentina,amigos,Argentina
+Argentina,0,3,0,2.5,Norway,justicia social,1030,Norway,justicia social,Norway
+Argentina,0,3,0,2.5,Finland,justicia social,1030,Finland,justicia social,Finland
+Argentina,0,3,0,2.5,Sweden,justicia social,1030,Sweden,justicia social,Sweden
+Argentina,0,3,0,2.5,Italy,Universidades,1030,Italy,Universidades,Italy
+Argentina,0,3,0,2.5,United States,Universidades,1030,United States,Universidades,United States
+Argentina,0,3,0,2.5,Argentina,Universidades,1030,Argentina,Universidades,Argentina
+Argentina,0,3,0,2.5,Brazil,Universidades,1030,Brazil,Universidades,Brazil
+Argentina,0,3,0,2.5,Argentina,colorido,1030,Argentina,colorido,Argentina
+Argentina,0,3,0,2.5,Mexico,colorido,1030,Mexico,colorido,Mexico
+Argentina,0,3,0,2.5,Norway,Rico,1030,Norway,Rico,Norway
+Uruguay,0,3,0,2.5,South Africa,mortalidad infantil,160,South Africa,mortalidad infantil,South Africa
+Uruguay,0,3,0,2.5,Nigeria,mortalidad infantil,160,Nigeria,mortalidad infantil,Nigeria
+Uruguay,0,3,0,2.5,Cameroon,mortalidad infantil,160,Cameroon,mortalidad infantil,Cameroon
+Uruguay,0,3,0,2.5,Palestine,mortalidad infantil,160,Palestine,mortalidad infantil,Palestine
+Argentina,0,3,0,2.5,Argentina,divertido - alegre - fiesta,1030,Argentina,divertido - alegre - fiesta,Argentina
+Uruguay,0,3,0,2.5,Central African Republic,suciedad,160,Central African Republic,suciedad,Central African Republic
+Uruguay,0,3,0,2.5,Cuba,suciedad,160,Cuba,suciedad,Cuba
+Uruguay,0,3,0,2.5,South Sudan,suciedad,160,South Sudan,suciedad,South Sudan
+Uruguay,0,3,0,2.5,Sudan,suciedad,160,Sudan,suciedad,Sudan
+Uruguay,0,3,0,2.5,Guinea-Bissau,suciedad,160,Guinea-Bissau,suciedad,Guinea-Bissau
+Argentina,0,3,0,2.5,Greece,Arte,1030,Greece,Arte,Greece
+Argentina,0,3,0,2.5,United Kingdom,Ricos,1030,United Kingdom,Ricos,United Kingdom
+Argentina,0,3,0,2.5,Sweden,Ricos,1030,Sweden,Ricos,Sweden
+Argentina,0,3,0,2.5,Norway,Ricos,1030,Norway,Ricos,Norway
+Argentina,0,3,0,2.5,Argentina,Arrogantes,1030,Argentina,Arrogantes,Argentina
+Argentina,0,3,0,2.5,Greece,"futbol, inflacion",1030,Greece,"futbol, inflacion",Greece
+Argentina,0,3,0,2.5,Türkiye,"futbol, inflacion",1030,Türkiye,"futbol, inflacion",Türkiye
+Uruguay,0,3,0,2.5,Dominican Republic,Disfrute de la vida,160,Dominican Republic,Disfrute de la vida,Dominican Republic
+Uruguay,0,3,0,2.5,Costa Rica,Disfrute de la vida,160,Costa Rica,Disfrute de la vida,Costa Rica
+Uruguay,0,3,0,2.5,Colombia,Disfrute de la vida,160,Colombia,Disfrute de la vida,Colombia
+Uruguay,0,3,0,2.5,Jamaica,Disfrute de la vida,160,Jamaica,Disfrute de la vida,Jamaica
+Uruguay,0,3,0,2.5,Spain,Disfrute de la vida,160,Spain,Disfrute de la vida,Spain
+Argentina,0,3,0,2.5,Germany,pulcros,1030,Germany,pulcros,Germany
+Argentina,0,3,0,2.5,Switzerland,pulcros,1030,Switzerland,pulcros,Switzerland
+Argentina,0,3,0,2.5,Argentina,corrupcion,1030,Argentina,corrupcion,Argentina
+Argentina,0,3,0,2.5,United Kingdom,Cultos,1030,United Kingdom,Cultos,United Kingdom
+Argentina,0,3,0,2.5,United States,belicosidad,1030,United States,belicosidad,United States
+Argentina,0,3,0,2.5,France,ARTE,1030,France,ARTE,France
+Argentina,0,3,0,2.5,Chile,Traidores,1030,Chile,Traidores,Chile
+Argentina,0,3,0,2.5,Ghana,AMABILIDAD,1030,Ghana,AMABILIDAD,Ghana
+Argentina,0,3,0,2.5,Japan,modernización,1030,Japan,modernización,Japan
+Argentina,0,3,0,2.5,South Korea,modernización,1030,South Korea,modernización,South Korea
+Argentina,0,3,0,2.5,France,modernización,1030,France,modernización,France
+Argentina,0,3,0,2.5,Germany,modernización,1030,Germany,modernización,Germany
+Argentina,0,3,0,2.5,Switzerland,modernización,1030,Switzerland,modernización,Switzerland
+Argentina,0,3,0,2.5,Canada,modernización,1030,Canada,modernización,Canada
+Argentina,0,3,0,2.5,Palestine,SIn derechos humanos,1030,Palestine,SIn derechos humanos,Palestine
+Argentina,0,3,0,2.5,Italy,mal humor,1030,Italy,mal humor,Italy
+Uruguay,0,3,0,2.5,United States,modernización,160,United States,modernización,United States
+Argentina,0,3,0,2.5,Chile,Traidores,1030,Chile,Traidores,Chile
+Argentina,0,3,0,2.5,United Kingdom,Traidores,1030,United Kingdom,Traidores,United Kingdom
+Argentina,0,3,0,2.5,United States,Traidores,1030,United States,Traidores,United States
+Argentina,0,3,0,2.5,Argentina,asado,1030,Argentina,asado,Argentina
+Argentina,0,3,0,2.5,Israel,"pobreza, corrupción, guerra",1030,Israel,"pobreza, corrupción, guerra",Israel
+Argentina,0,3,0,2.5,Luxembourg,alto nivel de vida,1030,Luxembourg,alto nivel de vida,Luxembourg
+Argentina,0,3,0,2.5,Finland,alto nivel de vida,1030,Finland,alto nivel de vida,Finland
+Argentina,0,3,0,2.5,Sweden,alto nivel de vida,1030,Sweden,alto nivel de vida,Sweden
+Argentina,0,3,0,2.5,Norway,alto nivel de vida,1030,Norway,alto nivel de vida,Norway
+Peru,0,3,0,2.5,Argentina,hospitalaria,20,Argentina,hospitalaria,Argentina
+Argentina,0,3,0,2.5,Norway,"serios, aburridos, puntuales",1030,Norway,"serios, aburridos, puntuales",Norway
+Argentina,0,3,0,2.5,Argentina,multiculturales,1030,Argentina,multiculturales,Argentina
+Argentina,0,3,0,2.5,Mexico,Arrogantes,1030,Mexico,Arrogantes,Mexico
+Argentina,0,3,0,2.5,France,mal humor,1030,France,mal humor,France
+Argentina,0,3,0,2.5,Germany,mal humor,1030,Germany,mal humor,Germany
+Argentina,0,3,0,2.5,Brazil,Gente linda,1030,Brazil,Gente linda,Brazil
+Argentina,0,3,0,2.5,Russia,movilizacion social,1030,Russia,movilizacion social,Russia
+Argentina,0,3,0,2.5,Brazil,movilizacion social,1030,Brazil,movilizacion social,Brazil
+Argentina,0,3,0,2.5,Uruguay,movilizacion social,1030,Uruguay,movilizacion social,Uruguay
+Argentina,0,3,0,2.5,Chile,mal humor,1030,Chile,mal humor,Chile
+Argentina,0,3,0,2.5,Sweden,educacion,1030,Sweden,educacion,Sweden
+Argentina,0,3,0,2.5,Germany,Disciplinados,1030,Germany,Disciplinados,Germany
+Argentina,0,3,0,2.5,Argentina,calidos,1030,Argentina,calidos,Argentina
+Argentina,0,3,0,2.5,Uruguay,calidos,1030,Uruguay,calidos,Uruguay
+Argentina,0,3,0,2.5,Peru,religiosos cordiales alegres fiesteros,1030,Peru,religiosos cordiales alegres fiesteros,Peru
+Argentina,0,3,0,2.5,Colombia,religiosos cordiales alegres fiesteros,1030,Colombia,religiosos cordiales alegres fiesteros,Colombia
+Chile,0,3,0,2.5,Argentina,Fascismo,44,Argentina,Fascismo,Argentina
+Chile,0,3,0,2.5,Guatemala,Fascismo,44,Guatemala,Fascismo,Guatemala
+Argentina,0,3,0,2.5,France,Universidades,1030,France,Universidades,France
+Argentina,0,3,0,2.5,Switzerland,Universidades,1030,Switzerland,Universidades,Switzerland
+Argentina,0,3,0,2.5,Germany,Universidades,1030,Germany,Universidades,Germany
+Argentina,0,3,0,2.5,United States,Universidades,1030,United States,Universidades,United States
+Argentina,0,3,0,2.5,United Kingdom,Universidades,1030,United Kingdom,Universidades,United Kingdom
+Argentina,0,3,0,2.5,Italy,Universidades,1030,Italy,Universidades,Italy
+Argentina,0,3,0,2.5,Argentina,"astutos, habilidosos",1030,Argentina,"astutos, habilidosos",Argentina
+Uruguay,0,3,0,2.5,Finland,Bosques,160,Finland,Bosques,Finland
+Uruguay,0,3,0,2.5,Norway,Bosques,160,Norway,Bosques,Norway
+Argentina,0,3,0,2.5,Brazil,divertido - alegre - fiesta,1030,Brazil,divertido - alegre - fiesta,Brazil
+Argentina,0,3,0,2.5,Brazil,Festejos,1030,Brazil,Festejos,Brazil
+Uruguay,0,3,0,2.5,Switzerland,"Caro, mucha plata",160,Switzerland,"Caro, mucha plata",Switzerland
+France,0,3,0,2.5,United States,valores familiares,22,United States,valores familiares,United States
+France,0,3,0,2.5,Italy,valores familiares,22,Italy,valores familiares,Italy
+France,0,3,0,2.5,Greece,valores familiares,22,Greece,valores familiares,Greece
+France,0,3,0,2.5,Albania,valores familiares,22,Albania,valores familiares,Albania
+Argentina,0,3,0,2.5,Argentina,"Fútbol
+
+Messi
+
+Asado
+
+Mate
+
+Tango",1030,Argentina,"Fútbol
+
+Messi
+
+Asado
+
+Mate
+
+Tango",Argentina
+Argentina,0,3,0,2.5,China,Territorio extenso,1030,China,Territorio extenso,China
+Argentina,0,3,0,2.5,Argentina,Territorio extenso,1030,Argentina,Territorio extenso,Argentina
+Argentina,0,3,0,2.5,Russia,"severidad, autoritarismo",1030,Russia,"severidad, autoritarismo",Russia
+Argentina,0,3,0,2.5,China,"severidad, autoritarismo",1030,China,"severidad, autoritarismo",China
+Argentina,0,3,0,2.5,Italy,Fascismo,1030,Italy,Fascismo,Italy
+Argentina,0,3,0,2.5,Germany,Fascismo,1030,Germany,Fascismo,Germany
+Argentina,0,3,0,2.5,Japan,Fascismo,1030,Japan,Fascismo,Japan
+Argentina,0,3,0,2.5,Israel,Fascismo,1030,Israel,Fascismo,Israel
+Uruguay,0,3,0,2.5,Brazil,Lugar de vacaciones,160,Brazil,Lugar de vacaciones,Brazil
+Uruguay,0,3,0,2.5,France,Lugar de vacaciones,160,France,Lugar de vacaciones,France
+Uruguay,0,3,0,2.5,Spain,Lugar de vacaciones,160,Spain,Lugar de vacaciones,Spain
+Argentina,0,3,0,2.5,Argentina,Ingenioso,1030,Argentina,Ingenioso,Argentina
+Argentina,0,3,0,2.5,Colombia,calido,1030,Colombia,calido,Colombia
+Argentina,0,3,0,2.5,Venezuela,calido,1030,Venezuela,calido,Venezuela
+Argentina,0,3,0,2.5,Cuba,calido,1030,Cuba,calido,Cuba
+Uruguay,0,3,0,2.5,United States,Ladrones,160,United States,Ladrones,United States
+Argentina,0,3,0,2.5,United States,patriotismo,1030,United States,patriotismo,United States
+Argentina,0,3,0,2.5,Cuba,Salud,1030,Cuba,Salud,Cuba
+Argentina,0,3,0,2.5,India,pobreza egipto,1030,India,pobreza egipto,India
+Peru,0,3,0,2.5,United States,Responsables,20,United States,Responsables,United States
+Argentina,0,3,0,2.5,Argentina,buena pasteleria,1030,Argentina,buena pasteleria,Argentina
+Argentina,0,3,0,2.5,France,buena pasteleria,1030,France,buena pasteleria,France
+Argentina,0,3,0,2.5,Spain,Gauchos,1030,Spain,Gauchos,Spain
+Argentina,0,3,0,2.5,Peru,estafadores,1030,Peru,estafadores,Peru
+Argentina,0,3,0,2.5,Poland,Sustentabilidad,1030,Poland,Sustentabilidad,Poland
+Uruguay,0,3,0,2.5,Argentina,toman mate,160,Argentina,toman mate,Argentina
+Uruguay,0,3,0,2.5,Uruguay,toman mate,160,Uruguay,toman mate,Uruguay
